@@ -4,10 +4,10 @@
 
 **A continuación se presentan 10 trabajos desarrollados por estudiantes. Los trabajos están agrupados en TEMÁTICAS, y el nombre de cada trabajo es la SUBTEMÁTICA**:
 
-ANIMALES AMENAZADOS DE EXTINCIÓN QUE SON PROTEGIDOS EN EL BUINZOO: 
+PROGRAMAS ESPACIALES: 
 
-- [Siamang](https://siamang-infografia.github.io/final/)
-- [Hipopótamo pigmeo](https://hipopotamo-pigmeo.github.io/final/)
+- [Programa Apolo](https://programa-apolo.github.io/infografia-digital/)
+- [Space-X](https://space-x-elon-musk.github.io/infografia-digital/)
 
 CARNAVALES SUDAMERICANOS:
 
