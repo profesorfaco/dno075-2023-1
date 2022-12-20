@@ -58,36 +58,4 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 - - - - - - - 
 
-#### ENTREGAS
-
-Los temas de los [trabajos entregados](https://cursos.canvas.uc.cl/courses/50011/discussion_topics/502308?module_item_id=1348296) subdividen la tablas. En cada subdivisión se muestran primero los trabajos mejor logrados.
-
-| ESTUDIANTE(S) | ANDAMIOS DE BAMBÚ |
-|:--------------|:---------------------|
-| ISIDORA ROZAS & MAGDALENA MUÑOZ | https://madumunoz.github.io/infodigital-clase-04/ |
-| MARÍA GRACIA HOYL & TERESITA VARAS | https://teresitavaras.github.io/entrega-04/ |
-| AMAYA BUTRÓN & JUAN-PABLO CATALÁN | https://juanpablocatalan.github.io/butron-catalan.clase04/ |
-| JAVIERA CASTRO & DOMINIQUE REZEPKA | https://domirezepka.github.io/Trabajo-clase-4-/ |
-| **ESTUDIANTE(S)** | **ANIMALES EN CHINA** |
-| CONSUELO GÓMEZ | https://consucg.github.io/infodigital-clase-04/ |
-| ROCÍO VILLEGAS & MAITE MOREIRA | https://maitemoreira2022.github.io/trabajo-clase-04/ |
-| ISABELA AYLWIN & NATALIA VALERA | https://isabelaaylwin.github.io/infografia-clase-04/ |
-| **ESTUDIANTE(S)** | **ARQUITECTURA DESPUÉS DEL CORONAVIRUS** |
-| OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://manumunchmeyer.github.io/infodigital-clase-04/ |
-| TRINIDAD JEREZ & FERNANDA ROZAS | https://trinidadjerez.github.io/clase04/ |
-| **ESTUDIANTE(S)** | **BRUCE LEE** |
-| MARÍA JESÚS VIDAL LYNCH | https://mjvidallynch.github.io/infodigital-clase-04/ |
-| KARINA ANACONA & CATALINA VALLEJOS | https://xnxconx.github.io/clase04/ |
-| **ESTUDIANTE(S)** | **GODZILLA** |
-| CAMILA AZÓCAR & VALENTINA NUÑEZ | https://camiazocar.github.io/infodigital-clase-04/ |
-| MACARENA RAMÍREZ & CATALINA CACÉRES | https://macarenaram.github.io/infograf-a-03/ |
-| LAURA RIVERA & VALENTINA WALLER | https://valewq.github.io/InfoClase3/ |
-| FERNANDA SALDIVIA & MARCELA SILVA | https://fernandasaldivia.github.io/infodigital-03/ |
-| JEAN DIMTER & DENNISE FREYMUTH | https://jjdimter.github.io/infografia-godzilla-clase4/ |
-| **ESTUDIANTE(S)** | **OPERA CANTONESA** |
-| AYLIN BASTÍAS | https://aylin-b.github.io/info-04/ |
-
-
-- - - - - - - 
-
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) 
