@@ -116,4 +116,4 @@ Y terminemos con las **líneas 161 y 164 en el código fuente de [Why your smart
 - - - - - - - - - - - - -
 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-09) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) 
