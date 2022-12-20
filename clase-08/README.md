@@ -1,26 +1,6 @@
 # Introducción a HTML, SVG y CSS
 
-### Clase 08 → 18/04/2023
-
-**Para retomar el avance, aprovechemos las tres mejores calificaciones**: 
-
-| Nombre | URL  | Nota |
-|:-------|:-----|:-----:|
-| KARINA ANACONA TOLOZA	| https://xnxconx.github.io/Prueba01/ | 7,0 |
-| MARÍA JESÚS VIDAL	| https://mjvidallynch.github.io/infodigital-clase-06/	| 7,0 |
-| VALENTINA WALLER QUEZADA	| https://valewq.github.io/InfoPrueba1/	 | 7,0 |
-
-**Para que tales infografía digitales mejoren aun más, conviene**:
-
-- volver sobre las redacciones después de revisar algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
-
-- evaluar la accesibilidad a su infografía digital con **[WAVE de WebAIM](https://wave.webaim.org/)**.
-
-- evaluar el contraste figura/fondo en las gráficas (que WAVE no puede analizar) mediante **otra herramienta de WebAIM, su [Contrast Checker](https://webaim.org/resources/contrastchecker/)**; esto vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y un verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
-
-- analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
-
-- el análisis recién referido no alcanzará el 100 en SEO, pero podríamos acercarnos a tal número con **[Meta Tags](https://metatags.io/)** o **[Mega Tags](https://megatags.co/)**.
+### Clase 07 → 18/04/2023
 
 Usemos **Meta** o **Mega** Tags, lo que corresponde aquí es volver al código fuente de documento HTML, aprendiendo que hay algo que nos falta incluir en su cabeza (en el [elemento HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element) entre etiquetas `<head>…</head>`):
 
