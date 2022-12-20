@@ -2,7 +2,7 @@
 
 ###  Clase 11 → 16/05/2022
 
-**A continuación se presentan 10 trabajos desarrollados por estudiantes. Los trabajos están agrupados en TEMÁTICAS, y el nombre de cada trabajo es la SUBTEMÁTICA**:
+**A continuación se presentan 10 trabajos desarrollados por estudiantes en versiones pasadas de este Optativo. Los trabajos están agrupados en TEMÁTICAS, y el nombre de cada trabajo es la SUBTEMÁTICA**:
 
 PROGRAMAS ESPACIALES: 
 
