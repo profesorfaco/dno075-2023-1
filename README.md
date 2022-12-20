@@ -32,7 +32,7 @@ Considerando los días martes entre 7 de agosto y 27 de junio, proyectamos **el 
 
 [Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → Usos de HTML, SVG y CSS en infografía digital
 
-Clase 09 → 02/05/2023 → Receso de docencia bimestral (Se suspenden las clases; las evaluaciones académicas quedarán
+**Clase 09 → 02/05/2023 → Receso de docencia bimestral** (se suspenden las clases; las evaluaciones académicas quedarán
 suspendidas entre el martes 2 y el lunes 8 de mayo inclusive).
 
 **[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS** (Jueves 11 de mayo es el último plazo para realizar el retiro de un curso de la carga académica
