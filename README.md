@@ -30,23 +30,23 @@ Considerando los días martes entre 7 de agosto y 27 de junio, proyectamos **el 
 
 [Clase 07 → 18/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → Introducción a HTML, SVG y CSS
 
-[Clase 08 → 25/04/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → Usos de HTML, SVG y CSS en infografía digital
+[Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → Usos de HTML, SVG y CSS en infografía digital
 
-Clase 09 → 02/05/2022 → Receso de docencia bimestral (Se suspenden las clases; las evaluaciones académicas quedarán
+Clase 09 → 02/05/2023 → Receso de docencia bimestral (Se suspenden las clases; las evaluaciones académicas quedarán
 suspendidas entre el martes 2 y el lunes 8 de mayo inclusive).
 
-**[Clase 10 → 09/05/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS** (Jueves 11 de mayo es el último plazo para realizar el retiro de un curso de la carga académica
+**[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS** (Jueves 11 de mayo es el último plazo para realizar el retiro de un curso de la carga académica
 semestral).
 
-[Clase 11 → 16/05/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) → Definición de temática, subtemáticas y grupos para el trabajo final
+[Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) → Definición de temática, subtemáticas y grupos para el trabajo final
 
-**[Clase 12 → 23/05/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Evaluación Nº3 → Avance de investigación, redacción linear y bocetaje para gráficos** 
+**[Clase 12 → 23/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Evaluación Nº3 → Avance de investigación, redacción linear y bocetaje para gráficos** 
 
-[Clase 13 → 30/05/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas angostas (a evaluar como parte del proceso)
+[Clase 13 → 30/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas angostas (a evaluar como parte del proceso)
 
-[Clase 14 → 06/06/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Implementación de gráficos con SVG para pantallas anchas (a evaluar como parte del proceso)
+[Clase 14 → 06/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Implementación de gráficos con SVG para pantallas anchas (a evaluar como parte del proceso)
 
-[Clase 15 → 13/06/2022](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Despliegue de gráficos con SVG en HTML (a evaluar como parte del proceso)
+[Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Despliegue de gráficos con SVG en HTML (a evaluar como parte del proceso)
 
 [Clase 16 → 20/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16) → Ajustes de HTML, SVG y CSS (a evaluar como parte del proceso)
 
