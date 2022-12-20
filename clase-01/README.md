@@ -63,12 +63,13 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 | 28 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage   |
 
 
-**A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla: Esa es la técnica que tendrá que explicar con una serie de 5 gráficos figurativos (fotografías, fotogramas, ilutraciones o un croquis), que podrán acompañar de textos breves.**
+**A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla:** 
 
-**Para poder explicar cualquier técnica, deben investigar sobre ella y cuetan con 30 minutos para hacerlo.**
-
+**Esa es la técnica que tendrá que explicar con una serie de 5 gráficos figurativos (fotografías, fotogramas, ilutraciones o un croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, que debe adaptarse a distintos tamaños de pantalla.**
 
 #### AYUDA PARA LA INVESTIGACIÓN
+
+Para poder explicar cualquier técnica, deben investigar sobre ella y cuetan con 30 minutos para hacerlo.
 
 Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar técnicas de Aikido. Por ejemplo: 
 
@@ -77,6 +78,8 @@ Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar téc
 - https://www.youtube.com/playlist?list=PL970B7BDB368DB950
 
 También les puede servir [esta hoja de cálculo que vincula a distintas técnicas](https://docs.google.com/spreadsheets/d/1KYmYt34Y5WRjDo-g40Xu4Oe5VZwdoMvO_B5pUhIBc_M/edit?usp=sharing) al tiempo en que aparecen en un par de videos largos.
+
+Google translate también les puede servir, para buscar traducciones donde verán referencias a tipos de ataque o toma, además de una progresión numérica o nombres de proyecciones.
 
 #### AYUDA PARA LA PRESENTACIÓN
 
