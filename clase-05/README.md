@@ -1,6 +1,6 @@
 # Infografías con SVG en HTML
 
-### Clase 05 → 04/04/2022
+### Clase 05 → 04/04/2023
 
 En esta clase no contamos con un documento en Drive, porque iremos directo a la práctica con el documento `index.html` en esta carpeta, que pueden ver como:
 
