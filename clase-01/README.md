@@ -10,7 +10,7 @@ Cada dupla tendrá que investigar, bocetear y enseñar, usando gráficos y texto
 
 #### PREÁMBULO
 
-Así como el Judo y el Karate-do, **Aikido es un *gendai budō* (現代武道) o arte marcial tradicional moderno japonés**. Éste fue **desarrollado inicialmente por Ō-sensei Morihei Ueshiba** (1883-1969).
+Así como el Judo y el Karate-do, **Aikido es un *gendai budō* (現代武道)** o arte marcial tradicional moderno japonés. Éste fue **desarrollado inicialmente por Ō-sensei Morihei Ueshiba** (1883-1969).
 
 El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Desde la obtención del cinturón negro, quienes practican aikido llevan una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keikogi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
 
