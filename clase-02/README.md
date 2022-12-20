@@ -1,4 +1,4 @@
-# Gráficos figurativos, no figurativos y mixtos con SVG
+# Gráficos figurativos, no figurativos y mixtos
 
 ### Clase 02 → 14/03/2023
 
