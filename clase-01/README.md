@@ -16,7 +16,7 @@ El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor"
 
 Una aclaración importante sobre lo de "atacante" y "defensor", presentados entre comillas: 
 
-**El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de hacerle daño, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino), y no existen las competencia de Aikido.
+**El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de vencerlo, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino), y no existen las competencia de Aikido.
 
 #### EJERCICIO
 
