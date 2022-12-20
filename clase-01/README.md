@@ -4,7 +4,7 @@
 
 La primera actividad del curso nos servirá de diagnóstico. 
 
-La actividad será llevada a cabo en duplas. 
+La actividad tiene que ser desarrollada en duplas. 
 
 Cada dupla tendrá que investigar, bocetear y enseñar, con gráficos, una técnica de Aikido.
 
