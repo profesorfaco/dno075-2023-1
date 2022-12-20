@@ -1,4 +1,4 @@
-# Investigar, bocetear y enseñar con gráficos
+# Aprender y enseñar con gráficos
 
 ### Clase 01 → 07/03/2023
 
