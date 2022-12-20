@@ -1,6 +1,6 @@
 # Evaluación Nº4 → Entrega final
 
-###  Clase 17 → 28/11/2022
+###  Clase 17 → 27/06/2023
 
 **Hoy cerramos el optativo con la cuarta evaluación**.
 
