@@ -90,4 +90,4 @@ Entre ambas personas tendrán que reemplazar imágenes y textos en la plantilla 
 
 - - - - - - - 
 
-###### [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) 
+###### [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) 
