@@ -1,4 +1,4 @@
-# Introducción a HTML, SVG y CSS
+# Usos de HTML, SVG y CSS en infografía digital
 
 ### Clase 07 → 18/04/2023
 
