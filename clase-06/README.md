@@ -34,5 +34,5 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-07) 
 
