@@ -23,19 +23,7 @@ Agreguemos, a lo que ya se había presentado en la clase recién pasada, que **n
 
 - - - - - - 
 
-Recuerden que ya no trabajaremos en repositorios creados en cuentas personales. Desde la clase pasada trabajamos en [cuentas de organizaciones](https://docs.github.com/es/organizations):
-
-| Organización | Integrantes | Entrega      | 
-|:-------------|:------------|:-------------|
-| [Apolo](https://github.com/Programa-Apolo) | Karina, Catalina, Dominique, Javiera | https://programa-apolo.github.io/evaluacion-3/ |
-| [Blue Origin]( https://github.com/Blue-Jeff-Bezos) | Fernanda, Trinidad, Isabela, Rocío | https://blue-jeff-bezos.github.io/evaluacionclase12/ |
-| [Mercury](https://github.com/ProyectoMercury) | Natalia, Pilar, Consuelo, Laura | https://proyectomercury.github.io/clase-12 |
-| [Shenzhou](https://github.com/Programa-Shenzhou) | Valentina, Camila, Dennise, Jean | https://programa-shenzhou.github.io/Bocetos_clase12/ |
-| [Space X](https://github.com/Space-X-Elon-Musk) | Isidora, Valentina, Magdalena, María Jesús | https://space-x-elon-musk.github.io/Clase-12/ |
-| [Sputnik](https://github.com/SateliteSputnik) | Aylin, Dairyn, Fernanda, Marcela | https://satelitesputnik.github.io/Clase-12/ |
-| [Virgin Galactic](https://github.com/Programa-Virgin-Galactic) | Amaya, Juan-Pablo, María Gracia, Teresita | https://programa-virgin-galactic.github.io/clase-12/ |
-| [Vostok](https://github.com/ProgramaVostok) | Catalina, Macarena, Olivia, Manuela | https://programavostok.github.io/clase-12/ |
-
+Recuerden que ya no trabajaremos en repositorios creados en cuentas personales. Desde la clase pasada trabajamos en [cuentas de organizaciones](https://docs.github.com/es/organizations)
 
 **Y en un nuevo repositorio de organización deben publicar la prueba de hoy, que parte aprovechándose de [esta página ya preparada](https://profesorfaco.github.io/dno075-2023-1/clase-12/)**.
 
