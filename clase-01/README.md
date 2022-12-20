@@ -12,11 +12,16 @@ Cada dupla tendrá que investigar, bocetear y enseñar, usando gráficos y texto
 
 Así como el Judo y el Karate-do, **Aikido es un *gendai budō* (現代武道)** o arte marcial tradicional moderno japonés. Éste fue **desarrollado inicialmente por Ō-sensei Morihei Ueshiba** (1883-1969).
 
-El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Desde la obtención del cinturón negro, quienes practican aikido llevan una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keikogi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
+El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Desde la obtención del cinturón negro, quienes practican aikido acostumbran llevar una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keiko-gi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
 
 Una aclaración importante sobre lo de "atacante" y "defensor", presentados entre comillas: 
 
-**El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de vencerlo, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino), y no existen las competencia de Aikido.
+**El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de vencerlo, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino), y no existen las competencias de Aikido.
+
+Sobre las competencias hay una historia que presenta John Stevens en El Libro del Aikido:
+
+> Después de la guerra, Morihei rechazó que se hiciera ningún combante en el *Dojo* Hombu, pero un día, por alguna razón, cedió y dejó que Koichi Tohei, uno de sus discípulos más avanzados, se enfrentara contra un luchador profesional de Sudamérica. Normalmente, tales contrincantes se lanzaban con rapidez a atacar, pero el luchador se refrenó. Tras unos minutos de estar en punto muerto, el impaciente Tohei tomó la iniciativa y forzó el ataque, arreglándoselas para derribar al luchador y bloquearlo. Con todo, Morihei estaba bastante disgustado: «¡No hay necesidad de derribar a alguien que no te ha atacado!»  (2001, p.40) 
+
 
 #### EJERCICIO
 
@@ -72,8 +77,7 @@ Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar téc
 - https://www.youtube.com/watch?v=uhPu6iNV7jE&list=PL4FJXg8RNp-nvZq6HiaIVjtLRM_UgXzXo
 - https://www.youtube.com/playlist?list=PL970B7BDB368DB950
 
-
-También les puede servir esta hoja de cálculo que vincula a distintas técnicas al tiempo en que aparecen en un video más largo.
+También les puede servir [esta hoja de cálculo que vincula a distintas técnicas](https://docs.google.com/spreadsheets/d/1KYmYt34Y5WRjDo-g40Xu4Oe5VZwdoMvO_B5pUhIBc_M/edit?usp=sharing) al tiempo en que aparecen en un par de videos largos.
 
 #### AYUDA PARA LA PRESENTACIÓN
 
