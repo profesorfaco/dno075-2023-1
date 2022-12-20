@@ -65,7 +65,7 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 
 **A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla:** 
 
-**Esa es la técnica que tendrá que explicar con una serie de 5 gráficos figurativos (fotografías, fotogramas, ilutraciones o un croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, que debe adaptarse a distintos tamaños de pantalla.**
+**Esa es la técnica que tendrá que explicar con una serie de 5 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe adaptarse a distintos tamaños de pantalla.**
 
 #### AYUDA PARA LA INVESTIGACIÓN
 
@@ -79,7 +79,7 @@ Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar téc
 
 También les puede servir [esta hoja de cálculo que vincula a distintas técnicas](https://docs.google.com/spreadsheets/d/1KYmYt34Y5WRjDo-g40Xu4Oe5VZwdoMvO_B5pUhIBc_M/edit?usp=sharing) al tiempo en que aparecen en un par de videos largos.
 
-Google translate también les puede servir, para buscar traducciones donde se encontrarán con referencias a golpes (*shomen uchi, yokomen uchi, tsuki*) o tomas (*ryote dori, katate dori, kata dori*), además de una progresión numérica (*ikkyo, nikkyo, sankkyo, yonkkyo*) y nombres de proyecciones (*irimi nage, shiho nage*).
+Google translate también les puede servir, para buscar traducciones de los golpes (*shomen uchi, yokomen uchi, tsuki*), tomas (*ryote dori, katate dori, kata dori*) y proyecciones (*irimi nage, shiho nage*).
 
 #### AYUDA PARA LA PRESENTACIÓN
 
