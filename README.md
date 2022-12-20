@@ -18,7 +18,7 @@ Considerando los días martes entre 7 de agosto y 27 de junio, proyectamos **el 
 
 [Clase 01 → 07/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-01) → Aprender y enseñar con gráficos
 
-[Clase 02 → 14/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) → Gráficos figurativos, no figurativos
+[Clase 02 → 14/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) → Gráficos figurativos, no figurativos y mixtos
 
 [Clase 03 → 21/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) → Infografía, infografistas y nuevas tecnologías
 
