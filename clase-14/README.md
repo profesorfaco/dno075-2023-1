@@ -1,6 +1,6 @@
 # Implementación de gráficos con SVG para pantallas anchas
 
-### Clase 14 → 06/06/2023
+### Clase 14 → 06/06/2023 
 
 En la clase de hoy revisaremos la manera en que justifican y resuelven cada gráfica, sea figurativa, no figurativa o mixta. 
 
