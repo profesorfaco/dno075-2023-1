@@ -14,7 +14,9 @@ Así como el Judo y el Karate-do, Aikido es un *gendai budō* (現代武道) o a
 
 El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Desde la obtención del cinturón negro, quienes practican aikido llevan una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keikogi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
 
-Una aclaración importante sobre lo de "atacante" y "defensor", presentados entre comillas: El nombre para designar al que "ataca" es *Uke*, una palabra que se relaciona con el que recibe y cae, porque el "atacante" recibirá una serie de derribos, llaves y sujeciones, con las que habitualmente termina en el suelo, inmovilizado. Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori*; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de hacerle daño, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino).
+Una aclaración importante sobre lo de "atacante" y "defensor", presentados entre comillas: 
+
+El nombre para designar al que "ataca" es *Uke*, una palabra que se relaciona con el que recibe y cae, porque el "atacante" recibirá una serie de derribos, llaves y sujeciones, con las que habitualmente termina en el suelo, inmovilizado. Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori*; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de hacerle daño, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino).
 
 #### EJERCICIO
 
