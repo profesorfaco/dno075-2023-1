@@ -1,6 +1,6 @@
-# Implementación de gráficos con SVG
+# Implementación de gráficos con SVG para pantallas angostas (a evaluar como parte del proceso)
 
-### Clase 14 → 07/11/2022
+### Clase 13 → 30/05/2022
 
 En la clase de hoy revisaremos la manera en que justifican y resuelven cada gráfica, sea figurativa, no figurativa o mixta. 
 
