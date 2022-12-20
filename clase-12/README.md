@@ -48,4 +48,4 @@ Si el grupo obtiene la máxima calificación, podrá pasar a la implementación 
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-13) 
