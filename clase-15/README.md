@@ -1,6 +1,6 @@
 # Despliegue de gráficos con SVG en HTML
 
-### Clase 15 → 14/11/2022
+### Clase 15 → 13/06/2023
 
 En esta clase ajustaremos cada gráfica a su contexto: Una narración vertical, que debe adaptarse a distintos tamaños de pantalla.
 
