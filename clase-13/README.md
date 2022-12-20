@@ -19,4 +19,4 @@ El avance de la clase de hoy será considerado en la [evaluación Nº4](https://
 
 - - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14)
