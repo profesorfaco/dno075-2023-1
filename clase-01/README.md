@@ -24,7 +24,7 @@ Antes de llegar al *Shodan*, que es el examen que debe aprobarse para la obtenci
 
 Las pruebas *Kyu* se cuentan en sentido inverso; en caso de los exámenes de la [Aikido Kenkyukai International (A.K.I.)](https://en.wikipedia.org/wiki/Yoshinobu_Takeda_(Aikido)) en Sudamérica, la secuencia parte en el cinco y termina en el uno: Quinto, cuarto, tercero, segundo y primer *Kyu* (*Gokyu*, *Yonkyu*, *Sankyu*, *Nikkyu* e *Ikkyu*, repectivamente). 
 
-En la tabla que sigue aparecen técnicas del temario de *Gokyu*, *Yonkyu* y *Sankyu* de la A.K.I. Sudamérica. Todas las técnicas están en japonés, porque de esa manera se aprenden y solicitan en un examen. Por ejemplo: *¡Shomen uchi ikkyo*, en *suwari waza!*:
+En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *Sankyu* de la A.K.I. Sudamérica. Todas las técnicas están en japonés, porque de esa manera se aprenden y solicitan en un examen. Por ejemplo: *¡Shomen uchi ikkyo*, en *suwari waza!*:
 
 
 | Nº | Kyu              | Waza        | Taijutsu |
