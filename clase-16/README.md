@@ -1,6 +1,6 @@
 # Ajustes de HTML, SVG y CSS
 
-### Clase 16 → 21/11/2022
+### Clase 16 → 20/06/2023
 
 En esta clase conviene ajustar detalles de descripción (HTML, CSS) y programación (JavaScript).
 
