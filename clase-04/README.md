@@ -1,6 +1,6 @@
 # Infografías con SVG
 
-### Clase 04 → 28/04/2023
+### Clase 04 → 28/03/2023
 
 La [cuarta clase](https://docs.google.com/presentation/d/1GqH40Ybrz77qN6W_ztgC2d2Q5Z6buhCjDYTU7fX9Lc4/edit?usp=sharing) está en la [carpeta Drive del curso](https://drive.google.com/drive/folders/1TrKlW5fCH-crkBDy0LYgei0S6wCblQsI?usp=sharing).
 
