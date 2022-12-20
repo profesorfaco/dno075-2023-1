@@ -1,6 +1,6 @@
 # Evaluación Nº3 → Avance de investigación y bocetaje
 
-### Clase 12 → 24/10/2022
+### Clase 12 → 23/05/2022 
 
 En la clase recién pasada tomamos como referencia **la infografía digital [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/)**, que es resultado del trabajo colaborativo de [Gloria Dickie](https://twitter.com/GloriaDickie), [Adolfo Arranz](https://twitter.com/adolfux), [Simon Scarr](http://www.simonscarr.com/) y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/); son las capacidades de 4 personas que convergen en una única pieza que se recorre verticalmente, convergen en un todo de [redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) que es distinto de la mera suma de las partes.
 
