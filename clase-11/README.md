@@ -73,4 +73,4 @@ Ideal sería avanzar en la organización de tales apuntes hasta el *knowledge*:
 
 - - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-09) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) 
