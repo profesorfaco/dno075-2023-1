@@ -2,8 +2,6 @@
 
 ### Clase 04 → 28/03/2023
 
-La [cuarta clase](https://docs.google.com/presentation/d/1GqH40Ybrz77qN6W_ztgC2d2Q5Z6buhCjDYTU7fX9Lc4/edit?usp=sharing) está en la [carpeta Drive del curso](https://drive.google.com/drive/folders/1TrKlW5fCH-crkBDy0LYgei0S6wCblQsI?usp=sharing).
-
 En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
 
 - [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages)
