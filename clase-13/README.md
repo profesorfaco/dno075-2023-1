@@ -1,4 +1,4 @@
-# Implementación de gráficos con SVG para pantallas angostas (a evaluar como parte del proceso)
+# Implementación de gráficos con SVG para pantallas angostas
 
 ### Clase 13 → 30/05/2022
 
