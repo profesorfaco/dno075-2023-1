@@ -79,7 +79,7 @@ Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar téc
 
 También les puede servir [esta hoja de cálculo que vincula a distintas técnicas](https://docs.google.com/spreadsheets/d/1KYmYt34Y5WRjDo-g40Xu4Oe5VZwdoMvO_B5pUhIBc_M/edit?usp=sharing) al tiempo en que aparecen en un par de videos largos.
 
-Google translate también les puede servir, para buscar traducciones donde verán referencias a tipos de ataque o toma, además de una progresión numérica o nombres de proyecciones.
+Google translate también les puede servir, para buscar traducciones donde se encontrarán con referencias a golpes (*shomen uchi, yokomen uchi, tsuki*) o tomas (*ryote dori, katate dori, kata dori*), además de una progresión numérica (*ikkyo, nikkyo, sankkyo, yonkkyo*) y nombres de proyecciones (*irimi nage, shiho nage*).
 
 #### AYUDA PARA LA PRESENTACIÓN
 
