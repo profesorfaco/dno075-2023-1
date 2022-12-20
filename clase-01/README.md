@@ -1,0 +1,91 @@
+# Investigar, bocetear y enseñar con gráficos
+
+### Clase 01 → 07/03/2023
+
+La primera actividad del curso nos servirá de diagnóstico. 
+
+La actividad será llevada a cabo en duplas. 
+
+Cada dupla tendrá que investigar, bocetear y enseñar, con gráficos, una técnica de Aikido.
+
+#### PREÁMBULO
+
+Así como el Judo y el Karate-do, Aikido es un *gendai budō* (現代武道) o arte marcial tradicional moderno japonés. Éste fue desarrollado inicialmente por Ō-sensei Morihei Ueshiba (1883-1969).
+
+El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Desde la obtención del cinturón negro, quienes practican aikido llevan una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keikogi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
+
+Una aclaración importante sobre lo de "atacante" y "defensor", presentados entre comillas: El nombre para designar al que "ataca" es *Uke*, una palabra que se relaciona con el que recibe y cae, porque el "atacante" recibirá una serie de derribos, llaves y sujeciones, con las que habitualmente termina en el suelo, inmovilizado. Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori*; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" se adelanta al "atacante" sin la intención de hacerle daño, sino de unirse a su ataque para anularlo, y por eso es *Ai* (unificación) *Ki* (fuerza vital) y *Do* (camino).
+
+#### EJERCICIO
+
+Antes de llegar al *Shodan*, que es el examen que debe aprobarse para la obtención del cinturón negro (y la *hakama*), distintas escuelas de Aikido establecen una serie de exámenes intermedios, llamados *Kyu*. Cada examen tiene requisitos de tiempos de práctica y un temario de técnicas (*Taijutsu*) con las que se evalúa a cada practicante en "ataque" y "defensa".
+
+Las pruebas *Kyu* se cuentan en sentido inverso; en caso de los exámenes de la [Aikido Kenkyukai International (A.K.I.)](https://en.wikipedia.org/wiki/Yoshinobu_Takeda_(Aikido)) en Sudamérica, la secuencia parte en el cinco y termina en el uno: Quinto, cuarto, tercero, segundo y primer *Kyu* (*Gokyu*, *Yonkyu*, *Sankyu*, *Nikkyu* e *Ikkyu*, repectivamente). 
+
+En la tabla que sigue aparecen técnicas del temario de *Gokyu*, *Yonkyu* y *Sankyu* de la A.K.I. Sudamérica. Todas las técnicas están en japonés, porque de esa manera se aprenden y solicitan en un examen. Por ejemplo: *¡Shomen uchi ikkyo*, en *suwari waza!*:
+
+
+| Nº | Kyu              | Waza        | Taijutsu |
+|:----:|:---------------|:------------|:------------------|
+| 1 |  Gokyu | suwari waza | shomen uchi ikkyo  |
+| 2 |  Gokyu | suwari waza | shomen uchi nikkyo  |
+| 3 |  Gokyu | suwari waza | shomen uchi sankkyo |
+| 4 |  Gokyu | suwari waza | ryote dori kokyu ho |
+| 5 |  Gokyu | tachi waza | shomen uchi ikkyo |
+| 6 |  Gokyu | tachi waza | shomen uchi nikkyo |
+| 7 |  Gokyu | tachi waza | shomen uchi irimi nage |
+| 8 |  Gokyu | tachi waza | katate dori shiho nage |
+| 9 |  Gokyu | tachi waza | katate dori kote gaeshi |
+| 10 |  Gokyu | tachi waza | katate dori kokyu nage |
+| 11 |  Gokyu | tachi waza | ryote dori tenchinage |
+| 12 |  Yonkyu | suwari waza | kata dori nikkyo |
+| 13 |  Yonkyu | tachi waza | shomen uchi sankyo |
+| 14 |  Yonkyu | tachi waza | ryote dori shiho nage |
+| 15 |  Yonkyu | tachi waza | ryote dori kokyu nage |
+| 16 |  Yonkyu | tachi waza | yokomen uchi shiho nage |
+| 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage |
+| 18 |  Sankyu | suwari waza | shomen uchi yonkyo |
+| 19 |  Sankyu | tachi waza | katate dori shiho nage |
+| 20 |  Sankyu | tachi waza | katate dori kokyu nage |
+| 21 |  Sankyu | tachi waza | katate dori kaiten nage |
+| 22 |  Sankyu | tachi waza | shomen uchi kote gaeshi |
+| 23 |  Sankyu | tachi waza | shomen uchi yonkkyo |
+| 24 |  Sankyu | tachi waza | yokomen uchi kote gaeshi  |
+| 25 |  Sankyu | tachi waza | tsuki kote gaeshi  |
+| 26 |  Sankyu | tachi waza | tsuki irimi nage  |
+| 27 |  Sankyu | tachi waza | ushiro ryote dori shiho nage  |
+| 28 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage   |
+
+
+**A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla: Esa es la técnica que tendrá que explicar con una serie de 5 gráficos figurativos (fotografías, fotogramas, ilutraciones o un croquis), que podrán acompañar de textos breves.**
+
+**Para poder explicar cualquier técnica, deben investigar sobre ella y cuetan con 30 minutos para hacerlo.**
+
+
+#### AYUDA PARA LA INVESTIGACIÓN
+
+Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar técnicas de Aikido. Por ejemplo: 
+
+- https://www.youtube.com/@anisaikido6528/playlists
+- https://www.youtube.com/watch?v=uhPu6iNV7jE&list=PL4FJXg8RNp-nvZq6HiaIVjtLRM_UgXzXo
+- https://www.youtube.com/playlist?list=PL970B7BDB368DB950
+
+
+También les puede servir esta hoja de cálculo que vincula a distintas técnicas al tiempo en que aparecen en un video más largo.
+
+#### AYUDA PARA LA PRESENTACIÓN
+
+Tienen que usar el `index.html` en la carpeta de esta clase-01, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-01/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-01/index.html)
+
+Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
+
+1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-01`); y
+
+2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-01`)
+
+Entre ambas personas tendrán que reemplazar imágenes y textos en la plantilla por los que correspondan a su trabajo.
+
+
+- - - - - - - 
+
+###### [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) 

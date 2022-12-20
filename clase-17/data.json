@@ -1,0 +1,58 @@
+[
+   {
+      "title":"El Programa Sputnik",
+      "subtitle":"Un sorpresivo inicio para la carrera espacial",
+      "short":"Diez misiones espaciales de la URSS son las que componen este programa iniciado en la década de 1950",
+      "lead":"Diez misiones espaciales de la URSS son las que componen este programa iniciado en la década de 1950. La primera de estas misiones puso en órbita en octubre de 1957 al Sputnik, el primer satélite artificial de la historia, y la segunda, un mes más tarde, llevó al espacio a la perrita Laika, el primer ser vivo en llegar a tales alturas, para morir carbonizada. Las siguientes misiones sirvieron de base al programa Vostok.",
+      "url":"https://misiones-sputnik.github.io/infografia-digital/"
+   },
+   {
+      "title":"El Programa Vostok",
+      "subtitle":"El primero en llevar al ser humano al espacio",
+      "short":"Este programa soviético logra poner en órbita a seis cosmonautas en los primeros años de la década de 1960",
+      "lead":"Este programa soviético logra poner en órbita a seis cosmonautas en los primeros años de la década de 1960. El primero fue Yuri Gagarin, quien pudo ascender sobre los 300 kilómetros y orbitar la Tierra en un vuelo de 108 minutos de duración, vuelo que abrió las puertas al viaje espacial tripulado en abril de 1961. Y la primera mujer cosmonauta fue Valentina Tereshkova, quien realizó su viaje espacial en junio de 1963.",
+      "url":"https://programavostok.github.io/infografia-digital/"
+   },
+   {
+      "title":"El Programa Mercury",
+      "subtitle":"La respuesta estadounidense al Vostok",
+      "short":"Intentando alcanzar a los soviéticos, este programa lleva al espacio al selecto grupo de los Mercury Seven",
+      "lead":"Intentando alcanzar a los soviéticos, este programa lleva al espacio al selecto grupo de los Mercury Seven. Tal era la ansiedad estadounidense que se apuró en celebrar el vuelo suborbital de Alan Shepard como el alcance de la gran hazaña y relegó a segundo plano el vuelo de John Glenn, quien fuera realmente el primer astronauta estadounidense que logro orbitar la Tierra en febrero de 1962.",
+      "url":"https://proyectomercury.github.io/infografia-digital/"
+   },
+   {
+      "title":"El Programa Apolo",
+      "subtitle":"La carrera por llevar al hombre a la Luna",
+      "short":"La carrera espacial se da en el contexto de la Guerra Fría entre los bloques Occidental y Oriental",
+      "lead":"La carrera espacial se da en el contexto de la Guerra Fría entre los bloques Occidental y Oriental, liderados por Estados Unidos y la Unión de Repúblicas Socialistas Soviéticas respectivamente. Esta carrera, que parte en 1957 y termina en 1975, supuso el esfuerzo paralelo de las dos potencias líderes por llegar más lejos en la exploración del espacio, desde poner en órbita un satélite artificial hasta pisar el satélite natural de la Tierra.",
+      "url":"https://programa-apolo.github.io/infografia-digital/"
+   },
+   {
+      "title":"Space-X",
+      "subtitle":"La empresa espacial de Elon Musk",
+      "short":"Con su empresa, el magnate apuesta a desarrollar las tecnologías necesarias para colonizar Marte",
+      "lead":"Con su empresa, el magnate apuesta a desarrollar las tecnologías necesarias para colonizar Marte, nombrándose, de paso, como el responsable de convertir a la humanidad en una especie multiplanetaria. Su apuesta depende del desarrollo de la Starship, nave que será capaz de transportar unas 100 toneladas de material y 100 personas por viaje, recargarse con los recursos del planeta rojo y regresar a la Tierra.",
+      "url":"https://space-x-elon-musk.github.io/infografia-digital/"
+   },
+   {
+      "title":"Virgin Galactic",
+      "subtitle":"Sir Richard Branson y el turismo espacial",
+      "short":"Un viaje espacial es el sueño que cualquiera ya puede hacer realidad gracias a varias empresas privadas",
+      "lead":"Un viaje espacial es el sueño que cualquiera ya puede hacer realidad gracias a varias empresas privadas. Virgin Galactic, de Sir Richard Branson, es una de estas empresas. Su oferta es la de un viaje de 90 minutos que comienza con el suave despligue de un avión jet al que se adosa la nave espacial hasta alcanzar los 15 kilómetros de altura, momento en que se libera encendiendo unos propulsores que en 60 segundo la ponen en órbita.",
+      "url":"https://programa-virgin-galactic.github.io/infografia-digital/"
+   },
+   {
+      "title":"New Shepard",
+      "subtitle":"La nave reutilizable de Blue Origin",
+      "short":"El turismo espacial ya es realidad gracias a varias empresas privadas. Blue Origin, de Jeff Bezos, es una de ellas",
+      "lead":"El turismo espacial ya es realidad gracias a varias empresas privadas. Blue Origin, de Jeff Bezos, es una de ellas. El nombre de esta empresa refiere a la Tierra que el magnate podría salvar a largo plazo, subiendo la producción más contaminante fuera de la atmósfera y bajando recursos desde otros cuerpos celestes. Pero en el plazo inmediato su nave reutilizabe New Sheppard ya puede llevar al espacio a cualquiera que pueda costearlo.",
+      "url":"https://new-shepard-blueorigin.github.io/infografia-digital/"
+   },
+   {
+      "title":"Los Taikonautas",
+      "subtitle":"La República Popular China en el espacio",
+      "short":"Los programas espaciales chinos son actualmente los más activos, adelantados y exitosos del mundo",
+      "lead":"Los programas espaciales chinos son actualmente los más activos, adelantados y exitosos del mundo. Durante el siglo XXI, sin prisa, pero sin pausa, la República Popular China ha alcanzado varios logros mediante los programas ShénZhōu (神舟), TiānGōng (天宫), Cháng'e (嫦娥) y ChángZhēng (長征). Con tales programas China ha puesto a sus hombres y mujeres en el espacio, llamándoles taikonautas.",
+      "url":"https://taikonautas.github.io/infografia-digital/"
+   }
+]

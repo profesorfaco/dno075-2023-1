@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>RESUMEN DE SUBTEMÁTICAS</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous" />
+        <style>
+            em {
+                font-weight: 700;
+                font-style: normal;
+                text-decoration: underline;
+            }
+        </style>
+    </head>
+    <body class="bg-light text-secondary">
+        <section>
+            <div class="container">
+                <div class="row my-5">
+                    <div class="col-11 col-sm-11 col-md-10 mx-auto">
+                        <h1 class="text-center display-6 mb-4">
+                            RESUMEN DE<br />
+                            <em>SUBTEMÁTICAS</em>
+                        </h1>
+                        <p class="text-center">Copie cada texto del recuadro que le corresponda y péguelo donde se le indica:</p>
+                    </div>
+                </div>
+                <div class="row" id="mas"></div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <div class="row my-5">
+                    <div class="col-11 col-sm-11 col-md-10 mx-auto">
+                        <h2 class="text-center mb-4">VINCULACIÓN DE TRABAJOS</h2>
+                        <p class="text-center">Copie el código fuente de esta página sólo lo que está incluido entre comentarios de HTML (<code>&lt;!-- y --&gt;</code>).</p>
+                        <p class="text-center">Pegue lo copiado al final del cuerpo de su infografía, reemplazando sólo <code>aside</code> y <code>footer</code> pendientes.</p>
+                        <p class="text-center">Edite los vínculos de cada "Nombre Apellido" y "Título de Recurso" para apuntar a lo que corresponda.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- * * * * * * * * *
+
+            COPIE DESDE ACÁ
+
+        * * * * * * * * * * -->
+
+        <aside>
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small">
+                        <dl>
+                            <dt>Créditos:</dt>
+                            <dd>
+                                Infografía digital desarrollada por <a href="#" class="link-secondary">Nombre Apellido</a>,<a href="#" class="link-secondary">Nombre Apellido</a>, <a href="#" class="link-secondary">Nombre Apellido</a>,
+                                <a href="#" class="link-secondary">Nombre Apellido</a>.
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>Fuentes de información:</dt>
+                            <dd>
+                                La información presentada se apoya en consultas a <a href="#" class="link-secondary">Título del recurso</a>, <a href="#" class="link-secondary">Título del recurso</a>,
+                                <a href="#" class="link-secondary">Título del recurso</a>, <a href="#" class="link-secondary">Título del recurso</a>, <a href="#" class="link-secondary">Título del recurso</a>.
+                            </dd>
+                        </dl>
+                        <h4 class="border-top pt-4 my-5 fs-5">Historias relacionadas</h4>
+                        <ul id="relacionadas" class="list-unstyled fst-italic"></ul>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <footer class="bg-black">
+            <div class="container">
+                <div class="row py-3">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small">
+                        <p class="d-flex justify-content-between small py-2 m-0">
+                            <a href="https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17" class="link-light" target="_blank">Lunes 28 de noviembre, 2022</a>
+                            <a href="https://github.com/profesorfaco/dno075-2023-1/#readme" class="link-light" target="_blank">Infografía Digital</a>
+                            <a href="https://diseno.uc.cl/" class="link-light" target="_blank">Diseño UC</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            async function otras() {
+                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno075-2023-1/main/clase-17/data.json");
+                const data = await consulta.json();
+                const listado = document.getElementById("relacionadas");
+                data.forEach((x, i) => {
+                    if (i != 8) {
+                        listado.innerHTML += '<li class="position-relative"><dl><dt>' + x.title + ': ' + x.subtitle + '</dt><dd class="small">' + x.short + ' <a href="' + x.url + '" class="fst-normal link-secondary stretched-link">[ver más]</a></dd><dl>';
+                    }
+                });
+            }
+            otras().catch((error) => console.error(error));
+        </script>
+
+        <!-- * * * * * * * * *
+
+            COPIE HASTA ACÁ
+
+        * * * * * * * * * * -->
+
+        <script>
+            async function resumen() {
+                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno075-2023-1/main/clase-17/data.json");
+                const data = await consulta.json();
+                const alli = document.getElementById("mas");
+                data.forEach((a) => {
+                    alli.innerHTML +=
+                        '<div class="col-md-6"><div class="card shadow text-bg-dark mb-4"><div class="card-body"><h3><em>H1</em>: ' +
+                        a.title +
+                        '</h3><h4 class="text-white-50"><em>H2</em>: ' +
+                        a.subtitle +
+                        "</h4><p><em>Párrafo de clase lead</em>: " +
+                        a.lead +
+                        "</p><p><em>Descripción en metadatos</em>: " +
+                        a.short +
+                        "</p><p><em>Link</em>: " +
+                        a.url +
+                        "</p></div></div></div>";
+                });
+            }
+            resumen().catch((error) => console.error(error));
+        </script>
+    </body>
+</html>
