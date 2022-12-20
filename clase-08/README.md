@@ -1,6 +1,6 @@
-# HTML, SVG y CSS
+# Introducción a HTML, SVG y CSS
 
-### Clase 08 → 26/09/2022
+### Clase 08 → 18/04/2023
 
 **Para retomar el avance, aprovechemos las tres mejores calificaciones**: 
 
