@@ -8,7 +8,7 @@ En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver
 
 - [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-04/index.html)
 
-En el mismo documento `index.html` pueden encontrar un complemento a lo que se presenta en la [cuarta clase](https://docs.google.com/presentation/d/1GqH40Ybrz77qN6W_ztgC2d2Q5Z6buhCjDYTU7fX9Lc4/edit?usp=sharing) y un ejemplo de lo que deben resolver: Comparar versiones impresa y digital de un trabajo infográficos. Deben comparar 1 de estas 6 opciones:
+Deben comparar 1 de estas 6 opciones:
 
 **1. ANDAMIOS DE BAMBÚ**: 
 
