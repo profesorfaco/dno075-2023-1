@@ -6,7 +6,7 @@ La primera actividad del curso nos servirá de diagnóstico.
 
 La actividad tiene que ser desarrollada en duplas. 
 
-Cada dupla tendrá que aprender y enseñar una técnica de Aikido con una serie de 5 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/).
+Cada dupla tendrá que aprender y enseñar una técnica de Aikido con una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/).
 
 #### PREÁMBULO
 
@@ -30,42 +30,42 @@ Las pruebas *Kyu* se cuentan en sentido inverso; en caso de los exámenes de la 
 
 En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *Sankyu* de la A.K.I. Sudamérica. Todas las técnicas están en japonés, porque de esa manera se aprenden y solicitan en un examen. Por ejemplo: *¡Shomen uchi ikkyo*, en *suwari waza!*:
 
+**A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla:**
 
 | Nº | Kyu              | Waza        | Taijutsu |
 |:----:|:---------------|:------------|:------------------|
-| 1 |  Gokyu | suwari waza | shomen uchi ikkyo  |
-| 2 |  Gokyu | suwari waza | shomen uchi nikkyo  |
-| 3 |  Gokyu | suwari waza | shomen uchi sankkyo |
+| 1 |  Gokyu | suwari waza | shomen uchi ikkyo*  |
+| 2 |  Gokyu | suwari waza | shomen uchi nikkyo*  |
+| 3 |  Gokyu | suwari waza | shomen uchi sankkyo* |
 | 4 |  Gokyu | suwari waza | ryote dori kokyu ho |
-| 5 |  Gokyu | tachi waza | shomen uchi ikkyo |
-| 6 |  Gokyu | tachi waza | shomen uchi nikkyo |
+| 5 |  Gokyu | tachi waza | shomen uchi ikkyo* |
+| 6 |  Gokyu | tachi waza | shomen uchi nikkyo* |
 | 7 |  Gokyu | tachi waza | shomen uchi irimi nage |
-| 8 |  Gokyu | tachi waza | katate dori shiho nage |
+| 8 |  Gokyu | tachi waza | katate dori shiho nage* |
 | 9 |  Gokyu | tachi waza | katate dori kote gaeshi |
-| 10 |  Gokyu | tachi waza | katate dori kokyu nage |
+| 10 |  Gokyu | tachi waza | katate dori kokyu nage* |
 | 11 |  Gokyu | tachi waza | ryote dori tenchinage |
-| 12 |  Yonkyu | suwari waza | kata dori nikkyo |
-| 13 |  Yonkyu | tachi waza | shomen uchi sankyo |
+| 12 |  Yonkyu | suwari waza | kata dori nikkyo* |
+| 13 |  Yonkyu | tachi waza | shomen uchi sankyo* |
 | 14 |  Yonkyu | tachi waza | ryote dori shiho nage |
 | 15 |  Yonkyu | tachi waza | ryote dori kokyu nage |
 | 16 |  Yonkyu | tachi waza | yokomen uchi shiho nage |
-| 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage |
-| 18 |  Sankyu | suwari waza | shomen uchi yonkyo |
-| 19 |  Sankyu | tachi waza | katate dori shiho nage |
+| 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage* |
+| 18 |  Sankyu | suwari waza | shomen uchi yonkyo* |
+| 19 |  Sankyu | tachi waza | katate dori shiho nage* |
 | 20 |  Sankyu | tachi waza | katate dori kokyu nage |
 | 21 |  Sankyu | tachi waza | katate dori kaiten nage |
 | 22 |  Sankyu | tachi waza | shomen uchi kote gaeshi |
-| 23 |  Sankyu | tachi waza | shomen uchi yonkkyo |
+| 23 |  Sankyu | tachi waza | shomen uchi yonkkyo* |
 | 24 |  Sankyu | tachi waza | yokomen uchi kote gaeshi  |
 | 25 |  Sankyu | tachi waza | tsuki kote gaeshi  |
 | 26 |  Sankyu | tachi waza | tsuki irimi nage  |
 | 27 |  Sankyu | tachi waza | ushiro ryote dori shiho nage  |
 | 28 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage   |
 
+\* La dupla decide si presenta la técnica con omote o ura.
 
-**A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla:** 
-
-**Esa es la técnica que tendrá que explicar con una serie de 5 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe adaptarse a distintos tamaños de pantalla.**
+**Tendrán que explicar su técnica con una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe adaptarse a distintos tamaños de pantalla.**
 
 #### AYUDA PARA LA INVESTIGACIÓN
 
