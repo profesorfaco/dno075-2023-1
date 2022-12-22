@@ -65,7 +65,7 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 
 \* La dupla decide si presenta la técnica en su versión omote o ura.
 
-**Cada dupla tendrá que enseñar su técnica mediante una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/).
+**Cada dupla tendrá que enseñar su técnica mediante una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/)**.
 
 #### AYUDA PARA LA INVESTIGACIÓN
 
