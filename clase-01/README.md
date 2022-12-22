@@ -18,7 +18,7 @@ Una aclaración importante sobre lo de "atacante" y "defensor", presentados entr
 
 **El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" no busca vencer al "atacante", sino que busca unirse a su ataque para anularlo, y por eso es *Ai* (unificación), *Ki* (fuerza vital), *Do* (camino), y en su práctica no hay competencias.
 
-Para explicar la falta de competencias en Aikido conviene aprovechar una cita a John Stevens, tomada de *El Libro del Aikido*:
+Para cerrar este preámbulo conviene sumar una cita de *El Libro del Aikido* de John Stevens:
 
 > Después de la guerra, Morihei rechazó que se hiciera ningún combante en el *Dojo* Hombu, pero un día, por alguna razón, cedió y dejó que Koichi Tohei, uno de sus discípulos más avanzados, se enfrentara contra un luchador profesional de Sudamérica. Normalmente, tales contrincantes se lanzaban con rapidez a atacar, pero el luchador se refrenó. Tras unos minutos de estar en punto muerto, el impaciente Tohei tomó la iniciativa y forzó el ataque, arreglándoselas para derribar al luchador y bloquearlo. Con todo, Morihei estaba bastante disgustado: «¡No hay necesidad de derribar a alguien que no te ha atacado!» (2001, p.40).
 
@@ -69,7 +69,7 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 
 #### AYUDA PARA LA INVESTIGACIÓN
 
-Para poder explicar cualquier técnica, deben investigar sobre ella y cuetan con 30 minutos para hacerlo.
+Para poder explicar cualquier técnica, deben investigar sobre ella y cuentan con 30 minutos para hacerlo.
 
 Se pueden encontrar muchos canales y lista de YouTube dedicadas a presentar técnicas de Aikido. Por ejemplo: 
 
@@ -81,7 +81,7 @@ También les puede servir [esta hoja de cálculo que vincula a distintas técnic
 
 Google translate también les puede servir, para buscar traducciones de los golpes (*shomen uchi, yokomen uchi, tsuki*), tomas (*ryote dori, katate dori, kata dori*) y proyecciones (*irimi nage, shiho nage*).
 
-#### AYUDA PARA LA PRESENTACIÓN
+#### AYUDA PARA LA PRESENTACIÓN ADAPTABLE A DISTINTOS TAMAÑOS DE PANTALLA
 
 Tienen que usar el `index.html` en la carpeta de esta clase-01, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-01/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-01/index.html)
 
