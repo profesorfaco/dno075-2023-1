@@ -1,4 +1,4 @@
-# Infografía Digital v5
+# Infografía Digital, 6ta. versión
 
 ### DNO075 → Diseño → Pontificia Universidad Católica de Chile
 
