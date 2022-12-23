@@ -1,6 +1,6 @@
 # Evaluación Nº1 → Infografías con SVG en HTML
 
-### Clase 06 → 11/04/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 06 → 11/04/2023
 
 En esta clase **cada estudiante** debe resolver su propia versión de una infografía digital sobre [La Tragedia de Los Andes](https://profesorfaco.github.io/dno075-2023-1/clase-06/).
 
