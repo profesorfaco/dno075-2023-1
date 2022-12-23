@@ -15,7 +15,7 @@ Cada dupla tendrá que revisar los archivos de antecedentes de infografía que n
 
 Tienen que tomar pantallazos parciales a tales infografías, **recortando sólamente 4 gráficas figurativas y 2 mixtas**; recuerden que en ningún caso es válido el pantallazo de una infografía completa. Tampoco es válido suponer que una gráfica mixta es la que tiene una base figurativa mezclada con texto: En este caso, el texto no puede considerarse como un tipo de gráfica.
 
-Además, tendrán que probar los *data smaples* de [RAWGraph 2.0](https://app.rawgraphs.io/) para generar la gráfica no-figurativa que corresponda.
+Además, tendrán que probar los *data smaples* de [RAWGraph 2.0](https://app.rawgraphs.io/) para generar la gráfica no-figurativa [que corresponda](https://datavizcatalogue.com/ES/buscar.html).
 
 #### AYUDA
 
