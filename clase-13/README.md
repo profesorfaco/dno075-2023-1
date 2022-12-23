@@ -1,6 +1,6 @@
 # Implementación de gráficos con SVG para pantallas angostas
 
-### Clase 13 → 30/05/2022
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 13 → 30/05/2022
 
 En la clase de hoy revisaremos la manera en que justifican y resuelven cada gráfica, sea figurativa, no figurativa o mixta. 
 
