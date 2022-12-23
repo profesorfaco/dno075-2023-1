@@ -6,7 +6,6 @@
 
 Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual impulsados desde el periodismo.
 
-
 - - - - - - - - - -
 
 ### Clase a Clase
