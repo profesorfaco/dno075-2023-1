@@ -1,6 +1,6 @@
 # HTML, SVG y CSS
 
-### Clase 08 → 26/09/2022
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 26/09/2022
 
 **Para retomar el avance, aprovechemos las tres mejores calificaciones**: 
 
