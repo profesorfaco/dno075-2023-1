@@ -17,7 +17,7 @@ Tienen que tomar pantallazos parciales a tales infografías, **recortando sólam
 
 Además, tendrán que probar los *data smaples* de [RAWGraph 2.0](https://app.rawgraphs.io/) para generar la gráfica no-figurativa que corresponda.
 
-#### AYUDA PARA LA PRESENTACIÓN ADAPTABLE A DISTINTOS TAMAÑOS DE PANTALLA
+#### AYUDA
 
 Tienen que usar el `index.html` en la carpeta de esta clase-02, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-02/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-02/index.html)
 
