@@ -2,6 +2,8 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 03 → 21/03/2023
 
+La tercera actividad del curso nos servirá para conocer algunos nombres y aportes relevantes a la infografía en su desarrollo que se debe, primero, al periodismo impreso y, más tarde, al digital.
+
 En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
 
 - [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-03/) (gracias a GitHub Pages)
