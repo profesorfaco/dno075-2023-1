@@ -1,6 +1,6 @@
 # Ajustes de HTML, SVG y CSS
 
-### Clase 16 → 20/06/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 16 → 20/06/2023
 
 En esta clase conviene ajustar detalles de descripción (HTML, CSS) y programación (JavaScript).
 
