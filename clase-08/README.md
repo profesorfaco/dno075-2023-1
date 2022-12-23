@@ -1,6 +1,6 @@
 # Usos de HTML, SVG y CSS en infografía digital
 
-### Clase 07 → 18/04/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 07 → 18/04/2023
 
 Usemos **Meta** o **Mega** Tags, lo que corresponde aquí es volver al código fuente de documento HTML, aprendiendo que hay algo que nos falta incluir en su cabeza (en el [elemento HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element) entre etiquetas `<head>…</head>`):
 
