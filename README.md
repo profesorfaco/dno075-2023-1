@@ -86,7 +86,7 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 #### Antecedentes
 
 - [MALOFIEJ AWARDS](https://www.malofiejgraphics.com/): *The Pulitzers for infographics, organized by the Society for News Design Spain (SNDE)*.
-- [REUTERS INTERACTIVES](https://graphics.reuters.com/): *A collection of recent work from the Reuters Graphics team*.
+- [REUTERS GRAPHICS](https://graphics.reuters.com/): *A collection of recent work from the Reuters Graphics team*.
 - [SCMP Infographics](https://www.scmp.com/infographic/): *The Collection of graphics made by The South China Morning Post*.
 - [SCMP Printed Graphics](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/): *Here are some of our favourite full-page infographics as they appeared in the newspaper*.
 - [The New York Times Graphics](https://www.nytimes.com/spotlight/graphics): *Data visualization, maps and other visual journalism from The New York Times Graphics Desk*.
