@@ -6,7 +6,7 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 
 **En la tabla que sigue aparecen nombres por investigar. A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla:**
 
-| Nº | s.XX              | s.XXI        |
+| Nº | Transformer (s.XX) | Infografista (s.XXI) |
 |:----:|:---------------|:---------------|
 | 1 |  Nombre Apellido | Nombre Apellido |
 | 2 |  Nombre Apellido | Nombre Apellido |
