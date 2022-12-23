@@ -1,6 +1,6 @@
 # Aprender y enseñar con gráficos
 
-### Clase 01 → 07/03/2023
+### Clase 01 → [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → 07/03/2023
 
 La primera actividad del curso nos servirá de diagnóstico. 
 
