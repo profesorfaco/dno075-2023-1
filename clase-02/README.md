@@ -2,19 +2,32 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 02 → 14/03/2023
 
-En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
+La segunda actividad del curso nos servirá de aprender a reconocer, diferenciadamente, a gráficas figurativas, no-figurativas y mixtas.
 
-- [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-02/) (gracias a GitHub Pages)
+La actividad tiene que ser desarrollada en duplas.
 
-- [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-02/index.html)
+Cada dupla tendrá que revisar los archivos de antecedentes de infografía que nos ofrecen:
 
-En el mismo documento `index.html` pueden encontrar más instrucciones para el desarrollo de la actividad.
+- [REUTERS GRAPHICS](https://graphics.reuters.com/): *A collection of recent work from the Reuters Graphics team*.
+- [SCMP Infographics](https://www.scmp.com/infographic/): *The Collection of graphics made by The South China Morning Post*.
+- [SCMP Printed Graphics](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/): *Here are some of our favourite full-page infographics as they appeared in the newspaper*.
+- [The New York Times Graphics](https://www.nytimes.com/spotlight/graphics): *Data visualization, maps and other visual journalism from The New York Times Graphics Desk*.
 
-Nuevamente, basta que una persona en la dupla use su [cuenta en GitHub](https://github.com/) para:
+En ellas tendrán que tomar pantallazos parciales a tales infografías, para recotar sólamente las gráficas figurativas y mixtas.
 
-1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-02`); y
+Además, tendrán que probar los *data smaples* de [RAWGraph 2.0](https://app.rawgraphs.io/) para generar la gráfica no-figurativa que corresponda.
 
-2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-02`)
+Todo esto tendrán que presentarse 
+
+#### AYUDA PARA LA PRESENTACIÓN ADAPTABLE A DISTINTOS TAMAÑOS DE PANTALLA
+
+Tienen que usar el `index.html` en la carpeta de esta clase-01, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-02/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-02/index.html)
+
+Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
+
+1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-01`); y
+
+2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-01`)
 
 La entrega se resuelve dejando comentario en Foro que será creado en Canvas para esta clase.
 
