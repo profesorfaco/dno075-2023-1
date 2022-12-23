@@ -1,6 +1,6 @@
 # Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS
 
-### Clase 10 → 09/05/2022
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 10 → 09/05/2022
 
 En esta clase cada estudiante debe completar su réplica parcial y traducción de un trabajo desarrollado por infografistas profesionales.
 
