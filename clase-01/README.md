@@ -6,7 +6,7 @@ La primera actividad del curso nos servirá de diagnóstico.
 
 La actividad tiene que ser desarrollada en duplas. 
 
-Cada dupla tendrá que aprender y enseñar una técnica de Aikido. Tendrá que enseñarla mediante una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/).
+Cada dupla tendrá que aprender y enseñar una técnica de Aikido. Para enseñarla, cada dupla usará una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/).
 
 #### PREÁMBULO
 
