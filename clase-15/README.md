@@ -1,6 +1,6 @@
 # Despliegue de gráficos con SVG en HTML
 
-### Clase 15 → 13/06/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 15 → 13/06/2023
 
 En esta clase ajustaremos cada gráfica a su contexto: Una narración vertical, que debe adaptarse a distintos tamaños de pantalla.
 
