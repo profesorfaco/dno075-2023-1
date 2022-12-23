@@ -1,6 +1,6 @@
 # Infografía, infografistas y nuevas tecnologías
 
-### Clase 03 → 21/03/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 03 → 21/03/2023
 
 En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
 
