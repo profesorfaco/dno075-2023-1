@@ -1,6 +1,6 @@
 # Infografías con SVG en HTML
 
-### Clase 05 → 04/04/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 05 → 04/04/2023
 
 En esta clase no contamos con un documento en Drive, porque iremos directo a la práctica con el documento `index.html` en esta carpeta, que pueden ver como:
 
