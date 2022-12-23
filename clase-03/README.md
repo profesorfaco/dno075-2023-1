@@ -36,7 +36,7 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 
 **Cada dupla tendrá que buscar biografía y obra de los nombres en su fila, y con ello tendrán que completar su versión de [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-03/)**.
 
-#### AYUDA PARA LA PRESENTACIÓN ADAPTABLE A DISTINTOS TAMAÑOS DE PANTALLA
+#### AYUDA
 
 Tienen que usar el `index.html` en la carpeta de esta clase-03, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-03/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-03/index.html)
 
