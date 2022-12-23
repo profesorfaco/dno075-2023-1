@@ -2,7 +2,7 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 02 → 14/03/2023
 
-La segunda actividad del curso nos servirá de aprender a reconocer, diferenciadamente, a las gráficas figurativas, no-figurativas y mixtas.
+La segunda actividad del curso nos servirá para aprender a diferenciar a las gráficas figurativas, no-figurativas y mixtas.
 
 La actividad tiene que ser desarrollada en duplas.
 
