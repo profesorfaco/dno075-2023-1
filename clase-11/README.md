@@ -4,30 +4,30 @@
 
 **A continuación se presentan 10 trabajos desarrollados por estudiantes en versiones pasadas de este Optativo. Los trabajos están agrupados en TEMÁTICAS, y el nombre de cada trabajo es la SUBTEMÁTICA**:
 
-PROGRAMAS ESPACIALES: 
+VERSIÓN 5. PROGRAMAS ESPACIALES: 
 
 - [Programa Apolo](https://programa-apolo.github.io/infografia-digital/)
 - [Space-X](https://space-x-elon-musk.github.io/infografia-digital/)
 
-CARNAVALES SUDAMERICANOS:
+VERSIÓN 4. CARNAVALES SUDAMERICANOS:
 
 - [Carnaval de Oruro](https://orurocarnaval.github.io/Examen/)
 - [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/examen/)
 
-CONFLICTOS SOCIOAMBIENTALES:
+VERSIÓN 3. VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
-- [Parque industrial Quintero y Puchuncaví](https://personas-de-sacrificio.github.io/examen/)
-- [Sequía y el negocio del agua en Petorca](https://paltorcas.github.io/examen/)
+- [Falla San Ramón](https://fallasanramon-infografiadigital.github.io/entrega_final/)
+- [El Riñihuazo](https://infografia-digital.github.io/rinihuazo-final/)
 
-FAUNA ENDÉMICA CHILENA:
+VERSIÓN 2. FAUNA ENDÉMICA CHILENA:
 
 - [Lagarto Leopardo](https://lagarto-leopardo.github.io/entrega-final/)
 - [Zorro de Chiloé](https://zorrodechiloe-infodigital.github.io/Zorro_de_Chiloe/)
 
-VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
+VERSIÓN 1. CONFLICTOS SOCIOAMBIENTALES:
 
-- [Falla San Ramón](https://fallasanramon-infografiadigital.github.io/entrega_final/)
-- [El Riñihuazo](https://infografia-digital.github.io/rinihuazo-final/)
+- [Parque industrial Quintero y Puchuncaví](https://personas-de-sacrificio.github.io/examen/)
+- [Sequía y el negocio del agua en Petorca](https://paltorcas.github.io/examen/)
 
 **En los 10 trabajos vinculados hay intenciones de acercarse a resultados profesionales tales como los publicados en [SCMP Infographics](https://www.scmp.com/infographic/) o [Reuters Graphics](https://graphics.reuters.com/). Esto es acercarse a resultados de TRABAJOS GRUPALES donde las capacidades individuales se complementan**. 
 
