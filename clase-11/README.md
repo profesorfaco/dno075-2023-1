@@ -11,13 +11,13 @@ VERSIÓN 5. PROGRAMAS ESPACIALES:
 
 VERSIÓN 4. CARNAVALES SUDAMERICANOS:
 
-- [Carnaval de Oruro](https://orurocarnaval.github.io/Examen/)
 - [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/examen/)
+- [Carnaval de Oruro](https://orurocarnaval.github.io/Examen/)
 
 VERSIÓN 3. VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
-- [Falla San Ramón](https://fallasanramon-infografiadigital.github.io/entrega_final/)
 - [El Riñihuazo](https://infografia-digital.github.io/rinihuazo-final/)
+- [Falla San Ramón](https://fallasanramon-infografiadigital.github.io/entrega_final/)
 
 VERSIÓN 2. FAUNA ENDÉMICA CHILENA:
 
