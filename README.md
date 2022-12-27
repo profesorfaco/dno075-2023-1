@@ -13,7 +13,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 **Según [Calendario de Actividades Académicas y Estudiantiles 2023](https://registrosacademicos.uc.cl/wp-content/uploads/2022/11/Calendario-Academico-2023.pdf), las clases del primer semestre comienzan el día lunes 6 de marzo y finalizan el viernes 30 de junio**. 
 
-Considerando los días martes entre 7 de agosto y 27 de junio, proyectamos **el siguiente clase a clase:**
+Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el siguiente clase a clase:**
 
 [Clase 01 → 07/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-01) → Aprender y enseñar con gráficos
 
