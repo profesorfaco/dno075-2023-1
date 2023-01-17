@@ -53,15 +53,14 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 | 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage* |
 | 18 |  Sankyu | suwari waza | shomen uchi yonkyo* |
 | 19 |  Sankyu | tachi waza | katate dori shiho nage* |
-| 20 |  Sankyu | tachi waza | katate dori kokyu nage |
-| 21 |  Sankyu | tachi waza | katate dori kaiten nage |
-| 22 |  Sankyu | tachi waza | shomen uchi kote gaeshi |
-| 23 |  Sankyu | tachi waza | shomen uchi yonkkyo* |
-| 24 |  Sankyu | tachi waza | yokomen uchi kote gaeshi  |
-| 25 |  Sankyu | tachi waza | tsuki kote gaeshi  |
-| 26 |  Sankyu | tachi waza | tsuki irimi nage  |
-| 27 |  Sankyu | tachi waza | ushiro ryote dori shiho nage  |
-| 28 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage   |
+| 20 |  Sankyu | tachi waza | katate dori kaiten nage |
+| 21 |  Sankyu | tachi waza | shomen uchi kote gaeshi |
+| 22 |  Sankyu | tachi waza | shomen uchi yonkkyo* |
+| 23 |  Sankyu | tachi waza | yokomen uchi kote gaeshi  |
+| 24 |  Sankyu | tachi waza | tsuki kote gaeshi  |
+| 25 |  Sankyu | tachi waza | tsuki irimi nage  |
+| 26 |  Sankyu | tachi waza | ushiro ryote dori shiho nage  |
+| 27 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage   |
 
 \* La dupla decide si presenta la técnica en su versión *omote* o *ura*.
 
