@@ -48,7 +48,7 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 | 12 |  Yonkyu | suwari waza | kata dori nikkyo* |
 | 13 |  Yonkyu | tachi waza | shomen uchi sankyo* |
 | 14 |  Yonkyu | tachi waza | ryote dori shiho nage |
-| 15 |  Yonkyu | tachi waza | ryote dori kokyu nage |
+| 15 |  Yonkyu | tachi waza | ryote dori kokyu nage** |
 | 16 |  Yonkyu | tachi waza | yokomen uchi shiho nage |
 | 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage* |
 | 18 |  Sankyu | suwari waza | shomen uchi yonkyo* |
@@ -60,9 +60,11 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 | 24 |  Sankyu | tachi waza | tsuki kote gaeshi  |
 | 25 |  Sankyu | tachi waza | tsuki irimi nage  |
 | 26 |  Sankyu | tachi waza | ushiro ryote dori shiho nage  |
-| 27 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage   |
+| 27 |  Sankyu | tachi waza | ushiro ryote dori kokyu nage**   |
 
 \* La dupla decide si presenta la técnica en su versión *omote* o *ura*.
+
+\*\* Hay muchas formas de kokyu nage. La dupla tendrá que decidir por una.
 
 **Cada dupla tendrá que enseñar su técnica mediante una serie de 6 gráficos figurativos (fotogramas, ilutraciones o croquis), que podrán acompañar de textos breves para desplegar como una narración vertical, la que debe [adaptarse a distintos tamaños de pantalla](https://profesorfaco.github.io/dno075-2023-1/clase-01/)**.
 
