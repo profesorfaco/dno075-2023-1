@@ -63,7 +63,7 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 
 - Una cuenta personal en [GitHub](https://github.com/join)
 
-- Un editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
+- Un editor de código fuente ([Sublime Text](https://www.sublimetext.com/) o [Phoenix Code Editor](https://phcode.dev/))
 
 - Un editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
 
