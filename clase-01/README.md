@@ -12,11 +12,11 @@ Cada dupla tendrá que aprender y enseñar una técnica de Aikido. Para enseñar
 
 Así como el Judo y el Karate-do, **Aikido es un *gendai budō* (現代武道)** o arte marcial tradicional moderno japonés. Éste fue **desarrollado inicialmente por Ō-sensei Morihei Ueshiba** (1883-1969).
 
-El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Desde la obtención del cinturón negro, quienes practican aikido acostumbran llevar una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keiko-gi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
+Desde la obtención del cinturón negro, quienes practican aikido acostumbran llevar una [hakama (袴)](https://es.wikipedia.org/wiki/Hakama) sobre el pantalón blanco del uniforme de práctica (*keiko-gi*, 稽古着), y así se completa el traje característico de la disciplina (arriba blanco y abajo negro).
 
-Una aclaración importante sobre lo de "atacante" y "defensor", presentados entre comillas: 
+El Aikido se practica en parejas que se turnan el rol de "atacante" y "defensor". Una aclaración importante sobre tales roles:
 
-**El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" no busca vencer al "atacante", sino que busca unirse a su ataque para anularlo, y por eso es *Ai* (unificación), *Ki* (fuerza vital), *Do* (camino), y en su práctica no hay competencias.
+**El nombre para designar al que "ataca" es *Uke***, una palabra que se relaciona con el que recibe y cae, porque habitualmente el "atacante" termina en el suelo, inmovilizado. **Y el nombre para designar al que "se defiende" puede ser *Nage* o *Tori***; la primera palabra es usada para referir a proyecciones y la segunda es usada para referir a quien toma la iniciativa o realiza la acción. En Aikido, el "defensor" no busca vencer al "atacante", sino que busca unirse a su ataque para anularlo, y por eso es *Ai* (unificación), *Ki* (fuerza vital), *Do* (camino).
 
 Para cerrar este preámbulo, conviene sumar una cita de *El Libro del Aikido* de John Stevens:
 
