@@ -2,7 +2,7 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 05 → 04/04/2023
 
-En esta clase no contamos con un documento en Drive, porque iremos directo a la práctica con el documento `index.html` en esta carpeta, que pueden ver como:
+En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el index.html en esta carpeta, que pueden ver como:
 
 - [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-05/) (gracias a GitHub Pages)
 
