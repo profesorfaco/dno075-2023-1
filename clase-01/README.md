@@ -33,26 +33,26 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 | Nº | Kyu              | Waza        | Taijutsu |
 |:----:|:---------------|:------------|:------------------|
 | 1 |  Gokyu | suwari waza | shomen uchi ikkyo*  |
-| 2 |  Gokyu | suwari waza | shomen uchi nikkyo*  |
+| 2 |  Gokyu | suwari waza | **shomen uchi nikkyo**\*  |
 | 3 |  Gokyu | suwari waza | shomen uchi sankkyo* |
 | 4 |  Gokyu | suwari waza | ryote dori kokyu ho |
 | 5 |  Gokyu | tachi waza | shomen uchi ikkyo* |
 | 6 |  Gokyu | tachi waza | shomen uchi nikkyo* |
-| 7 |  Gokyu | tachi waza | shomen uchi irimi nage |
-| 8 |  Gokyu | tachi waza | katate dori shiho nage* |
+| 7 |  Gokyu | tachi waza | **shomen uchi irimi nage** |
+| 8 |  Gokyu | tachi waza | **katate dori shiho nage**\* |
 | 9 |  Gokyu | tachi waza | katate dori kote gaeshi |
 | 10 |  Gokyu | tachi waza | katate dori kokyu nage* |
-| 11 |  Gokyu | tachi waza | ryote dori tenchinage |
-| 12 |  Yonkyu | suwari waza | kata dori nikkyo* |
+| 11 |  Gokyu | tachi waza | **ryote dori tenchinage** |
+| 12 |  Yonkyu | suwari waza | **kata dori nikkyo**\* |
 | 13 |  Yonkyu | tachi waza | shomen uchi sankyo* |
 | 14 |  Yonkyu | tachi waza | ryote dori shiho nage |
-| 15 |  Yonkyu | tachi waza | ryote dori kokyu nage** |
+| 15 |  Yonkyu | tachi waza | **ryote dori kokyu nage**\*\* |
 | 16 |  Yonkyu | tachi waza | yokomen uchi shiho nage |
 | 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage* |
-| 18 |  Sankyu | suwari waza | shomen uchi yonkyo* |
+| 18 |  Sankyu | suwari waza | **shomen uchi yonkyo**\* |
 | 19 |  Sankyu | tachi waza | katate dori shiho nage* |
 | 20 |  Sankyu | tachi waza | katate dori kaiten nage |
-| 21 |  Sankyu | tachi waza | shomen uchi kote gaeshi |
+| 21 |  Sankyu | tachi waza | **shomen uchi kote gaeshi** |
 | 22 |  Sankyu | tachi waza | shomen uchi yonkkyo* |
 | 23 |  Sankyu | tachi waza | yokomen uchi kote gaeshi  |
 | 24 |  Sankyu | tachi waza | tsuki kote gaeshi  |
