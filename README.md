@@ -76,12 +76,13 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 
 #### Expertas/os
 
-- Adolfo Arranz - https://www.scmp.com/author/adolfo-arranz
+- Adolfo Arranz - https://www.instagram.com/adolfux/
 - Alberto Cairo - http://albertocairo.com/
-- Jaime Serra Palou - https://www.archivosjaimeserra.com/
+- Marco Hernández - https://mhinfographics.com/
 - Nigel Holmes - http://www.nigelholmes.com/
 - Giorgia Lupi - http://giorgialupi.com/ 
 - Isabel Meirelles - https://isabelmeirelles.com/
+- Simon Scarr - http://www.simonscarr.com/
 
 #### Antecedentes
 
