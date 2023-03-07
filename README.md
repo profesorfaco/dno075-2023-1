@@ -6,7 +6,7 @@
 
 Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual impulsados desde el periodismo.
 
-La información contenida en este repositorio será complementada con el uso de Canvas: https://cursos.canvas.uc.cl/courses/sis_course_id:202320-24737-DNO075-1
+La información contenida en este repositorio será complementada con el uso de Canvas: https://cursos.canvas.uc.cl/courses/56995
 
 - - - - - - - - - -
 
