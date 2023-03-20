@@ -10,8 +10,8 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 |:----:|:---------------|:---------------|
 | 1 | Boris Artzybasheff | Adolfo Arranz |
 | 2 | Fritz Kahn | Amanda Cox |
-| 3 | Gerd Arntz | Eleanor Lutz |
-| 4 | Florence Nightingale | Federica Frapagne |
+| 3 | Gerd Arntz | Diana Estefanía Rubio |
+| 4 | Florence Nightingale | Eleanor Lutz |
 | 5 | Herbert Bayer | Fernando G. Baptista |
 | 6 | Iving Geis | Giorgia Lupi |
 | 7 | John Philipps Emslie | Jen Christiansen |
