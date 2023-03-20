@@ -27,7 +27,7 @@ El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de M
 
 Así queda, según Francesco Franchi (2013), que un 'transformer' es un especialista en *Aufklärung*, término alemán que puede referir a la Ilustración (Lumières, en francés; Enlightenment, en inglés), y también refiere, simplemente, a explicar o aclarar. Pero explicar o aclarar no es tan simple, y muchas veces implica algo más que visualizar: Implica hacer pedagogía visual, por lo que es justo pensar en un 'transformer' como un pedagogo visual del siglo XX.
 
-En la columna de "Transformer (s.XX)" pueden encontrar 6 nombres que aportaron, desde mediados del siglo XX, a la revista Fortune: https://www.fulltable.com/vts/f/fortune/menub.htm - Los demás son nombres de 'transformers' que no son difíciles de encontrar con Google.
+En la columna de "Transformer (s.XX)" pueden encontrar 6 nombres que aportaron a la [revista Fortune de mediados del siglo XX](https://www.fulltable.com/vts/f/fortune/menub.htm). Y Los demás son nombres de 'transformers' que no son difíciles de encontrar con Google.
 
 En la columna de encabezado "Infografista (s.XXI)" podrán encontrar a profesionales que actualmente pueden presentarse como infografistas, cuando la especialidad tiene cierto reconocimiento y es, más o menos, fácil explicar o aclarar su aporte. 
 
