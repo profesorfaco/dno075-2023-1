@@ -28,7 +28,7 @@ El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de M
 
 > From the data given in words and figures a way has to be found to extract the essential facts and put them into picture forms. It is the responsability of the 'transformer' to understand data, to get all the necessary information from the expert, to decide what is worth transmitting to the public, how to make it understandable, how to link it with general knowledge or with information already given in other charts.
 
-Así queda, según Francesco Franchi (2013), que un 'transformer' es un especialista en *Aufklärung*, término alemán que puede referir a la Ilustración (Lumières, en francés; Enlightenment, en inglés), y también refiere, simplemente, a explicar o aclarar. Pero explicar o aclarar no es tan simple, y muchas veces implica algo más que visualizar: Implica hacer pedagogía visual, por lo que es justo pensar en un 'transformer' como un pedagogo visual del siglo XX.
+Según Francesco Franchi (2013), un 'transformer' es un especialista en *Aufklärung*, término alemán que puede referir a la Ilustración (Lumières, en francés; Enlightenment, en inglés), y también refiere, simplemente, a explicar o aclarar. Pero explicar o aclarar no es tan simple, y muchas veces implica algo más que visualizar: Implica hacer pedagogía visual, por lo que es justo pensar en un 'transformer' como un pedagogo visual.
 
 En la columna de "Transformer (s.XX)" pueden encontrar 7 nombres que aportaron a la [revista Fortune de mediados del siglo XX](https://www.fulltable.com/vts/f/fortune/menub.htm). Los demás son nombres de 'transformers' que no son difíciles de encontrar.
 
