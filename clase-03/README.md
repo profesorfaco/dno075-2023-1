@@ -11,16 +11,15 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 | 1 | Boris Artzybasheff | Adolfo Arranz |
 | 2 | Fritz Kahn | Amanda Cox |
 | 3 | Gerd Arntz | Eleanor Lutz |
-| 4 | Herbert Bayer | Fernando G. Baptista  |
-| 5 | Iving Geis | Francesco Franchi |
-| 6 | John Philipps Emslie | Giorgia Lupi |
-| 7 | Matthew Leibowitz | Jen Christiansen |
-| 8 | Max Gschwind | Jennifer Daniel |
-| 9 | Rolf Klep | Marcelo Duhalde |
-| 10 | Richard Edes Harrison | Nadieh Bremer |
-| 11 | Nombre Apellido | Nadja Popovich |
-| 12 | Nombre Apellido | Simon Scarr |   
-
+| 4 | Florence Nightingale | Fernando G. Baptista  |
+| 5 | Francis Amasa Walker | Francesco Franchi |
+| 6 | Herbert Bayer | Giorgia Lupi |
+| 7 | Iving Geis | Jen Christiansen |
+| 8 | John Philipps Emslie | Jennifer Daniel |
+| 9 | Matthew Leibowitz | Marcelo Duhalde |
+| 10 | Max Gschwind | Nadieh Bremer |
+| 11 | Rolf Klep | Nadja Popovich |
+| 12 | Richard Edes Harrison | Simon Scarr |   
 
 
 El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
