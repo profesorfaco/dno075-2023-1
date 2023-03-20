@@ -9,12 +9,12 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 | Nº | Transformer (s.XX) | Infografista (s.XXI) |
 |:----:|:---------------|:---------------|
 | 1 | Boris Artzybasheff | Adolfo Arranz |
-| 2 | Fritz Kahn | Amanda Cox |
-| 3 | Gerd Arntz | Diana Estefanía Rubio |
-| 4 | Florence Nightingale | Eleanor Lutz |
-| 5 | Herbert Bayer | Fernando G. Baptista |
-| 6 | Iving Geis | Giorgia Lupi |
-| 7 | John Grimwade | ?? |
+| 2 | Fritz Kahn | Alberto Lucas López | 
+| 3 | Gerd Arntz | Amanda Cox  |
+| 4 | Florence Nightingale | Diana Estefanía Rubio |
+| 5 | Herbert Bayer | Eleanor Lutz |
+| 6 | Iving Geis | Fernando G. Baptista |
+| 7 | John Grimwade | Giorgia Lupi |
 | 8 | John Philipps Emslie | Jen Christiansen |
 | 9 | Matthew Leibowitz  | Jennifer Daniel |
 | 10 | Max Gschwind | Marcelo Duhalde |
