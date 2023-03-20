@@ -8,31 +8,28 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 
 | Nº | Transformer (s.XX) | Infografista (s.XXI) |
 |:----:|:---------------|:---------------|
-| 1 |  Nombre Apellido | Nombre Apellido |
-| 2 |  Nombre Apellido | Nombre Apellido |
-| 3 |  Nombre Apellido | Nombre Apellido |
-| 4 |  Nombre Apellido | Nombre Apellido |
-| 5 |  Nombre Apellido | Nombre Apellido |
-| 6 |  Nombre Apellido | Nombre Apellido |
-| 7 |  Nombre Apellido | Nombre Apellido |
-| 8 |  Nombre Apellido | Nombre Apellido |
-| 9 |  Nombre Apellido | Nombre Apellido |
-| 10 |  Nombre Apellido | Nombre Apellido |
-| 11 |  Nombre Apellido | Nombre Apellido |
-| 12 |  Nombre Apellido | Nombre Apellido |
-| 13 |  Nombre Apellido | Nombre Apellido |
-| 14 |  Nombre Apellido | Nombre Apellido |
-| 15 |  Nombre Apellido | Nombre Apellido |
-| 16 |  Nombre Apellido | Nombre Apellido |
-| 17 |  Nombre Apellido | Nombre Apellido |
-| 18 |  Nombre Apellido | Nombre Apellido |
-| 19 |  Nombre Apellido | Nombre Apellido |
-| 20 |  Nombre Apellido | Nombre Apellido |
-| 21 |  Nombre Apellido | Nombre Apellido |
-| 22 |  Nombre Apellido | Nombre Apellido |
-| 23 |  Nombre Apellido | Nombre Apellido |
-| 24 |  Nombre Apellido | Nombre Apellido |
-| 25 |  Nombre Apellido | Nombre Apellido |
+| 1 | Fritz Kahn | Adolfo Arranz |
+| 2 | Gerd Arntz | Amanda Cox |
+| 3 | Herbert Bayer | Eleanor Lutz |
+| 4 | Iving Geis | Fernando G. Baptista  |
+| 5 | Matthew Leibowitz  | Francesco Franchi |
+| 6 | Max Gschwind | Giorgia Lupi |
+| 7 | Rolf Klep | Jen Christiansen |
+| 8 | Richard Edes Harrison | Jennifer Daniel |
+| 9 | Nombre Apellido | Marcelo Duhalde |
+| 10 |  Nombre Apellido | Nadieh Bremer |
+| 11 |  Nombre Apellido | Nadja Popovich |
+| 12 |  Nombre Apellido | Simon Scarr |      
+
+El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
+
+> From the data given in words and figures a way has to be found to extract the essential facts and put them into picture forms. It is the responsability of the 'transformer' to understand data, to get all the necessary information from the expert, to decide what is worth transmitting to the public, how to make it understandable, how to link it with general knowledge or with information already given in other charts.
+
+Así queda, según Francesco Franchi (2013), que un 'transformer' es un especialista en *Aufklärung*, término alemán que puede referir a la Ilustración (Lumières, en francés; Enlightenment, en inglés), y también refiere, simplemente, a explicar o aclarar. Pero explicar o aclarar no es tan simple, y muchas veces implica algo más que visualizar: Implica hacer pedagogía visual, por lo que es justo pensar en un 'transformer' como un pedagogo visual del siglo XX.
+
+En la columna de "Transformer (s.XX)" pueden encontrar 6 nombres que aportaron, desde mediados del siglo XX, a la revista Fortune: https://www.fulltable.com/vts/f/fortune/menub.htm - Los demás son nombres de 'transformers' que no son difíciles de encontrar con Google.
+
+En la columna de encabezado "Infografista (s.XXI)" podrán encontrar a profesionales que actualmente pueden presentarse como infografistas, cuando la especialidad tiene cierto reconocimiento y es, más o menos, fácil explicar o aclarar su aporte. 
 
 **Cada dupla tendrá que buscar biografía y obra de los nombres en su fila, y con ello tendrán que completar su versión de [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-03/)**.
 
