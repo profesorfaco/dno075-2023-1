@@ -8,18 +8,19 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 
 | Nº | Transformer (s.XX) | Infografista (s.XXI) |
 |:----:|:---------------|:---------------|
-| 1 | Fritz Kahn | Adolfo Arranz |
-| 2 | Gerd Arntz | Amanda Cox |
-| 3 | Herbert Bayer | Eleanor Lutz |
-| 4 | Iving Geis | Fernando G. Baptista  |
-| 5 | John Philipps Emslie | Francesco Franchi |
-| 6 | Matthew Leibowitz | Giorgia Lupi |
-| 7 | Max Gschwind | Jen Christiansen |
-| 8 | Rolf Klep | Jennifer Daniel |
-| 9 | Richard Edes Harrison | Marcelo Duhalde |
-| 10 |  Nombre Apellido | Nadieh Bremer |
-| 11 |  Nombre Apellido | Nadja Popovich |
-| 12 |  Nombre Apellido | Simon Scarr |   
+| 1 | Boris Artzybasheff | Adolfo Arranz |
+| 2 | Fritz Kahn | Amanda Cox |
+| 3 | Gerd Arntz | Eleanor Lutz |
+| 4 | Herbert Bayer | Fernando G. Baptista  |
+| 5 | Iving Geis | Francesco Franchi |
+| 6 | John Philipps Emslie | Giorgia Lupi |
+| 7 | Matthew Leibowitz | Jen Christiansen |
+| 8 | Max Gschwind | Jennifer Daniel |
+| 9 | Rolf Klep | Marcelo Duhalde |
+| 10 | Richard Edes Harrison | Nadieh Bremer |
+| 11 | Nombre Apellido | Nadja Popovich |
+| 12 | Nombre Apellido | Simon Scarr |   
+
 
 
 El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
@@ -28,7 +29,7 @@ El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de M
 
 Así queda, según Francesco Franchi (2013), que un 'transformer' es un especialista en *Aufklärung*, término alemán que puede referir a la Ilustración (Lumières, en francés; Enlightenment, en inglés), y también refiere, simplemente, a explicar o aclarar. Pero explicar o aclarar no es tan simple, y muchas veces implica algo más que visualizar: Implica hacer pedagogía visual, por lo que es justo pensar en un 'transformer' como un pedagogo visual del siglo XX.
 
-En la columna de "Transformer (s.XX)" pueden encontrar 6 nombres que aportaron a la [revista Fortune de mediados del siglo XX](https://www.fulltable.com/vts/f/fortune/menub.htm). Y Los demás son nombres de 'transformers' que no son difíciles de encontrar con Google.
+En la columna de "Transformer (s.XX)" pueden encontrar 7 nombres que aportaron a la [revista Fortune de mediados del siglo XX](https://www.fulltable.com/vts/f/fortune/menub.htm). Y Los demás son nombres de 'transformers' que no son difíciles de encontrar.
 
 En la columna de encabezado "Infografista (s.XXI)" podrán encontrar a profesionales que actualmente pueden presentarse como infografistas, cuando la especialidad tiene cierto reconocimiento y es, más o menos, fácil explicar o aclarar su aporte. 
 
