@@ -12,13 +12,13 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 | 2 | Fritz Kahn | Amanda Cox |
 | 3 | Gerd Arntz | Eleanor Lutz |
 | 4 | Florence Nightingale | Fernando G. Baptista  |
-| 5 | Francis Amasa Walker | Francesco Franchi |
-| 6 | Herbert Bayer | Giorgia Lupi |
-| 7 | Iving Geis | Jen Christiansen |
-| 8 | John Philipps Emslie | Jennifer Daniel |
-| 9 | Matthew Leibowitz | Marcelo Duhalde |
-| 10 | Max Gschwind | Nadieh Bremer |
-| 11 | Rolf Klep | Nadja Popovich |
+| 5 | Francis Amasa Walker | Giorgia Lupi |
+| 6 | Herbert Bayer | Jen Christiansen |
+| 7 | Iving Geis | Jennifer Daniel |
+| 8 | John Philipps Emslie | Marcelo Duhalde |
+| 9 | Matthew Leibowitz | Marco Hernández |
+| 10 | Max Gschwind | Nadja Popovich |
+| 11 | Rolf Klep | Nigel Holmes |
 | 12 | Richard Edes Harrison | Simon Scarr |   
 
 
