@@ -24,7 +24,7 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 |	14	|	Richard Edes Harrison	|	Nadja Popovich	|
 |	15	|	Willard Cope Brinton	|	Simon Scarr	|
 
-El encabezado de la columna "Transformer (s.XX)" hace referencia a las idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
+El encabezado de la **columna "Transformer (s.XX)"** hace referencia a las idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
 
 > From the data given in words and figures a way has to be found to extract the essential facts and put them into picture forms. It is the responsability of the 'transformer' to understand data, to get all the necessary information from the expert, to decide what is worth transmitting to the public, how to make it understandable, how to link it with general knowledge or with information already given in other charts.
 
@@ -32,7 +32,7 @@ Según Francesco Franchi (2013), un 'transformer' es un especialista en *Aufklä
 
 En la columna de "Transformer (s.XX)" pueden encontrar 7 nombres que aportaron a la [revista Fortune de mediados del siglo XX](https://www.fulltable.com/vts/f/fortune/menub.htm). Los demás son nombres de 'transformers' que no son difíciles de encontrar.
 
-En la columna de encabezado "Infografista (s.XXI)" podrán encontrar a profesionales que actualmente pueden presentarse como tales, cuando la especialidad tiene cierto reconocimiento y es, más o menos, fácil explicar o aclarar su aporte en una evolución reciente de las Tecnologías de la Información y la Comunicación: [Isabel Meirelles – The impact of technology on infographics & data visualizations in news(-papers)
+En **la columna de encabezado "Infografista (s.XXI)"** podrán encontrar a profesionales que actualmente pueden presentarse como tales, cuando la especialidad tiene cierto reconocimiento y es, más o menos, fácil explicar o aclarar su aporte en una evolución reciente de las Tecnologías de la Información y la Comunicación: [Isabel Meirelles – The impact of technology on infographics & data visualizations in news(-papers)
 ](https://www.youtube.com/watch?v=Nb0HfCj1C7Q)
 
 **Cada dupla tendrá que buscar datos biográficos y varios trabajos de los nombres en su fila, y con ello tendrán que completar su versión de [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-03/)**.
