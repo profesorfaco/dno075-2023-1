@@ -38,21 +38,21 @@ En la tabla que sigue aparecen técnicas del temario para *Gokyu*, *Yonkyu* y *S
 | 4 |  Gokyu | suwari waza | ryote dori kokyu ho | — |
 | 5 |  Gokyu | tachi waza | shomen uchi ikkyo* | — |
 | 6 |  Gokyu | tachi waza | shomen uchi nikkyo* | — |
-| 7 |  Gokyu | tachi waza | **shomen uchi irimi nage** | Pendiente | 
-| 8 |  Gokyu | tachi waza | **katate dori shiho nage**\* | Pendiente |
+| 7 |  Gokyu | tachi waza | **shomen uchi irimi nage** | https://antooot.github.io/primera-clase/ | 
+| 8 |  Gokyu | tachi waza | **katate dori shiho nage**\* | https://katiaquintanilla.github.io/primera-clase/ |
 | 9 |  Gokyu | tachi waza | katate dori kote gaeshi | — |
 | 10 |  Gokyu | tachi waza | katate dori kokyu nage* | — |
 | 11 |  Gokyu | tachi waza | **ryote dori tenchinage** | Pendiente |
-| 12 |  Yonkyu | suwari waza | **kata dori nikkyo**\* | Pendiente |
+| 12 |  Yonkyu | suwari waza | **kata dori nikkyo**\* | https://alvarado1constanza.github.io/primera-clase/ |
 | 13 |  Yonkyu | tachi waza | shomen uchi sankyo* | — |
 | 14 |  Yonkyu | tachi waza | ryote dori shiho nage | — |
 | 15 |  Yonkyu | tachi waza | **ryote dori kokyu nage**\*\* | Pendiente |
 | 16 |  Yonkyu | tachi waza | yokomen uchi shiho nage | — |
 | 17 |  Yonkyu | tachi waza | yokomen uchi irimi nage* | — |
-| 18 |  Sankyu | suwari waza | **shomen uchi yonkyo**\* | Pendiente |
+| 18 |  Sankyu | suwari waza | **shomen uchi yonkyo**\* | https://maxramirezolea.github.io/1_clase/ |
 | 19 |  Sankyu | tachi waza | katate dori shiho nage* | — |
 | 20 |  Sankyu | tachi waza | katate dori kaiten nage | — |
-| 21 |  Sankyu | tachi waza | **shomen uchi kote gaeshi** | Pendiente |
+| 21 |  Sankyu | tachi waza | **shomen uchi kote gaeshi** | https://magdapino.github.io/primera-clase/ |
 | 22 |  Sankyu | tachi waza | shomen uchi yonkkyo* | — |
 | 23 |  Sankyu | tachi waza | yokomen uchi kote gaeshi  | — |
 | 24 |  Sankyu | tachi waza | tsuki kote gaeshi  | — |
