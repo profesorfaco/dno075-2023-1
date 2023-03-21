@@ -2,6 +2,38 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 04 → 28/03/2023
 
+**Ya hemos trabajado con imágenes rasterizadas (o de mapa de bits)**, que se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. Ya conocemos distintos formatos de archivo para este tipo de imágenes: .GIF, .JPG o .PNG. A tales podrían sumar formatos de "next-gen" tales como .WebP o .AVIF.
+
+Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene que apuntar al uso las dimensiones justas y necesarias, además de una compresión más inteligente. Las dimensiones se pueden cuidar con Photoshop o Photopea.com, mientras la compresión se puede cuidar con la opción de exportar para web  y dispositivos del mismo Photoshop, y/o tinypng.com.
+
+**Desde hoy vamos a trabajar con otro tipo de imagen, con imágenes vectoriales**, que se crean mediante la definición de puntos y curvas. Por tal condición se mantienen enfocadas y nítidas, independiente de su tamaño.
+
+**Todas las gráficas vectoriales son escalables, y algunas pueden ser SVG (Scalable Vector Graphics)**.
+
+Es muy probable que hayan visto SVG como una extensión con la que es posible guardar un archivo de Adobe Illustator. Menos probable es que hayan visto SVG como sigue: 
+
+```
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<path d="M11.25,57c0-17.72,10.21-31.61,18.21-38.5h1.6c-.62.86-4.18,10.7-4.18,20.66,0,9.47,2.46,18.45,6,22.76L45.2,61,31.67,72.72v2.09L51.23,73l19.68,1.84V72.72L57.26,61l13,.86V60.42L57.13,48.61l12.55.86a27.64,27.64,0,0,0,2.71-11.68,33.6,33.6,0,0,0-2.46-11.32h1.23A38.67,38.67,0,0,1,88.75,59.19c0,18.21-15.63,32.1-32.48,35.06V80.35a29.21,29.21,0,0,0-10.08-1.6V94.61C28.23,92.65,11.25,76.66,11.25,57Zm23.5-7.63,10.58-.74L33.89,59.44A44.61,44.61,0,0,1,34.75,49.35ZM51.23,30.16,35.36,45.29c3.08-14.88,10-25.34,10-35a13,13,0,0,0-1-4.55h1.48c10.21,6,23.74,22.63,23.74,32.22A22.67,22.67,0,0,1,68,46.64Z"></path>
+</svg>
+```
+
+Copien el código recién presentado y péguenlo en un documento nuevo de un editor de código fuente o un block de notas. Luego, guarden el documento como `guemil.svg`. Una vez guardado, arrastren el documento a una ventana nueva en su navegador. 
+
+¿Qué es lo que ven en tal ventana? ¿Notan que, independiente del tamaño de la ventana, lo que ven se mantiene enfocado y nítido? 
+
+Lo que ven es una imagen vectorial basada en un único [<path>](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths), que es una entre varias [formas básicas](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) disponibles en este [lenguaje XML, parecido a XHTML, que puede ser usado para dibujar gráficos vectoriales](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial/Introduction).
+
+Si es que tienen Illustrator o Inkscape en sus computadores, pueden abrir allí el archivo `‌wildfire.svg`, para luego editarlo a un modo WYSIWYG (What You See Is What You Get).
+
+Llegado a este punto podemos volver a https://app.rawgraphs.io/ y esta vez descargar un gráfico no figurativo con la extensión .svg
+
+También podríamos aprovechar más íconos ofrecidos por [Guemil](https://www.guemil.info/icons/), [Noun Project](https://thenounproject.com/icons/), [OpenMoji](https://openmoji.org/library/) y un largo etcétera.
+
+O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Adobe Illustrator u otra aplicación similares, tales como [Figma](https://www.figma.com/community/plugin/814345141907543603/SVG-Export) o [InkScape](https://inkscape.org/es/)
+
+- - - - - - - - - - - - - - - 
+
 En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
 
 - [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages)
