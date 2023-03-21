@@ -8,7 +8,7 @@ Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene
 
 **Desde hoy vamos a trabajar con otro tipo de imagen, con imágenes vectoriales**, que se crean mediante la definición de puntos y curvas. Por tal condición se mantienen enfocadas y nítidas, independiente de su tamaño.
 
-**Todas las gráficas vectoriales son escalables, y algunas pueden ser SVG (Scalable Vector Graphics)**.
+**Todas las imágenes vectoriales son escalables, y algunas pueden ser SVG (Scalable Vector Graphics)**. 
 
 Es muy probable que hayan visto SVG como una extensión con la que es posible guardar un archivo de Adobe Illustator. Menos probable es que hayan visto SVG como sigue: 
 
