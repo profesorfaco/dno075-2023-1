@@ -32,7 +32,7 @@ Según Francesco Franchi (2013), un 'transformer' es un especialista en *Aufklä
 
 En la columna de "Transformer (s.XX)" pueden encontrar 7 nombres que aportaron a la [revista Fortune de mediados del siglo XX](https://www.fulltable.com/vts/f/fortune/menub.htm). Los demás son nombres de 'transformers' que no son difíciles de encontrar.
 
-**En la columna de encabezado "Infografista (s.XXI)"** podrán encontrar a profesionales que actualmente pueden presentarse como tales, cuando la especialidad tiene cierto reconocimiento y es, más o menos, fácil explicar o aclarar su aporte en una evolución reciente de las Tecnologías de la Información y la Comunicación: [Isabel Meirelles – The impact of technology on infographics & data visualizations in news(-papers)
+**En la columna de encabezado "Infografista (s.XXI)"** podrán encontrar a profesionales que actualmente pueden presentarse como tales, cuando la especialidad tiene cierto reconocimiento y es fácil de explicar o aclarar su aporte en una evolución reciente de las Tecnologías de la Información y la Comunicación: [Isabel Meirelles – The impact of technology on infographics & data visualizations in news(-papers)
 ](https://www.youtube.com/watch?v=Nb0HfCj1C7Q)
 
 **Cada dupla tendrá que buscar datos biográficos y varios trabajos de los nombres en su fila, y con ello tendrán que completar su versión de [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-03/)**.
