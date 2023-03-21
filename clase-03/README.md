@@ -24,7 +24,7 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 |	14	|	Richard Edes Harrison	|	Nadja Popovich	|
 |	15	|	Willard Cope Brinton	|	Simon Scarr	|
 
-**El encabezado de la columna "Transformer (s.XX)"** hace referencia a las idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
+**El encabezado de la columna "Transformer (s.XX)"** hace referencia a la idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
 
 > From the data given in words and figures a way has to be found to extract the essential facts and put them into picture forms. It is the responsability of the 'transformer' to understand data, to get all the necessary information from the expert, to decide what is worth transmitting to the public, how to make it understandable, how to link it with general knowledge or with information already given in other charts.
 
