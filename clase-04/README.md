@@ -2,15 +2,13 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 04 → 28/03/2023
 
-**Ya hemos trabajado con imágenes rasterizadas (o de mapa de bits)**, que se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. Ya conocemos distintos formatos de archivo para este tipo de imágenes: .GIF, .JPG o .PNG. A tales podrían sumar formatos de "next-gen" tales como .WebP o .AVIF.
+**Ya hemos trabajado con imágenes rasterizadas (o de mapa de bits)**, que se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. Ya conocemos distintos formatos de archivo para este tipo de imágenes: `.GIF`, `.JPG` o `.PNG`. A tales podrían sumar formatos de "next-gen" tales como [`.WebP`](https://www.adobe.com/cl/creativecloud/file-types/image/raster/webp-file.html) o [`.AVIF`](https://es.wikipedia.org/wiki/AVIF).
 
-Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene que apuntar al uso las dimensiones justas y necesarias, además de una compresión más inteligente. Las dimensiones se pueden cuidar con Photoshop o Photopea.com, mientras la compresión se puede cuidar con la opción de exportar para web  y dispositivos del mismo Photoshop, y/o tinypng.com.
+Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene que apuntar al uso las dimensiones justas y necesarias, además de una compresión más inteligente. Las dimensiones se pueden cuidar con Photoshop o [Photopea.com](https://www.photopea.com/), mientras la compresión se puede cuidar con la opción de [exportar para web del mismo Photoshop](https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html), y/o [tinypng.com](https://tinypng.com/)
 
 **Desde hoy vamos a trabajar con otro tipo de imagen, con imágenes vectoriales**, que se crean mediante la definición de puntos y curvas. Por tal condición se mantienen enfocadas y nítidas, independiente de su tamaño.
 
-**Todas las imágenes vectoriales son escalables, y algunas pueden ser SVG (Scalable Vector Graphics)**. 
-
-Es muy probable que hayan visto SVG como una extensión con la que es posible guardar un archivo de Adobe Illustator. Menos probable es que hayan visto SVG como sigue: 
+**Todas las imágenes vectoriales son escalables, y algunas pueden ser SVG (Scalable Vector Graphics)**. Es muy probable que ya hayamos visto SVG como una extensión con la que es posible guardar un archivo de Adobe Illustator. Menos probable es tener lo que sigue a la vista:
 
 ```
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -26,7 +24,7 @@ Lo que ven es una imagen vectorial basada en un único [<path>](https://develope
 
 Si es que tienen Illustrator o Inkscape en sus computadores, pueden abrir allí el archivo `‌wildfire.svg`, para luego editarlo a un modo WYSIWYG (What You See Is What You Get).
 
-Llegado a este punto podemos volver a https://app.rawgraphs.io/ y esta vez descargar un gráfico no figurativo con la extensión .svg
+Llegado a este punto podemos volver a https://app.rawgraphs.io/ y esta vez descargar un gráfico no figurativo con la extensión `.svg`
 
 También podríamos aprovechar más íconos ofrecidos por [Guemil](https://www.guemil.info/icons/), [Noun Project](https://thenounproject.com/icons/), [OpenMoji](https://openmoji.org/library/) y un largo etcétera.
 
@@ -34,57 +32,16 @@ O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Ado
 
 - - - - - - - - - - - - - - - 
 
-En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
+#### AYUDA
 
-- [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages)
+Tienen que usar el `index.html` en la carpeta de esta clase-04, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-03/index.html)
 
-- [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-04/index.html)
+Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
 
-Deben comparar 1 de estas 6 opciones:
+1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-04`); y
 
-**1. ANDAMIOS DE BAMBÚ**: 
+2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-04`)
 
-- JUNE 30, 2022 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202206A309.html
-
-- JUNE 28, 2022 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html
-
-**2. ANIMALES EN CHINA**:
-
-- MARCH 5, 2020 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202003A250.html
-
-- MARCH 4, 2020 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html
-
-**3. ARQUITECTURA DESPUÉS DEL CORONAVIRUS**
-
-- APRIL 10, 2021 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202104A284.html
-
-- MARCH 25, 2021 - https://multimedia.scmp.com/infographics/news/world/article/3126723/architecture-post-coronavirus/index.html
-
-**4. BRUCE LEE**: 
-
-- JULY 20, 2013 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201307A100.html
-
-- JULY 20, 2018 - https://multimedia.scmp.com/culture/article/2155989/Bruce-Lee/
-
-**5. GODZILLA**:
-
-- MAY 18, 2014 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201405A83.html
-
-- MAY 29, 2019 - https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html
-
-**6. OPERA CANTONESA**
-
-- November 11, 2019 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201911A243.html
-
-- NOVEMBER 8, 2019 - https://multimedia.scmp.com/infographics/culture/article/3036661/cantonese-opera/index.html
-
-**Basta que una persona en la dupla use su [cuenta en GitHub](https://github.com/) para:**
-
-1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-03`); y
-
-2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-03`)
-
-La entrega se resuelve dejando comentario en Foro que será creado en Canvas para esta clase.
 
 - - - - - - - 
 
