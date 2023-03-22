@@ -16,21 +16,23 @@ Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene
 </svg>
 ```
 
-Copien el código recién presentado y péguenlo en un documento nuevo de un editor de código fuente o un block de notas. Luego, guarden el documento como `guemil.svg`. Una vez guardado, arrastren el documento a una ventana nueva en su navegador. 
+Hagamos un ejercicio con lo que arriba se puede ver y copiar. Para hacerlo necesitamos un editor de código fuente o un block de notas. Vamos a crear un documento nuevo en el editor o el block, y allí pegar el código copiado, para luego guardarlo como `guemil.svg`. Una vez guardado, arrastren el documento a una ventana nueva en su navegador. 
 
 ¿Qué es lo que ven en tal ventana? ¿Notan que, independiente del tamaño de la ventana, lo que ven se mantiene enfocado y nítido? 
 
 Lo que ven es una imagen vectorial basada en un único [<path>](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths), que es una entre varias [formas básicas](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) disponibles en este [lenguaje XML, parecido a XHTML, que puede ser usado para dibujar gráficos vectoriales](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial/Introduction).
 
-Si es que tienen Illustrator o Inkscape en sus computadores, pueden abrir allí el archivo `‌wildfire.svg`, para luego editarlo a un modo WYSIWYG (What You See Is What You Get).
+Si es que tienen Illustrator o Inkscape en sus computadores, pueden abrir allí el documento `‌guemil.svg`, para luego editarlo a un modo WYSIWYG (What You See Is What You Get).
 
-Llegado a este punto podemos volver a https://app.rawgraphs.io/ y esta vez descargar un gráfico no figurativo con la extensión `.svg`
+- - - - - - - - - - - - - - - 
+  
+Llegado a este punto podemos volver a https://app.rawgraphs.io/ y esta vez usar `.svg` como opción de descarga.
 
-También podríamos aprovechar más íconos ofrecidos por [Guemil](https://www.guemil.info/icons/), [Noun Project](https://thenounproject.com/icons/), [OpenMoji](https://openmoji.org/library/) y un largo etcétera.
+También podemos aprovechar más íconos ofrecidos por [Guemil](https://www.guemil.info/icons/), [Noun Project](https://thenounproject.com/icons/), [OpenMoji](https://openmoji.org/library/) y un largo etcétera.
 
 O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Adobe Illustrator u otra aplicación similares, tales como [Figma](https://www.figma.com/community/plugin/814345141907543603/SVG-Export) o [InkScape](https://inkscape.org/es/)
 
-- - - - - - - - - - - - - - - 
+Las tres posibilidades recién mencionadas serán que utilizaremos en el ejercicio de hoy, para construir una infografía. 
 
 #### AYUDA
 
