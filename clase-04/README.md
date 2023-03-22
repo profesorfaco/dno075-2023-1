@@ -16,13 +16,13 @@ Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene
 </svg>
 ```
 
-Hagamos un ejercicio con lo que arriba se puede ver y copiar. Para hacerlo necesitamos un editor de código fuente o un block de notas. Vamos a crear un documento nuevo en el editor o el block, y allí pegar el código copiado, para luego guardarlo como `guemil.svg`. Una vez guardado, arrastren el documento a una ventana nueva en su navegador. 
+Hagamos un ejercicio con el código que justo arriba pueden ver y copiar. Para este ejercicio necesitamos un editor de código fuente o un block de notas. Vamos a crear un documento nuevo en el editor o el block, y allí pegar el código copiado, para luego guardarlo como `guemil.svg`. Una vez guardado, arrastren el documento a una ventana nueva en su navegador. 
 
 ¿Qué es lo que ven en tal ventana? ¿Notan que, independiente del tamaño de la ventana, lo que ven se mantiene enfocado y nítido? 
 
-Lo que ven es una imagen vectorial basada en un único [\<path>](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths), que es una entre varias [formas básicas](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) disponibles en este [lenguaje XML, parecido a XHTML, que puede ser usado para dibujar gráficos vectoriales](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial/Introduction).
+Lo que ven es una imagen vectorial basada en un único [\<path>](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths), lo que es una entre varias [formas básicas](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) disponibles en este [lenguaje XML, parecido a XHTML, que puede ser usado para dibujar gráficos vectoriales](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial/Introduction).
 
-Si es que tienen instalado Illustrator o Inkscape en sus computadores pueden abrir allí el documento `‌guemil.svg`, para luego editarlo a un modo WYSIWYG (What You See Is What You Get).
+Si es que tienen instalado Illustrator o Inkscape en sus computadores pueden abrir allí el documento `‌guemil.svg`, para luego editarlo a un modo WYSIWYG (What You See Is What You Get), y luego guardarlo como `guemil_editado.svg`, así podrían comparar sus códigos.
 
 - - - - - - - - - - - - - - - 
   
