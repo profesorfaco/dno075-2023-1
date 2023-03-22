@@ -4,7 +4,7 @@
 
 **Ya hemos trabajado con imágenes rasterizadas**, que se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. Ya conocemos distintos formatos de archivo para este tipo de imágenes: `.GIF`, `.JPG` o `.PNG`. A tales podríamos sumar, más adelante, formatos "next-gen" tales como [`.WebP`](https://www.adobe.com/cl/creativecloud/file-types/image/raster/webp-file.html) o [`.AVIF`](https://es.wikipedia.org/wiki/AVIF).
 
-Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene que apuntar al uso las dimensiones justas y necesarias, además de una compresión más inteligente. Las dimensiones se pueden cuidar con Photoshop o [Photopea.com](https://www.photopea.com/), mientras la compresión se puede cuidar con la opción de [exportar para web del mismo Photoshop](https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html), y/o [tinypng.com](https://tinypng.com/)
+Ya sabemos que nos conviene cuidar el peso de tales archivos. Este cuidado tiene que apuntar al uso de las dimensiones justas y necesarias para cada caso, además de una compresión más inteligente. Las dimensiones se pueden cuidar con Photoshop o [Photopea.com](https://www.photopea.com/), mientras la compresión se puede cuidar con la opción de [exportar para web del mismo Photoshop](https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html), y/o [tinypng.com](https://tinypng.com/)
 
 **Desde hoy vamos a trabajar con otro tipo de imagen, con imágenes vectoriales**, que se crean mediante la definición de puntos y curvas. Por tal condición se mantienen enfocadas y nítidas, independiente de su tamaño.
 
