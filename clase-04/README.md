@@ -32,7 +32,7 @@ También podemos aprovechar más íconos ofrecidos por [Guemil](https://www.guem
 
 O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Adobe Illustrator u otra aplicación similares, tales como [Figma](https://www.figma.com/community/plugin/814345141907543603/SVG-Export) o [InkScape](https://inkscape.org/es/)
 
-Las tres posibilidades recién mencionadas serán que utilizaremos en el ejercicio de hoy, para para completar [el ejercicio de hoy](https://profesorfaco.github.io/dno075-2023-1/clase-04/)
+**Las dos primeras posibilidades recién mencionadas serán las que utilizaremos en el ejercicio de hoy, para para completar [el ejercicio de hoy](https://profesorfaco.github.io/dno075-2023-1/clase-04/)**
 
 #### AYUDA
 
