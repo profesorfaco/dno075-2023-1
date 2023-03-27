@@ -6,23 +6,23 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 
 **En la tabla que sigue aparecen nombres por investigar. A cada dupla se le asignará un número que tendrá que buscar al inicio de cada fila de la tabla:**
 
-|	Nº	|	Transformer (s.XX)	|	Infografista (s.XXI)	|
-|:----:|:---------------|:---------------|
-|	1	|	Boris Artzybasheff	|	Adolfo Arranz	|
-|	2	|	Fritz Kahn	|	Alberto Lucas López	|
-|	3	|	Gerd Arntz	|	Amanda Cox	|
-|	4	|	Florence Nightingale	|	Diana Estefanía Rubio	|
-|	5	|	Herbert Bayer	|	Eleanor Lutz	|
-|	6	|	Iving Geis	|	Fernando G. Baptista	|
-|	7	|	John Grimwade	|	Giorgia Lupi	|
-|	8	|	John Philipps Emslie	|	Jen Christiansen	|
-|	9	|	Matthew Leibowitz	|	Jennifer Daniel	|
-|	10	|	Max Gschwind	|	Juan Pablo Bravo	|
-|	11	|	Nigel Holmes	|	Marcelo Cáceres	|
-|	12	|	Peter Sullivan	|	Marcelo Duhalde	|
-|	13	|	Rolf Klep	|	Marco Hernández	|
-|	14	|	Richard Edes Harrison	|	Nadja Popovich	|
-|	15	|	Willard Cope Brinton	|	Simon Scarr	|
+|	Nº	|	Transformer (s.XX)	|	Infografista (s.XXI)	| URL |
+|:----:|:---------------|:---------------|:---------------|
+|	1	|	Boris Artzybasheff	|	Adolfo Arranz	| — | 
+|	2	|	Fritz Kahn	|	Alberto Lucas López	| — |
+|	3	|	Gerd Arntz	|	Amanda Cox	| — |
+|	4	|	Florence Nightingale	|	Diana Estefanía Rubio	| — |
+|	5	|	Herbert Bayer	|	Eleanor Lutz	| — |
+|	6	|	Iving Geis	|	Fernando G. Baptista	| https://palomanapo.github.io/clase_3/ |
+|	7	|	John Grimwade	|	Giorgia Lupi	| https://magdapino.github.io/tercera-clase/ |
+|	8	|	John Philipps Emslie	|	Jen Christiansen	| — |
+|	9	|	Matthew Leibowitz	|	Jennifer Daniel	| https://tomsbinary.github.io/clase3/ |
+|	10	|	Max Gschwind	|	Juan Pablo Bravo	| https://florenciav06.github.io/infografiadigital-clase-03/ |
+|	11	|	Nigel Holmes	|	Marcelo Cáceres	| — |
+|	12	|	Peter Sullivan	|	Marcelo Duhalde	| — |
+|	13	|	Rolf Klep	|	Marco Hernández	| https://antooot.github.io/clase-03/ |
+|	14	|	Richard Edes Harrison	|	Nadja Popovich	| https://maxramirezolea.github.io/3_Clase/ |
+|	15	|	Willard Cope Brinton	|	Simon Scarr	| — |
 
 **El encabezado de la columna "Transformer (s.XX)"** hace referencia a la idea de Marie Neurath, quien es parte central del proyecto ISOTYPE, junto a Otto Neurath (su esposo) y Gerd Arntz. Ella escribe en *Instructional Science* (1974) lo siguiente:
 
