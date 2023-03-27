@@ -32,27 +32,6 @@ También podemos aprovechar más íconos ofrecidos por [Guemil](https://www.guem
 
 O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Adobe Illustrator u otra aplicación similares, tales como [Figma](https://www.figma.com/community/plugin/814345141907543603/SVG-Export) o [InkScape](https://inkscape.org/es/)
 
-Si usamos Adobe Illustator, podríamos aprovechar estos datos de la [síntesis de reultados del Censo de 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf): 
-
-|	Región	|	Población	|	Hombres	|	Mujeres	|
-|	:---------------	|	--------------:	|	--------------:	|	--------------:	|
-|	Arica y Parinacota	|	226.068	|	112.581	|	113.487	|
-|	Tarapacá	|	330.558	|	167.793	|	162.765	|
-|	Antofagasta	|	607.534	|	315.014	|	292.520	|
-|	Atacama	|	286.168	|	144.420	|	141.748	|
-|	Coquimbo	|	757.586	|	368.774	|	388.812	|
-|	Valparaíso	|	1.815.902	|	880.215	|	935.687	|
-|	Metropolitana	|	7.112.808	|	3.462.267	|	3.650.541	|
-|	O ́Higgins	|	914.555	|	453.710	|	460.845	|
-|	Maule	|	1.044.950	|	511.624	|	533.326	|
-|	Ñuble	|	480.609	|	232.587	|	248.022	|
-|	Biobío	|	1.556.805	|	750.730	|	806.075	|
-|	La Araucanía	|	957.224	|	465.131	|	492.093	|
-|	Los Ríos	|	384.837	|	188.847	|	195.990	|
-|	Los Lagos	|	828.708	|	409.400	|	419.308	|
-|	Aysén	|	103.158	|	53.647	|	49.511	|
-|	Magallanes	|	166.533	|	85.249	|	81.284	|
-
 **Las posibilidades recién mencionadas serán las que utilizaremos para completar [el ejercicio de hoy](https://profesorfaco.github.io/dno075-2023-1/clase-04/)**
 
 #### AYUDA
