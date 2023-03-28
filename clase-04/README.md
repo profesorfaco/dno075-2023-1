@@ -28,6 +28,10 @@ Si es que tienen instalado Illustrator o Inkscape en sus computadores pueden abr
   
 Llegado a este punto podemos volver a https://app.rawgraphs.io/ y esta vez usar `.svg` como opción de descarga.
 
+Para tener 3 gráficos no figurativos distintos, puedes modificar su nombre agregando un número, por ejemplo: `viz-1.svg`, `viz-2.svg`, `viz-3.svg`.
+
+Para que el resultado sea más legible, podrías meter el código fuente de cada `vis-x.svg`en https://webformatter.com/
+
 También podemos aprovechar más íconos ofrecidos por [Guemil](https://www.guemil.info/icons/), [Noun Project](https://thenounproject.com/icons/), [OpenMoji](https://openmoji.org/library/) y un largo etcétera.
 
 O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Adobe Illustrator u otra aplicación similares, tales como [Figma](https://www.figma.com/community/plugin/814345141907543603/SVG-Export) o [InkScape](https://inkscape.org/es/)
@@ -36,7 +40,7 @@ O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Ado
 
 #### AYUDA
 
-Tienen que usar el `index.html` en la carpeta de esta clase-04, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-03/index.html)
+Tienen que usar el `index.html` en la carpeta de esta clase-04, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-04/index.html)
 
 Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
 
