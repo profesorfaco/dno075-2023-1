@@ -50,7 +50,7 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 #### VÍNCULOS EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/583157)
 
-|	N°	|	Nombres	Apellido Paterno	|	GitHub Page	|
+|	N°	|	Nombres	|	GitHub Page	|
 |:------:|:------------------------|:------------------|
 |	1	|	CONSTANZA	ALVARADO	|	—	|
 |	2	|	AGUSTÍN	AVENDAÑO	|	—	|
