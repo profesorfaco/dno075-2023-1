@@ -51,7 +51,7 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 #### VÍNCULOS EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/578657)
 
-|	N°	|	Nombres	Apellido Paterno	|	GitHub Page	|
+|	N°	|	Nombres	|	GitHub Page	|
 |:------:|:------------------------|:------------------|
 |	1	|	CONSTANZA	ALVARADO |	—	|
 |	2	|	AGUSTÍN	AVENDAÑO | —	 |
