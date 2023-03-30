@@ -9,7 +9,7 @@ La tercera actividad del curso nos servirá para conocer algunos nombres y aport
 |	Nº	|	Transformer (s.XX)	|	Infografista (s.XXI)	| URL |
 |:----:|:---------------|:---------------|:---------------|
 |	1	|	Boris Artzybasheff	|	Adolfo Arranz	| — | 
-|	2	|	Fritz Kahn	|	Alberto Lucas López	| — |
+|	2	|	Fritz Kahn	|	Alberto Lucas López	| https://antoniamoreno.github.io/tercera-clase/ |
 |	3	|	Gerd Arntz	|	Amanda Cox	| — |
 |	4	|	Florence Nightingale	|	Diana Estefanía Rubio	| — |
 |	5	|	Herbert Bayer	|	Eleanor Lutz	| — |
