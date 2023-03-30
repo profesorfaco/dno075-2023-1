@@ -48,6 +48,30 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-04`)
 
+#### RESULTADOS
+
+|	N°	|	Nombres	Apellido Paterno	|	GitHub Page	|
+|:------:|:------------------------|:------------------|
+|	1	|	CONSTANZA	ALVARADO	|	—	|
+|	2	|	AGUSTÍN	AVENDAÑO	|	—	|
+|	3	|	DANIEL	CARMONA	|	https://tomsbinary.github.io/clase4/	|
+|	4	|	CELESTE	CASTILLO	|	—	|
+|	5	|	EMMET	CHAVEZ	|	https://palomanapo.github.io/Clase_cuatro/	|
+|	6	|	VICENTE	DE VIDTS	|	https://tomsbinary.github.io/clase4/	|
+|	7	|	CLARA	ECHEVERRÍA	|	https://claraecheverria1.github.io/clase4.info/	|
+|	8	|	MARÍA JOSEFA	GARCÍA	|	—	|
+|	9	|	YANNLING	KUO	|	https://yannlingk.github.io/infodigital-clase-04/	|
+|	10	|	ROSARIO	MORALES	|	https://antooot.github.io/clase-04/	|
+|	11	|	ANTONIA	MORENO	|	https://antoniamoreno.github.io/clase-04/	|
+|	12	|	PALOMA	NAVARRETE	|	https://palomanapo.github.io/Clase_cuatro/	|
+|	13	|	MAGDALENA	PINO	|	https://magdapino.github.io/cuarta-clase/	|
+|	14	|	KATIA	QUINTANILLA	|	—	|
+|	15	|	CRISTÓBAL	QUIROZ	|	—	|
+|	16	|	MAXIMILIANO	RAMÍREZ	|	https://maxramirezolea.github.io/4_Clase/	|
+|	17	|	ANTONIA	TAPIA	|	https://antooot.github.io/clase-04/	|
+|	18	|	FLORENCIA	VALDIVIESO	|	—	|
+|	19	|	EMILIA	VERGARA	|	https://yannlingk.github.io/infodigital-clase-04/	|
+|	20	|	MARÍA VICTORIA	VIAL	|	—	|
 
 - - - - - - - 
 
