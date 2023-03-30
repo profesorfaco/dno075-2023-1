@@ -90,8 +90,30 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-01`)
 
-Entre ambas personas tendrán que reemplazar imágenes y textos en la plantilla por los que correspondan a su trabajo.
+#### VÍNCULO EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/569168)
 
+|	N°	|	Nombre	|	GitHub Page	|
+|:------:|:------------------------|:------------------|
+|	1	|	CONSTANZA	ALVARADO	|	https://alvarado1constanza.github.io/primera-clase/ |
+|	2	|	AGUSTÍN	AVENDAÑO	|	—	|
+|	3	|	DANIEL	CARMONA	|	https://vicentedevidts.github.io/primera-clase/ |
+|	4	|	CELESTE	CASTILLO	|	—	|
+|	5	|	EMMET	CHAVEZ |	— |
+|	6	|	VICENTE	DE VIDTS	|	https://vicentedevidts.github.io/primera-clase/ |
+|	7	|	CLARA	ECHEVERRÍA	|	https://mariacousino.github.io/primera-clase/ |
+|	8	|	MARÍA JOSEFA	GARCÍA	|	— |
+|	9	|	YANNLING	KUO	|	— |
+|	10	|	ROSARIO	MORALES	|	https://alvarado1constanza.github.io/primera-clase/ |
+|	11	|	ANTONIA	MORENO	|	https://magdapino.github.io/primera-clase/ |
+|	12	|	PALOMA	NAVARRETE	|	https://maxramirezolea.github.io/1_clase/ |
+|	13	|	MAGDALENA	PINO	|	https://magdapino.github.io/primera-clase/ |
+|	14	|	KATIA	QUINTANILLA	|	https://katiaquintanilla.github.io/primera-clase/ |
+|	15	|	CRISTÓBAL	QUIROZ	|	—	|
+|	16	|	MAXIMILIANO	RAMÍREZ	|	https://maxramirezolea.github.io/1_clase/ |
+|	17	|	ANTONIA	TAPIA	|	https://antooot.github.io/primera-clase/ |
+|	18	|	FLORENCIA	VALDIVIESO	|	https://katiaquintanilla.github.io/primera-clase/ |
+|	19	|	EMILIA	VERGARA	|	— |
+|	20	|	MARÍA VICTORIA	VIAL	|	— |
 
 - - - - - - - 
 
