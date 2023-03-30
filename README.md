@@ -17,13 +17,13 @@ La información contenida en este repositorio será complementada con el uso de 
 
 Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el siguiente clase a clase:**
 
-[Clase 01 → 07/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-01) → Aprender y enseñar con gráficos
+[Clase 01 → 07/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-01) → Aprender y enseñar con gráficos ✓
 
-[Clase 02 → 14/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) → Gráficos figurativos, no figurativos y mixtos
+[Clase 02 → 14/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) → Gráficos figurativos, no figurativos y mixtos ✓
 
-[Clase 03 → 21/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) → Infografía, infografistas y nuevas tecnologías
+[Clase 03 → 21/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) → Infografía, infografistas y nuevas tecnologías ✓
 
-[Clase 04 → 28/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) → Infografías con SVG 
+[Clase 04 → 28/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) → Infografías con SVG ✓
 
 [Clase 05 → 04/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) → Infografías con SVG en HTML
 
