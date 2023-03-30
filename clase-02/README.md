@@ -27,7 +27,30 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-02`)
 
-La entrega se resuelve dejando comentario en Foro que será creado en Canvas para esta clase.
+#### VÍNCULO EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/574186)
+
+|	N°	|	Nombre	|	GitHub Page	|
+|:------:|:------------------------|:------------------|
+|	1	|	CONSTANZA	ALVARADO	|	https://3mm3t.github.io/InfografiaDigital-clase2/	|
+|	2	|	AGUSTÍN	AVENDAÑO	|	—	|
+|	3	|	DANIEL	CARMONA	|	https://tomsbinary.github.io/Clase2/ |
+|	4	|	CELESTE	CASTILLO	|	—	|
+|	5	|	EMMET	CHAVEZ | https://3mm3t.github.io/InfografiaDigital-clase2/ |
+|	6	|	VICENTE	DE VIDTS	|	https://tomsbinary.github.io/Clase2/ |
+|	7	|	CLARA	ECHEVERRÍA	|	https://claraecheverria1.github.io/clase2.info/ |
+|	8	|	MARÍA JOSEFA	GARCÍA	|	https://josefagarcia.github.io/clase02/	|
+|	9	|	YANNLING	KUO	|	https://emivergara.github.io/clase-02/ |
+|	10	|	ROSARIO	MORALES	|	https://antooot.github.io/clase-02/ |
+|	11	|	ANTONIA	MORENO	|	https://magdapino.github.io/segunda-clase/ |
+|	12	|	PALOMA	NAVARRETE	|	https://maxramirezolea.github.io/2_clase/ |
+|	13	|	MAGDALENA	PINO	|	https://magdapino.github.io/segunda-clase/ |
+|	14	|	KATIA	QUINTANILLA	|	https://florenciav06.github.io/-infodigital-clase02-/	|
+|	15	|	CRISTÓBAL	QUIROZ	|	—	|
+|	16	|	MAXIMILIANO	RAMÍREZ	|	https://maxramirezolea.github.io/2_clase/ |
+|	17	|	ANTONIA	TAPIA	|	https://antooot.github.io/clase-02/ |
+|	18	|	FLORENCIA	VALDIVIESO	|	https://florenciav06.github.io/-infodigital-clase02-/	|
+|	19	|	EMILIA	VERGARA	|	https://emivergara.github.io/clase-02/ |
+|	20	|	MARÍA VICTORIA	VIAL	|	—	|
 
 - - - - - - - 
 
