@@ -49,7 +49,7 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 La entrega se resuelve dejando comentario en Foro que será creado en Canvas para esta clase.
 
-#### RESULTADOS PUBLICADOS EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/578657)
+#### VÍNCULOS EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/578657)
 
 |	N°	|	Nombres	Apellido Paterno	|	GitHub Page	|
 |:------:|:------------------------|:------------------|
