@@ -49,6 +49,31 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 La entrega se resuelve dejando comentario en Foro que será creado en Canvas para esta clase.
 
+#### RESULTADOS
+
+|	N°	|	Nombres	Apellido Paterno	|	GitHub Page	|
+|:------:|:------------------------|:------------------|
+|	1	|	CONSTANZA	ALVARADO |	—	|
+|	2	|	AGUSTÍN	AVENDAÑO | —	 |
+|	3	|	DANIEL	CARMONA	|	https://tomsbinary.github.io/clase3/	|
+|	4	|	CELESTE	CASTILLO	|	—	|
+|	5	|	EMMET	CHAVEZ	|	https://palomanapo.github.io/clase_3/	|
+|	6	|	VICENTE	DE VIDTS	|	https://tomsbinary.github.io/clase3/ |
+|	7	|	CLARA	ECHEVERRÍA	|	https://magdapino.github.io/tercera-clase/	|
+|	8	|	MARÍA JOSEFA 	GARCÍA	|	—	|
+|	9	|	YANNLING 	KUO	|	—	|
+|	10	|	ROSARIO	MORALES	|	https://antooot.github.io/clase-03/	|
+|	11	|	ANTONIA	MORENO	|	https://antoniamoreno.github.io/tercera-clase/ |
+|	12	|	PALOMA	 NAVARRETE	|	https://palomanapo.github.io/clase_3/ |
+|	13	|	MAGDALENA	PINO	|	https://magdapino.github.io/tercera-clase/ |
+|	14	|	KATIA	QUINTANILLA	|	https://florenciav06.github.io/infografiadigital-clase-03/	|
+|	15	|	CRISTÓBAL	QUIROZ	|	—	|
+|	16	|	MAXIMILIANO	RAMÍREZ	| https://maxramirezolea.github.io/3_Clase/ |
+|	17	|	ANTONIA	TAPIA	|	https://antooot.github.io/clase-03/	|
+|	18	|	FLORENCIA	VALDIVIESO	|	https://florenciav06.github.io/infografiadigital-clase-03/	|
+|	19	|	EMILIA VERGARA	|	— |
+|	20	|	MARÍA VICTORIA	VIAL	|	—	|
+
 - - - - - - - 
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) 
