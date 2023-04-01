@@ -4,19 +4,19 @@
 
 En esta clase vamos a aprovecharnos de partes de 3 trabajos infográficos publicados por el South China Morning Post (SCMP). Publicados no sólo una sino dos veces, con dos versiones, una impresa y otra digital.
 
-**1. ANDAMIOS DE BAMBÚ**: 
+**1. Bamboo scaffolding in Hong Kong**: 
 
 - JUNE 28, 2022 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html
 
 - JUNE 30, 2022 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202206A309.html
 
-**2. ANIMALES EN CHINA**:
+**2. China’s wildlife trade**:
 
 - MARCH 4, 2020 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html
 
 - MARCH 5, 2020 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202003A250.html
 
-**3. GODZILLA**:
+**3. Godzilla: evolution of a monster**:
 
 - MAY 18, 2014 - https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201405A83.html
 
