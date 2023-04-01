@@ -2,7 +2,7 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 05 → 04/04/2023
 
-En esta clases vamos a aprovecharnos de partes de 3 trabajos infográficos publicados por el South China Morning Post (SCMP). Publicados no sólo una sino dos veces, con dos versiones, una impresa y otra digital.
+En esta clase vamos a aprovecharnos de partes de 3 trabajos infográficos publicados por el South China Morning Post (SCMP). Publicados no sólo una sino dos veces, con dos versiones, una impresa y otra digital.
 
 **1. ANDAMIOS DE BAMBÚ**: 
 
