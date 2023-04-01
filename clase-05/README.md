@@ -58,15 +58,11 @@ Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.s
 
 - - - - - - - - 
 
-Se trata de pares de gráficas que se intercambian dependiendo del ancho de la pantalla con la que se visualiza la infografía digital. Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>`, que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
+Tenemos 4 pares de gráficas que se intercambian, dependiendo del ancho de la pantalla con la que se visualiza la infografía digital de la que son parte. Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>`, que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
 
-Es importante que en cada SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image) 
+Es importante que en cada SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image), que permite a la imagen vectorial incluir otra, sea también vectorial o rasterizada.
 
-Además de hacer tal examen, vamos a tomar íntegramente cada SVG, para traerla a nuestras carpetas de trabajo (y no estar tomándolas desde el servidor de SCMP):
-
-- [base](https://profesorfaco.github.io/dno075-2023-1/clase-05/) (gracias a GitHub Pages)
-
-- [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-05/index.html)
+Además de hacer tal examen, vamos a tomar íntegramente cada SVG, y traerlos (con lo que incluya cada uno) a las carpetas donde trabajaremos con un `index.html`, un `style.css` y una carpeta por crear, a la que podríamos llamar `img
 
 - - - - - - - - - - 
 
