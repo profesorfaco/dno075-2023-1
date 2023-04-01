@@ -64,7 +64,7 @@ Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clas
 
 Es importante que en cada SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image), que permite a la imagen vectorial incluir otra, sea también vectorial o rasterizada.
 
-Además de hacer tal examen, vamos a tomar cada SVG, para traerlos (con lo que incluya cada uno) a una carpeta `img` que vamos a crear dentro de una carpeta que también te que contener un `index.html` y un `style.css`.
+Además de hacer tal examen, vamos a tomar cada SVG y traerlo (con lo que incluya cada uno) a una carpeta `img` que vamos a crear dentro de una carpeta que también tiene que contener un `index.html` y un `style.css`.
 
 - - - - - - - - - - 
 
