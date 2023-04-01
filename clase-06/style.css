@@ -1,0 +1,64 @@
+:root {
+    --bs-font-sans-serif: "Roboto", sans-serif;
+    --bs-body-color: #262626;
+    --bs-body-bg: #fff;
+    --bs-primary: #001443;
+    --bs-primary-rgb: 0, 20, 67;
+    --bs-body-font-weight: 300;
+    --bs-link-color: #001443;
+    --bs-link-hover-color: #ff8f00;
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+h1 {
+    font-family: "Merriweather", serif;
+    font-size: calc(1.75rem + 1.75vw);
+    font-weight: 700;
+    color: #000;
+}
+
+h2 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.025rem;
+}
+
+h2 > span {
+    font-weight: 300;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+}
+
+p.lead {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+}
+
+a.aviso {
+    font-family: "Merriweather", serif;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+hr {
+    width: 5rem;
+    margin: 1rem auto 3rem auto;
+    border: 1px solid #2f909d;
+    opacity: 1;
+}
+
+em {
+    font-weight: 400;
+    font-style: normal;
+}
