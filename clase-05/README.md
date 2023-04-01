@@ -38,27 +38,25 @@ Partamos con las **líneas 108 y 109 del código fuente de [Bamboo scaffolding i
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/plant-m.svg
 
-Sigamos en el mismo código fuente, y avancemos a las **líneas 121 y 121**, donde podemos encontrar otro par de gráficas en SVG:
+Sigamos en el mismo código fuente, y avancemos a las **líneas 121 y 121**, donde podemos encontrar un segundo par de gráficas en SVG:
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/poles-d.svg
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/poles-m.svg
 
-Cambiemos de infografía. Ahora vamos a **líneas 151 y 152 en el código fuente de [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, donde podemos encontrar el siguiente par: 
+Cambiemos de infografía. Ahora vamos a **líneas 151 y 152 en el código fuente de [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, donde podemos encontrar un tercer par: 
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_facts.svg
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_phone.svg
 
-Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) revisaremos las líneas 102 y 103** para encontrar este último par de gráficas que vamos a tomar:
+Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) revisaremos las líneas 102 y 103** para encontrar este último par encontrar un cuarto par de gráficas en SVG.
 
 - https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/svg/legendary.svg
 
 - https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/svg/legendary_m2.svg
 
-- - - - - - - - 
-
-Tenemos 4 pares de gráficas que se intercambian, dependiendo del ancho de la pantalla con la que se visualiza la infografía digital de la que son parte.
+**Tenemos 4 pares de gráficas que se intercambian, dependiendo del ancho de la pantalla con la que se visualiza la infografía digital de la que son parte**.
 
 Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>`, que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
 
