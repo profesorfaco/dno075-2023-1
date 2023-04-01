@@ -26,7 +26,7 @@ En esta clases vamos a aprovecharnos de partes de 3 trabajos infográficos publi
 
 Para recuperar el "todo" de las infografías digitales sobre [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html), [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html) y [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) deben activar la opción *full-size* antes de tomar un pantallazo con https://www.site-shot.com/
 
-Para recuperar las partes que nos interesan en las infografías digitales ya referidas, vamos al código fuente de cada una.
+Para recuperar las partes que nos interesan en las infografías digitales ya referidas, podemos revisar el código fuente de cada una.
 
 Partamos con las **líneas 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)**, donde podemos encontrar un par de gráficas en SVG:
 
@@ -40,13 +40,13 @@ Sigamos en el mismo código fuente, y avancemos a las **líneas 121 y 121**, don
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/poles-m.svg
 
-Cambiemos de infografía. Ahora vamos a **líneas 151 y 152** en el código fuente de [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html), donde podemos encontrar el siguiente par: 
+Cambiemos de infografía. Ahora vamos a **líneas 151 y 152 en el código fuente de [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, donde podemos encontrar el siguiente par: 
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_facts.svg
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_phone.svg
 
-Y en la infografía de [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) revisaremos las líneas 102 y 103 para encontrar este par:
+Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) revisaremos las líneas 102 y 103** para encontrar este par:
 
 - https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/svg/legendary.svg
 
