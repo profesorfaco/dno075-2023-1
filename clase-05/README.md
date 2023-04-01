@@ -26,7 +26,9 @@ En esta clases vamos a aprovecharnos de partes de 3 trabajos infográficos publi
 
 Para recuperar el "todo" de las infografías digitales sobre [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html), [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html) y [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) deben activar la opción *full-size* antes de tomar un pantallazo con https://www.site-shot.com/
 
-Para recuperar las partes que nos interesan en las infografías digitales ya referidas, podemos revisar el código fuente de cada una.
+- - - - - - - - 
+
+**Para recuperar las partes que nos interesan en las infografías digitales ya referidas, podemos revisar el código fuente de cada una**.
 
 Partamos con las **líneas 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)**, donde podemos encontrar un par de gráficas en SVG:
 
@@ -46,20 +48,21 @@ Cambiemos de infografía. Ahora vamos a **líneas 151 y 152 en el código fuente
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_phone.svg
 
-Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) revisaremos las líneas 102 y 103** para encontrar este par:
+Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) revisaremos las líneas 102 y 103** para encontrar este último par de gráficas que vamos a tomar:
 
 - https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/svg/legendary.svg
 
 - https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/svg/legendary_m2.svg
 
+- - - - - - - - 
 
-Lo que tomamos en cada caso es un vínculo a un par de archivos SVG, que ofrecen dos opciones que serán intercambiables (en nuestro caso) gracias a [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/).
+Se trata de pares de gráficas que se intercambian para mostrarse una u otra, según el tamaño de pantalla en el que se revisa la infografía digital. Nosotros podemos hacer estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>` que el elemento más adecuado para mostrar estos gráficos de formato SVG en un HTML.
 
-Y en cada SVG podremos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image) 
+Es importante que en cada SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image) 
 
-Además de hacer tal examen, vamos a tomar íntegramente cada parte para traerla a nuestras carpetas de trabajo (y no estar tomándolas desde el servidor de SCMP):
+Además de hacer tal examen, vamos a tomar íntegramente cada SVG, para traerla a nuestras carpetas de trabajo (y no estar tomándolas desde el servidor de SCMP):
 
-- [resultado](https://profesorfaco.github.io/dno075-2023-1/clase-05/) (gracias a GitHub Pages)
+- [base](https://profesorfaco.github.io/dno075-2023-1/clase-05/) (gracias a GitHub Pages)
 
 - [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-05/index.html)
 
