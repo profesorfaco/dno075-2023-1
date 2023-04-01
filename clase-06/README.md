@@ -1,4 +1,4 @@
-# Evaluación Nº1 → Infografías con SVG en HTML
+# Evaluación Nº1 → Desafío de infografía con SVG en HTML
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 06 → 11/04/2023
 
