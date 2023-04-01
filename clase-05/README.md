@@ -24,7 +24,7 @@ En esta clase vamos a aprovecharnos de partes de 3 trabajos infográficos public
 
 **Es importante no confundir las partes con el todo. Recordemos que el análisis de una infografía no es lo mismo que el análisis de una gráfica (sea figurativa, no-figurativa o mixta)**.
 
-Para recuperar el "todo" de las infografías digitales sobre [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html), [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html) y [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) deben activar la opción *full-size* antes de tomar un pantallazo con https://www.site-shot.com/
+Para recuperar el "todo" de las infografías digitales sobre [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html), [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html) y [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html) deben copiar su URL, ingresar luego a https://www.site-shot.com/ donde pegar la URL copiada, luego activar la opción *full-size*, ajustar *scale* y tomar el pantallazo.
 
 - - - - - - - - 
 
@@ -58,11 +58,13 @@ Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.s
 
 - - - - - - - - 
 
-Tenemos 4 pares de gráficas que se intercambian, dependiendo del ancho de la pantalla con la que se visualiza la infografía digital de la que son parte. Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>`, que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
+Tenemos 4 pares de gráficas que se intercambian, dependiendo del ancho de la pantalla con la que se visualiza la infografía digital de la que son parte.
+
+Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>`, que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
 
 Es importante que en cada SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image), que permite a la imagen vectorial incluir otra, sea también vectorial o rasterizada.
 
-Además de hacer tal examen, vamos a tomar íntegramente cada SVG, y traerlos (con lo que incluya cada uno) a las carpetas donde trabajaremos con un `index.html`, un `style.css` y una carpeta por crear, a la que podríamos llamar `img
+Además de hacer tal examen, vamos a tomar cada SVG, para traerlos (con lo que incluya cada uno) a una carpeta `img` que vamos a crear dentro de una carpeta que también te que contener un `index.html` y un `style.css`.
 
 - - - - - - - - - - 
 
