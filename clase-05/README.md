@@ -58,7 +58,7 @@ Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.s
 
 **Tenemos 4 pares de gráficas que se intercambian, dependiendo del ancho de la pantalla con la que se visualiza la infografía digital de la que son parte**.
 
-Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>`, que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
+Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>` que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
 
 Es importante que en cada SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image) que permite a la imagen vectorial incluir otra, sea también vectorial o rasterizada.
 
