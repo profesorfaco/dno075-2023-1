@@ -1,10 +1,9 @@
-# Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS
+# Evaluación Nº2 → Pendiente (está justo entre la vuelta de un receso y el último plazo para realizar el retiro de un curso de la carga académica semestral)
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 10 → 09/05/2022
 
-PENDIENTE
+No habría que perder tiempo de vacaciones por estudiar para esta prueba. Y convendría mucho contar con la mitad del promedio antes de tomar una decisión sobre la continuidad.
 
 - - - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) 
-
