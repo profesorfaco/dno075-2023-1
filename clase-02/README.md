@@ -1,6 +1,6 @@
 # Gráficos figurativos, no figurativos y mixtos
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 02 → 14/03/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 02 → 14/03/2023 ✓
 
 La segunda actividad del curso nos servirá para aprender a diferenciar a las gráficas figurativas, no-figurativas y mixtas.
 
