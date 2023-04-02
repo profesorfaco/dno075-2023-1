@@ -36,7 +36,7 @@ Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el s
 **Clase 09 → 02/05/2023 → Receso de docencia bimestral** (se suspenden las clases; las evaluaciones académicas quedarán
 suspendidas entre el martes 2 y el lunes 8 de mayo inclusive)
 
-**[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS** (el jueves 11 de mayo es el último plazo para realizar el retiro de un curso de la carga académica semestral)
+**[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Evaluación Nº2 → Pendiente** (está justo entre la vuelta de un receso y el último plazo para realizar el retiro de un curso de la carga académica semestral)
 
 [Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) → Definición de temática, subtemáticas y grupos para el trabajo final
 
