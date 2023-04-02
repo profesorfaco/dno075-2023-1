@@ -12,23 +12,39 @@ Sobre SVG corresponde recordar que:
 
 - Suele ser más pequeño que una imagen rasterizada, que se describe el color de cada pixel en una cuadrícula, en lugar de emplear algoritmos matemáticos.
 
+- - - - - - - - - -
+
 Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es; porque su tamaño dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de otras imágenes.
 
 Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo, que se incrusta para [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para mejor, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/).
 
-El servicio de [SVG Minifier](https://www.svgminify.com/) ofrece a la imagen vectorizada algo como lo que [TinyPNG](https://tinypng.com/) ofrece a la rasterizada.
+[SVG Minifier](https://www.svgminify.com/) descarta información irrelevante, pero no elimina los espacios en blanco como sí lo hace [SVG Minify](https://coderstoolbox.online/toolbox/svg-minify).
+
+[SVG Minifier](https://www.svgminify.com/) y [SVG Minify](https://coderstoolbox.online/toolbox/svg-minify) ofrecen a la imagen vectorizada algo como lo que [TinyPNG](https://tinypng.com/) ofrece a la rasterizada.
+
+- - - - - - - - - -
 
 Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada dentro de una vectorizada (SVG), nos corresponde cuidar el uso de las dimensiones justas y necesarias, además de una descripción hecha o modificada para pesar menos.
 
-Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar los tamaños de los elementos mediante el intercambio de alternativas para pantallas más angostas o más anchas, y en todo tamaño de pantalla no corresponde cuidar los colores: Conviene evaluar el contraste figura/fondo en las gráficas con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/), lo que vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y un verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores: 
 
-Yendo más allá de las imágenes, también nos corresponde:
+- Evaluemos el contraste figura/fondo en las gráficas con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+ 
+- Usemos esquemas cromáticos que sean "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) 
+
+- Veamos nuestras gráficas a través de simuladores de daltonismo, tales como [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+
+- - - - - - - - - -
+
+Yendo más allá de las gráficas, en el contexto de la infogarfía digital nos corresponde:
 
 - cuidar las redacciones de texto con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
 
-- evaluar la accesibilidad de cada infografía digital con **[WAVE de WebAIM](https://wave.webaim.org/)**.
+- evaluar la accesibilidad con **[WAVE de WebAIM](https://wave.webaim.org/)**.
 
 - analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
+
+- - - - - - - - - -
 
 En el análisis de LightHouse no alcanzaremos el 100 en SEO con lo que hemos revisado. Para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>`:
 
