@@ -4,6 +4,8 @@
 
 No habría que perder tiempo de vacaciones por estudiar para esta prueba. Y convendría mucho contar con la mitad del promedio antes de tomar una decisión sobre la continuidad.
 
+Además, las evaluaciones académicas fueron suspendidas entre el martes 2 y el lunes 8 de mayo inclusive. Hoy es martes 9 de mayo.
+
 - - - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) 
