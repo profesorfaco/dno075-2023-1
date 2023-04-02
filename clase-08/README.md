@@ -42,7 +42,7 @@ En estas gráficas nos corresponde cuidar el tamaño de los elementos que deben 
 
 - - - - - - - - - -
 
-Yendo más allá de las gráficas, en el contexto de la infogarfía digital también nos corresponde:
+Yendo más allá de las gráficas e imágenes que les ofrecen soporte, en el contexto de la infogarfía digital también nos corresponde:
 
 - cuidar las redacciones de texto con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
 
