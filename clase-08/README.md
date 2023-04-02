@@ -2,7 +2,7 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 26/09/2022
 
-Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para simplificarnos el trabajo con HTML y CSS.
+Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para acortar camino en el uso de HTML y CSS.
 
 HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG describe el contenido de una imagen vectorizada basándose en XML (por eso se parece tanto a HTML, y por este parecido sus aspectos también pueden ser descritos con CSS). 
 
