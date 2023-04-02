@@ -26,7 +26,7 @@ Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada
 
 - - - - - - - - - -
 
-Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos que deben verse o leerse mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores mediante: 
+Las imágenes rasterizadas o vectorizadas pueden servir de soporte a las gráficas figurativas, no figurativas o mixtas que pueden ser parte de una infografía digital. En estas gráficas nos corresponde cuidar el tamaño de los elementos que deben verse o leerse mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores mediante: 
 
 - Evaluación del contraste figura/fondo con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/)
  
