@@ -29,9 +29,9 @@ Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el s
 
 **[Clase 06 → 11/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) → Evaluación Nº1 → Desafío de infografía con SVG en HTML**
 
-[Clase 07 → 18/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → Introducción a HTML, SVG y CSS
+[Clase 07 → 18/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-07) → Introducción a HTML, SVG y CSS
 
-[Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → Usos de HTML, SVG y CSS en infografía digital
+[Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → HTML, SVG y CSS
 
 **Clase 09 → 02/05/2023 → Receso de docencia bimestral** (se suspenden las clases; las evaluaciones académicas quedarán
 suspendidas entre el martes 2 y el lunes 8 de mayo inclusive)
