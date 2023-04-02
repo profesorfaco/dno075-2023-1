@@ -12,7 +12,7 @@ Partamos poniendo atención en los 3 SVG que son traídos a [la página preparad
 
 - la **propiedad `transition`** es una propiedad abreviada que permite definir la transición entre dos estados de un elemento: https://developer.mozilla.org/es/docs/Web/CSS/transition
 
-- las **animaciones**, que constan de dos componentes: una descripción de la animación CSS y, antes, un conjunto de fotogramas o keyframes: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+- la **animación**, que en CSS constan de dos componentes: una descripción de la misma y la descripción de los fotogramas o keyframes que participan de ella: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Using_CSS_animations
 
 - - - - - -
 
