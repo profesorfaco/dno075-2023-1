@@ -8,7 +8,7 @@ Sobre SVG corresponde recordar que:
 
 - Trata el texto como tal, razón por la que los lectores de pantalla pueden escanear cualquier palabra incluida en las imágenes SVG, lo que resulta especialmente útil para las personas que necesiten ayuda con la lectura de los sitios web. Los motores de búsqueda también pueden leer e indexar el texto de las imágenes SVG.
 
-- Siempre mantiene su resolución, independientemente de lo grandes o pequeños que se haga. 
+- Siempre mantiene su resolución, independientemente de lo grandes o pequeños que se haga (si necesitamos que se haga más grande o pequeño según el contexto, el `svg` debe tener un `viewBox` en lugar de `height` y `width` fijos).
 
 - Suele ser más ligero que una imagen rasterizada (la descripción de la segunda suele ser más pesada porque debe referir al color de cada pixel que la compone).
  
