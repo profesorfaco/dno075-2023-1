@@ -48,7 +48,7 @@ Yendo más allá de las gráficas, en el contexto de la infogarfía digital tamb
 
 - - - - - - - - - -
 
-En el análisis de LightHouse no alcanzaremos el 100 en SEO con lo que hemos revisado. Para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>` de cada `index.html`:
+En el análisis de LightHouse no podremos alcanzar el 100 en SEO con lo que hemos revisado; para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>` de cada `index.html`:
 
 ```
 <meta charset="utf-8" />
