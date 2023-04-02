@@ -60,7 +60,37 @@ Y en la infografía de **[Godzilla: evolution of a monster](https://multimedia.s
 
 Nosotros podemos hacer que estas gráficas se intercambien utilizando [unas clases predefinidas de Bootstrap](https://getbootstrap.com/docs/5.3/utilities/display/) en el `<object></object>` que, como aprendimos la clase recién pasada, puede ser uno de los elemento de HTML más adecuado para tomar y mostrar estos gráficos de formato SVG.
 
-Es importante que en cada uno de los 8 SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image) que permite a cada imagen vectorial incluir otra, sea también vectorial o rasterizada.
+Por ejemplo, copia y pega el siguiente código en un documento nuevo, creado en un editor de código fuente. Guarda tal documento como `ejemplo.html`. Abre este documento en un navegador web y ajusta el tamaño de la pantalla.
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Ejemplo</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous" />
+    </head>
+    <body>
+        <div class="container">
+            <object data="https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/poles-d.svg" type="image/svg+xml" class="d-none d-md-block"></object>
+            <object data="https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/poles-m.svg" type="image/svg+xml" class="d-md-none"></object>
+        </div>
+    </body>
+</html>
+```
+
+Cuando la ventana del navegador tiene un ancho menor al mediando, que es definido por Boostrap 5 como 768px:
+
+- se despliega `poles-m.svg` (que es traído a esta página por el objeto que tiene la clase `d-md-none`, con un `d-block` tácito) 
+
+- no hay despliegue para `poles-d.svg` (que es traído a esta página por el objeto que tiene la clase `d-none d-md-block`)
+
+Pero cuando la ventana del navegador es igual o mayor al ancho mediano (768px), `poles-d.svg` sí se despliega (por el `d-md-block`). El que ahora no se despliega es `poles-m.svg` (por el `d-md-none`). 
+
+El hecho de que un SVG tenga un nombre que incluya la *d* de *desktop* o la *m* de *mobile*, realmente no afecta en nada al despliegue, porque esto no se resuelve con la denominación del SVG, sino con clases de CSS que se vinculan a un despliegue (*display*). Tales letras pueden servir de referencia a humanos que convinieron, para este caso, lo que implicaba una *d* o una *m*.
+
+Pero eso no es todo lo que examinaremos hoy. Es importante que en cada uno de los 8 SVG podamos examinar el uso del elemento [\<image>](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image) que permite a cada imagen vectorial incluir otra, sea también vectorial o rasterizada.
 
 Además de hacer tal examen, vamos a tomar cada SVG y traerlo (con lo que incluya cada uno) a una carpeta `img` que vamos a crear dentro de una carpeta que también tiene que contener un [`index.html`](https://profesorfaco.github.io/dno075-2023-1/clase-05/) y un [`style.css`](https://profesorfaco.github.io/dno075-2023-1/clase-05/style.css).
 
