@@ -2,15 +2,31 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 26/09/2022
 
-Ya hemos trabajado con HTML, CSS y SVG. También hemos trabajado con imágenes rasterizadas, con formatos .GIF, .JPG o .PNG. A los que podríamos sumar formatos "next-gen" tales como .WebP o .AVIF. 
+Ya hemos trabajado con HTML, CSS y SVG. El primero es un lenguaje que nos permite describir los cotenidos de una página web. El segundo describe los aspectos de tales contenidos. Y el tercero es un lenguaje que [describe imágenes mediante fórmulas matemáticas basadas en puntos y líneas en una cuadrícula](https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html). 
 
-Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada dentro de una vectorizada (SVG), nos corresponde cuidar su peso mediante el uso de las dimensiones justas y necesarias, además de una descripción inteligente.
+Sobre SVG corresponde recordar que:
 
-También nos corresponde:
+- Trata el texto como tal, razón por la que los lectores de pantalla pueden escanear cualquier palabra incluida en las imágenes SVG, lo que resulta especialmente útil para las personas que necesiten ayuda con la lectura de los sitios web. Los motores de búsqueda también pueden leer e indexar el texto de las imágenes SVG.
+
+- Siempre mantiene su resolución, independientemente de lo grandes o pequeños que se haga. 
+
+- Suele ser más pequeño que una imagen rasterizada, que se describe el color de cada pixel en una cuadrícula, en lugar de emplear algoritmos matemáticos.
+
+Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es; porque su tamaño dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de recursos externos.
+
+Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo, que se incrusta para luego [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. 
+
+La mala idea cambiaría, para mejor, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/)
+
+El servicio de [SVG Minifier](https://www.svgminify.com/) ofrece a la imagen vectorizada algo como lo que [TinyPNG](https://tinypng.com/) ofrece a la rasterizada.
+
+Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada dentro de una vectorizada (SVG), nos corresponde cuidar el uso de las dimensiones justas y necesarias, además de una descripción hecha o modificada para pesar menos.
+
+Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar los tamaños de los elementos mediante el intercambio de alternativas para pantallas más angostas o más anchas, y en todo tamaño de pantalla no corresponde cuidar los colores: Conviene evaluar el contraste figura/fondo en las gráficas con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/), lo que vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y un verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+
+Yendo más allá de las imágenes, también nos corresponde:
 
 - cuidar las redacciones de texto con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
-
-- evaluar el contraste figura/fondo en las gráficas (que WAVE no puede analizar) mediante **otra herramienta de WebAIM, su [Contrast Checker](https://webaim.org/resources/contrastchecker/)**; esto vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y un verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
 
 - evaluar la accesibilidad de cada infografía digital con **[WAVE de WebAIM](https://wave.webaim.org/)**.
 
