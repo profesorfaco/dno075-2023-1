@@ -16,9 +16,7 @@ También nos corresponde:
 
 - analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
 
-- recordar que el análisis recién referido no alcanzará el 100 en SEO. 
-
-Para poder alcanzar la mejor evaluación posibe en SEO, habría que agregar algunas líneas junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>`:
+En el análisis de LightHouse no alcanzaremos el 100 en SEO con lo que hemos revisado. Para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>`:
 
 ```
 <meta charset="utf-8" />
