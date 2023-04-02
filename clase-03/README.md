@@ -1,6 +1,6 @@
 # Infografía, infografistas y nuevas tecnologías
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 03 → 21/03/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 03 → 21/03/2023 ✓
 
 La tercera actividad del curso nos servirá para conocer algunos nombres y aportes relevantes a la infografía en su desarrollo que se debe, primero, al periodismo impreso y, más tarde, al digital.
 
