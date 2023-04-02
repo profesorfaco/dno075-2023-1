@@ -4,7 +4,7 @@
 
 Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para simplificarnos el trabajo con HTML y CSS.
 
-Recordemos que HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG es un lenguaje que describe imágenes basándose en XML, y por eso se parece tanto a HTML. 
+Recordemos que HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG es un lenguaje que describe imágenes vectorizadas basándose en XML, y por eso se parece tanto a HTML. 
 
 Sobre SVG corresponde recordar que:
 
