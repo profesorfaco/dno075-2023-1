@@ -4,21 +4,21 @@
 
 Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para acortar camino en el uso de HTML y CSS.
 
-HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG describe el contenido de una imagen vectorizada basándose en XML (por eso se parece tanto a HTML, y por este parecido sus aspectos también pueden ser descritos con CSS). 
+**HTML** es un lenguaje que nos permite **describir los contenidos de una página web**. **CSS describe los aspectos de tales contenidos**. Y **SVG describe el contenido de una imagen vectorizada basándose en XML** (por eso se parece tanto a HTML, y por este parecido sus aspectos también pueden ser descritos con CSS). 
 
-Sobre SVG corresponde recordar que:
+Sobre **SVG** corresponde recordar que:
 
-- Trata el texto como tal, razón por la que los lectores de pantalla pueden escanear cualquier palabra incluida en las imágenes SVG, lo que resulta especialmente útil para las personas que necesiten ayuda con la lectura de los sitios web. Los motores de búsqueda también pueden leer e indexar el texto de las imágenes SVG.
+- **Trata el texto como tal**, razón por la que los lectores de pantalla pueden escanear cualquier palabra incluida en las imágenes SVG, lo que resulta especialmente útil para las personas que necesiten ayuda con la lectura de los sitios web. Los motores de búsqueda también pueden leer e indexar el texto de las imágenes SVG.
 
-- Siempre mantiene su resolución, independientemente de lo grandes o pequeños que se haga (si necesitamos que se haga más grande o pequeño según el contexto, el `svg` debe tener un `viewBox` en lugar de `height` y `width` fijos).
+- **Siempre mantiene su resolución**, independientemente de lo grandes o pequeños que se haga (si necesitamos que se haga más grande o pequeño según el contexto, el `svg` debe tener un `viewBox` en lugar de `height` y `width` fijos).
 
-- Suele ser más ligero que una imagen rasterizada (la descripción de la segunda suele ser más pesada porque debe referir al color de cada pixel que la compone).
+- **Suele ser más ligero que una imagen rasterizada** (la descripción de la segunda suele ser más pesada porque debe referir al color de cada pixel que la compone).
 
 Y hay más para recordar en [Información sobre archivos SVG | Adobe](https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html)
  
 - - - - - - - - - -
 
-Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es. El tamaño del SVG dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de otras imágenes.
+**Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es. El tamaño del SVG dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de otras imágenes**.
 
 Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo que se incrusta para [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html) (lo que podría generar demasiados trazados y puntos de anclaje), luego guardarla con SVG y, sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para aligerarse mucho, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/).
 
@@ -42,7 +42,7 @@ En estas gráficas nos corresponde cuidar el tamaño de los elementos que deben 
 
 - - - - - - - - - -
 
-Yendo más allá de las gráficas e imágenes que les ofrecen soporte, en el contexto de la infogarfía digital también nos corresponde:
+Yendo más allá de las gráficas e imágenes que les ofrecen soporte, en el contexto de la infografía digital también nos corresponde:
 
 - cuidar las redacciones de texto con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
 
@@ -52,7 +52,7 @@ Yendo más allá de las gráficas e imágenes que les ofrecen soporte, en el con
 
 - - - - - - - - - -
 
-En el análisis de LightHouse no podremos alcanzar el 100 en SEO con lo que hemos revisado; para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>` de cada `index.html`:
+**En el análisis de LightHouse no podremos alcanzar el 100 en SEO con lo que hemos revisado**; para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>` de cada `index.html`:
 
 ```
 <meta charset="utf-8" />
