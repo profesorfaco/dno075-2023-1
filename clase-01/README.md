@@ -1,6 +1,6 @@
 # Aprender y enseñar con gráficos
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 01 → 07/03/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 01 → 07/03/2023 ✓
 
 La primera actividad del optativo nos servirá de diagnóstico. 
 
