@@ -1,4 +1,4 @@
-# Usos de HTML, SVG y CSS en infografía digital
+# Introducción a HTML, SVG y CSS
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 07 → 18/04/2023
 
