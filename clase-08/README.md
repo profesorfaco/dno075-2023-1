@@ -14,9 +14,7 @@ Sobre SVG corresponde recordar que:
 
 Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es; porque su tamaño dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de recursos externos.
 
-Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo, que se incrusta para luego [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. 
-
-La mala idea cambiaría, para mejor, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/)
+Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo, que se incrusta para luego [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para mejor, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/)
 
 El servicio de [SVG Minifier](https://www.svgminify.com/) ofrece a la imagen vectorizada algo como lo que [TinyPNG](https://tinypng.com/) ofrece a la rasterizada.
 
