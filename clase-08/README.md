@@ -2,7 +2,9 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 26/09/2022
 
-Ya hemos trabajado con HTML, CSS y SVG. El primero es un lenguaje que nos permite describir los cotenidos de una página web. El segundo describe los aspectos de tales contenidos. Y el tercero es un lenguaje que [describe imágenes mediante fórmulas matemáticas basadas en puntos y líneas en una cuadrícula](https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html). 
+Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para simplificarnos el trabajo con HTML y CSS.
+
+Recordemos que HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG es un lenguaje que describe imágenes basándose en XML, y por eso se parece tanto a HTML. 
 
 Sobre SVG corresponde recordar que:
 
@@ -11,12 +13,14 @@ Sobre SVG corresponde recordar que:
 - Siempre mantiene su resolución, independientemente de lo grandes o pequeños que se haga (si necesitamos que se haga más grande o pequeño según el contexto, el `svg` debe tener un `viewBox` en lugar de `height` y `width` fijos).
 
 - Suele ser más ligero que una imagen rasterizada (la descripción de la segunda suele ser más pesada porque debe referir al color de cada pixel que la compone).
+
+Y hay más para recordar en https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html
  
 - - - - - - - - - -
 
 Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es. El tamaño del SVG dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de otras imágenes.
 
-Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo que se incrusta para [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para aligerarse mucho, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/).
+Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo que se incrusta para [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html) y generar muchos trazados y puntos de anclaje, luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para aligerarse mucho, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/).
 
 [SVG Minifier](https://www.svgminify.com/) descarta información irrelevante, pero no elimina los espacios en blanco como sí lo hace [SVG Minify](https://coderstoolbox.online/toolbox/svg-minify).
 
