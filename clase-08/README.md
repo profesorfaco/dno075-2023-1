@@ -22,9 +22,9 @@ Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illus
 
 [SVG Minifier](https://www.svgminify.com/) y [SVG Minify](https://coderstoolbox.online/toolbox/svg-minify) ofrecen a la imagen vectorizada algo como lo que [TinyPNG](https://tinypng.com/) ofrece a la rasterizada.
 
-- - - - - - - - - -
-
 Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada dentro de una vectorizada (SVG), nos corresponde cuidar el uso de las dimensiones justas y necesarias, además de una descripción hecha o modificada para pesar menos.
+
+- - - - - - - - - -
 
 Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos que deben verse o leerse mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores mediante: 
 
