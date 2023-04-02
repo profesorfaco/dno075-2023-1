@@ -1,0 +1,34 @@
+:root {
+    --bs-font-sans-serif: "Roboto", sans-serif;
+    --bs-body-color: #262626;
+    --bs-body-bg: #fff;
+    --bs-primary: #001443;
+    --bs-primary-rgb: 0, 20, 67;
+    --bs-body-font-weight: 300;
+    --bs-link-color: #001443;
+    --bs-link-hover-color: #ff8f00;
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    color: #001443;
+}
+
+h1 {
+    font-size: calc(2rem + 2vw);
+}
+
+a {
+    font-weight: 400;
+}
