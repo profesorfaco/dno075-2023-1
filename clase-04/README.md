@@ -1,6 +1,6 @@
 # Infografías con SVG
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 04 → 28/03/2023
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 04 → 28/03/2023 ✓
 
 **Ya hemos trabajado con imágenes rasterizadas**, que se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. Ya conocemos distintos formatos de archivo para este tipo de imágenes: `.GIF`, `.JPG` o `.PNG`. A tales podríamos sumar, más adelante, formatos "next-gen" tales como [`.WebP`](https://www.adobe.com/cl/creativecloud/file-types/image/raster/webp-file.html) o [`.AVIF`](https://es.wikipedia.org/wiki/AVIF).
 
