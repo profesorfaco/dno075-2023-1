@@ -74,32 +74,6 @@ Lo recomendable es que cada estudiante use [su cuenta en GitHub](https://github.
 
 2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-05`)
 
-#### VÍNCULOS EN EL [FORO DE DISCUSIÓN](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/583157)
-
-|	N°	|	Nombres	|	GitHub Page	|
-|:------:|:------------------------|:------------------|
-|	1	|	CONSTANZA	ALVARADO	|	Pendiente	|
-|	2	|	AGUSTÍN	AVENDAÑO	|	Pendiente	|
-|	3	|	DANIEL	CARMONA	|	Pendiente	|
-|	4	|	CELESTE	CASTILLO	|	Pendiente	|
-|	5	|	EMMET	CHAVEZ	|	Pendiente |
-|	6	|	VICENTE	DE VIDTS	|	Pendiente	|
-|	7	|	CLARA	ECHEVERRÍA	|	Pendiente	|
-|	8	|	MARÍA JOSEFA	GARCÍA	|	Pendiente	|
-|	9	|	YANNLING	KUO	|	Pendiente	|
-|	10	|	ROSARIO	MORALES	|	Pendiente	|
-|	11	|	ANTONIA	MORENO	|	Pendiente	|
-|	12	|	PALOMA	NAVARRETE	|	Pendiente	|
-|	13	|	MAGDALENA	PINO	|	Pendiente	|
-|	14	|	KATIA	QUINTANILLA	|	Pendiente	|
-|	15	|	CRISTÓBAL	QUIROZ	|	Pendiente	|
-|	16	|	MAXIMILIANO	RAMÍREZ	|	Pendiente	|
-|	17	|	ANTONIA	TAPIA	|	Pendiente	|
-|	18	|	FLORENCIA	VALDIVIESO	|	Pendiente	|
-|	19	|	EMILIA	VERGARA	|	Pendiente	|
-|	20	|	MARÍA VICTORIA	VIAL	|	Pendiente	|
-
-
 - - - - - - - - - - 
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) 
