@@ -38,7 +38,7 @@ En estas gráficas nos corresponde cuidar el tamaño de los elementos que deben 
  
 - Uso de esquemas cromáticos que sean "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) 
 
-- Visualización de nuestras gráficas a través de simuladores de daltonismo, tales como [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+- Visualización de nuestras gráficas a través de simuladores de daltonismo, tales como [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh)
 
 - - - - - - - - - -
 
