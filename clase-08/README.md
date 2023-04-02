@@ -4,7 +4,7 @@
 
 Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para simplificarnos el trabajo con HTML y CSS.
 
-Recordemos que HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG describe el contenido de una imagen vectorizada basándose en XML (por eso se parece tanto a HTML, y por este parecido sus aspectos también pueden ser descritos con CSS). 
+HTML es un lenguaje que nos permite describir los contenidos de una página web. CSS describe los aspectos de tales contenidos. Y SVG describe el contenido de una imagen vectorizada basándose en XML (por eso se parece tanto a HTML, y por este parecido sus aspectos también pueden ser descritos con CSS). 
 
 Sobre SVG corresponde recordar que:
 
@@ -14,7 +14,7 @@ Sobre SVG corresponde recordar que:
 
 - Suele ser más ligero que una imagen rasterizada (la descripción de la segunda suele ser más pesada porque debe referir al color de cada pixel que la compone).
 
-Y hay más para recordar en https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html
+Y hay más para recordar en [Información sobre archivos SVG | Adobe](https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html)
  
 - - - - - - - - - -
 
