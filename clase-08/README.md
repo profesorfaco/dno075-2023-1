@@ -26,17 +26,17 @@ Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illus
 
 Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada dentro de una vectorizada (SVG), nos corresponde cuidar el uso de las dimensiones justas y necesarias, además de una descripción hecha o modificada para pesar menos.
 
-Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos que deben verse o leerse mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores: 
+Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos que deben verse o leerse mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores mediante: 
 
-- Evaluemos el contraste figura/fondo en las gráficas con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- Evaluación del contraste figura/fondo con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/)
  
-- Usemos esquemas cromáticos que sean "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) 
+- Uso de esquemas cromáticos que sean "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) 
 
-- Veamos nuestras gráficas a través de simuladores de daltonismo, tales como [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+- Visualización de nuestras gráficas a través de simuladores de daltonismo, tales como [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
 
 - - - - - - - - - -
 
-Yendo más allá de las gráficas, en el contexto de la infogarfía digital nos corresponde:
+Yendo más allá de las gráficas, en el contexto de la infogarfía digital también nos corresponde:
 
 - cuidar las redacciones de texto con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
 
@@ -46,7 +46,7 @@ Yendo más allá de las gráficas, en el contexto de la infogarfía digital nos 
 
 - - - - - - - - - -
 
-En el análisis de LightHouse no alcanzaremos el 100 en SEO con lo que hemos revisado. Para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>`:
+En el análisis de LightHouse no alcanzaremos el 100 en SEO con lo que hemos revisado. Para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>` de cada `index.html`:
 
 ```
 <meta charset="utf-8" />
