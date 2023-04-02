@@ -90,7 +90,7 @@ Cuando la ventana del navegador tiene un ancho menor al mediando, que es definid
 
 Pero cuando la ventana del navegador es igual o mayor al ancho mediano (768px), `poles-d.svg` sí se despliega (por el `d-md-block`). El que ahora no se despliega es `poles-m.svg` (por el `d-md-none`). 
 
-El hecho de que un SVG tenga un nombre que incluya la *d* de *desktop* o la *m* de *mobile*, realmente no afecta en nada al despliegue, porque esto no se resuelve con la denominación del SVG, sino con clases de CSS que se vinculan a un despliegue (*display*). Tales letras pueden servir de referencia a humanos que convinieron, para este caso, lo que implicaba una *d* o una *m*.
+El hecho de que un SVG tenga un nombre que incluya la *d* de *desktop* o la *m* de *mobile*, realmente no afecta en nada al despliegue, porque esto no se resuelve con la denominación del SVG, sino con clases de CSS que se vinculan a un despliegue (*display*); tales letras podrían servir de referencia a humanos que convinieron, para este caso, lo que implicaba una *d* o una *m*.
 
 - - - - - - - - -
 
