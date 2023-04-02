@@ -14,6 +14,14 @@ Vamos a partir poniendo atención en los 3 SVG que son traídos a [tal página](
 
 - la **animación**, que en CSS constan de dos componentes: una descripción de la misma y la descripción de los fotogramas o keyframes que participan de ella: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Using_CSS_animations
 
+#### AYUDA
+
+Es recomendable es que cada estudiante use [su cuenta en GitHub](https://github.com/) para:
+
+1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-07`); y
+
+2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-07`)
+
 - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) 
