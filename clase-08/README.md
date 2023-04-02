@@ -10,13 +10,13 @@ Sobre SVG corresponde recordar que:
 
 - Siempre mantiene su resolución, independientemente de lo grandes o pequeños que se haga. 
 
-- Suele ser más pequeño que una imagen rasterizada, que se describe el color de cada pixel en una cuadrícula, en lugar de emplear algoritmos matemáticos.
-
+- Suele ser más ligero que una imagen rasterizada (la descripción de la segunda suele ser más pesada porque debe referir al color de cada pixel que la compone).
+ 
 - - - - - - - - - -
 
-Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es; porque su tamaño dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de otras imágenes.
+Aunque SVG suele ser más pequeño que una imagen rasterizada (.GIF, .JPG, .PNG., .WebP o .AVIF.), no siempre lo es. El tamaño del SVG dependerá de la concisión de sus descripciones, la ausencia de información que no sea relevante para la presentación de la imagen, y el buen uso de la vinculación (y nunca inscrustación) de otras imágenes.
 
-Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo, que se incrusta para [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para mejor, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/).
+Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illustrator con una imagen rasterizada de fondo, que se incrusta para [calcar](https://helpx.adobe.com/cl/illustrator/using/image-trace.html), luego guardarla con SVG y sin mediar revisión del código, ponerla en línea. La mala idea cambiaría, para aligerarse mucho, si dejamos la imagen rasterizada como tal (vinculada) y revisamos el código con [SVG Minifier](https://www.svgminify.com/).
 
 [SVG Minifier](https://www.svgminify.com/) descarta información irrelevante, pero no elimina los espacios en blanco como sí lo hace [SVG Minify](https://coderstoolbox.online/toolbox/svg-minify).
 
@@ -26,7 +26,7 @@ Para ejemplificar lo recién dicho: Es una muy mala idea trabajar en Adobe Illus
 
 Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada dentro de una vectorizada (SVG), nos corresponde cuidar el uso de las dimensiones justas y necesarias, además de una descripción hecha o modificada para pesar menos.
 
-Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores: 
+Las imágenes rasterizadas o vectorizadas pueden servir de soporte a nuestras gráficas figurativas, no figurativas o mixtas. Gráficas en las que nos corresponde cuidar el tamaño de los elementos que deben verse o leerse mediante alternativas para pantallas más angostas o más anchas. Y en toda alernativa nos corresponde cuidar los colores: 
 
 - Evaluemos el contraste figura/fondo en las gráficas con el uso de [Contrast Checker](https://webaim.org/resources/contrastchecker/)
  
