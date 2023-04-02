@@ -2,7 +2,7 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 07 → 18/04/2023
 
-Esta introducción se basará en el modo en que CSS puede ser utilizado en SVG, para luego avanzar a modificar el CSS que estamos usando en el HTML. 
+Esta introducción se basará en el modo en que CSS puede ser utilizado en SVG, para luego avanzar a modificar el CSS de [Bootstrap 5](https://getbootstrap.com/) que estamos usando en el HTML. 
 
 El acercamiento a estos contenidos debe ser más práctico, por eso pasaremos de inmediato a [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-07). 
 
