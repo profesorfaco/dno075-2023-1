@@ -55,9 +55,7 @@ Tal temática podría dividirse con las [disciplinas en competencia](https://es.
 
 **Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales**. 
 
-**Lo que cada grupo de 4 integrantes hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**TJUE
-
-En la cuenta de cada organización, donde cada integrante de un grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance en las clases 11, [12](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12), ~~13~~, [14](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14), [15](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15), [16](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16), [17](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17).
+**Lo que cada grupo de 4 integrantes hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
 
 **En el primer repositorio de la organización, que deben crear en la clase de hoy (clase 11), sólo corresponde trabajar con el `README.md` para publicar apuntes de la investigación grupal sobre temática y sub-temática.**
 
