@@ -2,7 +2,11 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 07 → 18/04/2023
 
-Con los 3 SVG en [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-07) vamos a profundizar en CSS (del inglés Cascading Style Sheets), considerando: 
+Esta introducción se basará en el modo en que CSS puede ser utilizado en SVG, para luego avanzar a modificar el CSS que estamos usando en el HTML. 
+
+El acercamiento a estos contenidos debe ser más práctico, por eso pasaremos de inmediato a [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-07). 
+
+Partamos poniendo atención en los 3 SVG que son traídos a [la página preparada](https://profesorfaco.github.io/dno075-2023-1/clase-07) con el elemento `<object></object>`. En cada SVG encontrarán, incrustado, algo de CSS, donde se usa:
 
 - la **propiedad `transform`** permite que los elementos puedan ser trasladados, rotados, escalados o sesgados de acuerdo a los valores establecidos: https://developer.mozilla.org/es/docs/Web/CSS/transform
 
