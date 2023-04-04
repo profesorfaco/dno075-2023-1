@@ -21,7 +21,21 @@ Tienen hasta las 12.50 hrs. del martes 11 de abril para completar su versión de
 | Punto base, asegurado con el trabajo en las 5 clases previas (0.2 por cada clase) | 1.0 |
 | **Total** | **7.0** |
 
-**Serán evaluados sólo los trabajos individuales cuya dirección haya sido ingresada al foro de asunto Evaluación Nº1 → Desafío de infografía con SVG en HTML y estén operativos en línea, por medio de [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), antes del fin del horario de la clase (12.50 hrs.)** 
+**Serán evaluados sólo los trabajos individuales cuya dirección haya sido ingresada al [foro de asunto Evaluación Nº1 → Desafío de infografía con SVG en HTML](https://cursos.canvas.uc.cl/courses/56995/discussion_topics/587939) antes de las 12.50 hrs. del martes 11 de abril.**
+
+#### FAQ
+
+**¿Puedo ingresar mi respuesta al foro antes de tal fecha y hora?** SI.
+
+**¿Puedo ingresar mi respuesta al foro después de tal fecha y hora?** NO.
+
+**¿Es necesario venir a la clase o puedo completar el trabajo, en el plazo correspondiente, desde mi casa?** NO ES NECESARIO VENIR. LO QUE SÍ ES NECESARIO ES CUMPLIR CON EL PLAZO. 
+
+**¿Pero puedo hacer esto en la sala, en el horario habitual de clases?** SI, LO PUEDES HACER.
+
+**¿Y si tengo dudas, me las van a responder?** NO, PORQUE ES PRUEBA/TAREA. EN LAS PRUEBAS SUS PROFESORES NO RESPONDEN POR USTED LAS PREGUNTAS.
+
+**¿Se hace individualmente o en duplas?** INDIVIDUALMENTE, RESPETANDO EL "CÓDIGO DE HONOR UC".
 
 - - - - - - - -
 
