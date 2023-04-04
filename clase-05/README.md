@@ -38,7 +38,7 @@ Partamos con las **líneas 108 y 109 del código fuente de [Bamboo scaffolding i
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/plant-m.svg
 
-Sigamos en el mismo código fuente, y avancemos a las **líneas 121 y 121**, donde podemos encontrar un segundo par de gráficas en SVG:
+Sigamos en el mismo código fuente, y avancemos a las **líneas 121 y 122**, donde podemos encontrar un segundo par de gráficas en SVG:
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/poles-d.svg
 
