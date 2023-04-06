@@ -25,7 +25,7 @@ Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el s
 
 [Clase 04 → 28/03/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) → Infografías con SVG ✓
 
-[Clase 05 → 04/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) → Infografías con SVG en HTML
+[Clase 05 → 04/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) → Infografías con SVG en HTML ✓
 
 **[Clase 06 → 11/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) → Evaluación Nº1 → Desafío de infografía con SVG en HTML**
 
