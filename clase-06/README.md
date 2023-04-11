@@ -37,6 +37,31 @@ Tienen hasta las 12.50 hrs. del martes 11 de abril para completar su versión de
 
 **¿Se hace individualmente o en duplas?** INDIVIDUALMENTE, RESPETANDO EL "CÓDIGO DE HONOR UC".
 
+#### ENTREGAS
+
+| N° | Nombres | Entrega (en Foro) | Nota |
+|:-----:|:---------------------|:--------------------------- |:---:|
+| 1 | CONSTANZA ALVARADO ARENAS | — | 1.0 |
+| 2 | AGUSTÍN AVENDAÑO GONZÁLEZ | — | 1.0 |
+| 3 | DANIEL CARMONA TABJA | https://tomsbinary.github.io/clase6/ | P |
+| 4 | CELESTE CASTILLO MUÑIZ | — | 1.0 |
+| 5 | EMMET CHAVEZ FLOOD | https://3mm3t.github.io/evaluacion1/ | P |
+| 6 | VICENTE DE VIDTS PINO | https://vicentedevidts.github.io/Sexta-clase/ | P |
+| 7 | CLARA ECHEVERRÍA COX | https://claraecheverria1.github.io/evaluacion1/ | P |
+| 8 | MARÍA JOSEFA GARCÍA CONTARDO | — | 1.0 |
+| 9 | YANN LING KUO YANG | https://yannlingk.github.io/clase-06/ | P | 
+| 10 | ROSARIO MORALES CAMPOS | — | 1.0 |
+| 11 | ANTONIA MORENO CANCINO | — | 1.0 |
+| 12 | PALOMA NAVARRETE PONCE | https://palomanapo.github.io/Desaf-o/ | P |
+| 13 | MAGDALENA PINO BURGOS | https://magdapino.github.io/sexta-clase/ | P |
+| 14 | KATIA QUINTANILLA BRAVO | — | 1.0 |
+| 15 | CRISTÓBAL QUIROZ NAVARRO | — | 1.0 |
+| 16 | MAXIMILIANO RAMÍREZ OLEA | https://maxramirezolea.github.io/6_Clase/ | P |
+| 17 | ANTONIA TAPIA BRAVO | https://antooo-t.github.io/ev-01/ | P |
+| 18 | FLORENCIA VALDIVIESO ROBLES | https://florenciav06.github.io/infografiadigital-evaluacion01/ | P |
+| 19 | EMILIA VERGARA ACUÑA | https://emivergara.github.io/clase-06/ | P |
+| 20 | MARÍA VICTORIA VIAL UNDURRAGA | — | 1.0 |
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-07) 
