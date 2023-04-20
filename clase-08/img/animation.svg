@@ -1,0 +1,47 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background: new 0 0 100 100;" xml:space="preserve">
+    <style type="text/css">
+        @keyframes cosito {
+            0% {
+                transform: rotate(0);
+                transform-origin: (40px, 23px);
+            }
+            100% {
+                transform: rotate(7deg) translateY(-4px);
+                transform-origin: (40px, 23px);
+            }
+        }
+
+        @keyframes otra {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(27px);
+            }
+        }
+
+        #gatillo {
+            animation: cosito 0.5s alternate 0.5s infinite;
+        }
+
+        #cubito {
+            animation: otra 1s infinite 0.5s steps(4, jump-none);
+        }
+    </style>
+    <path d="M33.3,12.8h16.8v7.3l-14,4.9v9.8H17.4V24.4l9.7-9.5C28.8,13.5,31,12.7,33.3,12.8z" />
+    <path
+        d="M36.1,37.3c0,8.9,12.4,11.3,12.4,23.2v26h-17v-25h12.1v-1c0-7.6-9-11.3-11.6-18.3h-9.7v47h26.2v2.2
+    c-0.2,1.5-1.5,2.7-3.1,2.7H20.2c-1.5,0.1-2.7-1-2.8-2.5c0,0,0-0.1,0-0.1V37.3H36.1z"
+    />
+    <path id="gatillo" d="M47.3,23.4c-0.1,5.3,0.8,10.5,2.7,15.4h-2.7c-3-3.9-5.3-8.3-6.9-12.9L47.3,23.4z" />
+    <rect x="52.6" y="12.8" width="3.7" height="7.4" />
+    <g fill="#00AEEF">
+        <path d="M65.9,16.3c0,1.5-1.2,2.7-2.7,2.7c-1.5,0-2.7-1.2-2.7-2.7s1.2-2.7,2.7-2.7c0,0,0,0,0,0C64.6,13.6,65.8,14.8,65.9,16.3z" />
+        <path d="M75.2,12.3c0,1.5-1.2,2.7-2.7,2.7c-1.5,0-2.7-1.2-2.7-2.7c0-1.5,1.2-2.7,2.7-2.7c0,0,0,0,0,0C74,9.6,75.2,10.8,75.2,12.3z" />
+        <path d="M75.2,20.2c0,1.5-1.2,2.7-2.7,2.7c-1.5,0-2.7-1.2-2.7-2.7c0-1.5,1.2-2.7,2.7-2.7c0,0,0,0,0,0C74,17.5,75.2,18.7,75.2,20.2z"/>
+        <path d="M80.1,8.4c0-1.5,1.2-2.7,2.7-2.7s2.7,1.2,2.7,2.7s-1.2,2.7-2.7,2.7l0,0C81.3,11.1,80.1,9.9,80.1,8.4z" />
+        <path d="M85.5,16.3c0,1.5-1.2,2.7-2.7,2.7s-2.7-1.2-2.7-2.7c0-1.5,1.2-2.7,2.7-2.7c0,0,0,0,0,0C84.3,13.6,85.5,14.8,85.5,16.3z" />
+        <path d="M85.5,24.5c0,1.5-1.2,2.7-2.7,2.7c-1.5,0-2.7-1.2-2.7-2.7c0-1.5,1.2-2.7,2.7-2.7c0,0,0,0,0,0C84.3,21.8,85.5,23,85.5,24.5z"/>
+        <rect id="cubito" fill="white" x="60" y="0" width="50" height="50"></rect>
+    </g>
+</svg>
