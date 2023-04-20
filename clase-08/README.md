@@ -42,17 +42,17 @@ Sea que usemos una imagen rasterizada o una vectorizada (SVG), o una rasterizada
 
 - - - - - - - - - -
 
-Yendo más allá de las gráficas e imágenes que les ofrecen soporte, **en la infografía digital también nos corresponde**:
+Yendo más allá de las gráficas y formatos de imagen que les ofrecen soporte, **en la infografía digital también nos corresponde**:
 
-- **cuidar las redacciones de texto** con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
+- **cuidar las redacciones de texto** con atención a algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/) 
 
-- **evaluar la accesibilidad** con [WAVE de WebAIM](https://wave.webaim.org/).
+- **evaluar la accesibilidad** con [WAVE de WebAIM](https://wave.webaim.org/)
 
-- **analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO)** con [Google Lighthouse](https://blog.interdominios.com/google-lighthouse/).
+- **analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO)** con [Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)
 
-- - - - - - - - - -
+- **ofrecer la mejor presentación posible a los buscadores y usuarios de redes sociales, cuidando los metadatos** con una de estas alternativas: https://metatags.io/ o https://megatags.co/
 
-Esto y algunas cosas más serán analizadas mediante lo preparado en una infografía digital con varias gráficas resueltas con SVG: https://profesorfaco.github.io/dno075-2023-1/clase-08/
+**Esto y algunas cosas más serán analizadas mediante lo preparado en una infografía digital con varias gráficas resueltas con SVG: https://profesorfaco.github.io/dno075-2023-1/clase-08/**
 
 - - - - - - - - - - - - -
 
