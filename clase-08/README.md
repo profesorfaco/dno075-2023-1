@@ -52,7 +52,7 @@ Yendo más allá de las gráficas e imágenes que les ofrecen soporte, **en la i
 
 - - - - - - - - - -
 
-Esto y algunas cosas más serán analizadas mediante lo preparado https://profesorfaco.github.io/dno075-2023-1/clase-08/
+Esto y algunas cosas más serán analizadas mediante lo preparado en una infografía digital con varias gráficas resueltas con SVG: https://profesorfaco.github.io/dno075-2023-1/clase-08/
 
 - - - - - - - - - - - - -
 
