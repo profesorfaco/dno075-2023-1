@@ -52,7 +52,18 @@ Yendo más allá de las gráficas y formatos de imagen que les ofrecen soporte, 
 
 - **ofrecer la mejor presentación posible a los buscadores y usuarios de redes sociales, cuidando los metadatos** con una de estas alternativas: https://metatags.io/ o https://megatags.co/
 
-**Esto y algunas cosas más serán analizadas mediante lo preparado en una infografía digital con varias gráficas resueltas con SVG: https://profesorfaco.github.io/dno075-2023-1/clase-08/**
+- - - - - - - - - - 
+
+#### AYUDA
+
+**Utilizaremos lo publicado en https://profesorfaco.github.io/dno075-2023-1/clase-08/**
+
+Es recomendable es que cada estudiante use [su cuenta en GitHub](https://github.com/) para:
+
+1. [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) con un nombre identificable (ej: `https://github.com/user/infodigital-clase-08`); y
+
+2. [activar GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) para poder ver su trabajo en línea, como página web construida con [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a la que cualquiera accede por [HTTP](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto), después de apuntar a una dirección única ([URL](https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme)) (ej: `https://user.github.io/infodigital-clase-08`)
+
 
 - - - - - - - - - - - - -
 
