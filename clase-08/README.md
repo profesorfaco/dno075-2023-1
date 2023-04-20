@@ -52,16 +52,7 @@ Yendo más allá de las gráficas e imágenes que les ofrecen soporte, **en la i
 
 - - - - - - - - - -
 
-**En el análisis de LightHouse no podremos alcanzar el 100 en SEO con lo que hemos revisado**; para poder alcazarlo, habría que agregar algunas líneas de código junto a las que habitualmente incluímos entre etiquetas `<head>` y `</head>` de cada `index.html`:
-
-```
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>El título</title>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous" />
-```
-
-Las líneas por agregar pueden ser generadas con los servicios de **[Meta Tags](https://metatags.io/)** o **[Mega Tags](https://megatags.co/)**. 
+Esto y algunas cosas más serán analizadas mediante lo preparado https://profesorfaco.github.io/dno075-2023-1/clase-08/
 
 - - - - - - - - - - - - -
 
