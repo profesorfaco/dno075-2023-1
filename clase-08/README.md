@@ -1,6 +1,6 @@
 # HTML, SVG y CSS
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 26/09/2022
+### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 25/04/2023
 
 Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para acortar camino en el uso de HTML y CSS.
 
