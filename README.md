@@ -31,26 +31,26 @@ Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el s
 
 [Clase 07 → 18/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-07) → Introducción a HTML, SVG y CSS ✓
 
-[Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → HTML, SVG y CSS
+[Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → HTML, SVG y CSS ✓
 
 **Clase 09 → 02/05/2023 → Receso de docencia bimestral** (se suspenden las clases; las evaluaciones académicas quedarán
 suspendidas entre el martes 2 y el lunes 8 de mayo inclusive)
 
-**[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Evaluación Nº2 → Pendiente** (está justo entre la vuelta de un receso y el último plazo para realizar el retiro de un curso de la carga académica semestral)
+[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Definición de temática, subtemáticas y grupos para el trabajo final
 
-[Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) → Definición de temática, subtemáticas y grupos para el trabajo final
+**[Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) →  Evaluación Nº2 → Avance de investigación, redacción linear y bocetaje para gráficos**
 
-**[Clase 12 → 23/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Evaluación Nº3 → Avance de investigación, redacción linear y bocetaje para gráficos** 
+[Clase 12 → 23/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas angostas (a considerar en punto de la evaluación Nº3)
 
-[Clase 13 → 30/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas angostas (a evaluar como parte del proceso)
+[Clase 13 → 30/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas anchas (a considerar en punto de la evaluación Nº3)
 
-[Clase 14 → 06/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Implementación de gráficos con SVG para pantallas anchas (a evaluar como parte del proceso)
+**[Clase 14 → 06/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Evaluación Nº3 → Despliegue de gráficos con SVG en HTML**
 
-[Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Despliegue de gráficos con SVG en HTML (a evaluar como parte del proceso)
+[Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
 
-[Clase 16 → 20/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16) → Ajustes de HTML, SVG y CSS (a evaluar como parte del proceso)
+[Clase 16 → 20/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16) → Más ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
 
-**[Clase 17 → 27/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17) → Evaluación Nº4 → Proceso y Entrega final**
+**[Clase 17 → 27/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17) → Evaluación Nº4 → Entrega final**
 
 
 - - - - - - - - - -
