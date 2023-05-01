@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Título de la infografía</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous" />
+        <style>
+            :root {
+                --bs-link-color: #000051;
+                --bs-link-hover-color: #ff8f00;
+                --bs-code-color: #222;
+            }
+
+            @media (min-width: 768px) {
+                .container {
+                    max-width: 720px;
+                }
+            }
+
+            /* Aplico la Secuencia de Fibonacci en títulos (a nivel decimal, esto es 0,1 - 0,2 - 0,3 - 0,5 - 0,8…) */
+
+            h6 { font-size: 1.1rem; }
+            
+            h5 { font-size: 1.2rem; }
+            
+            h4 { font-size: 1.3rem; }
+            
+            h3 { font-size: 1.5rem; }
+            
+            h2 { font-size: 1.8rem; }
+
+            h1 { font-size: calc(2.3rem + 1.8vw); }
+
+            h4 span{
+                font-size: 200%;
+            }
+
+            /* Ajusto el énfasis al español */
+            em { font-weight: 600; font-style: normal;}
+
+            /* Hago más "amable" el cambio de los vínculos */
+            a{ transition: color ease 0.25s;}
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h6 class="text-center mt-5 mb-4">And you will read this last</h6>
+                        <h1 class="text-center my-3">You will read this first</h1>
+                        <h2 class="text-center mb-4">And then you will read this</h2>
+                        <h3 class="text-center mb-5">Then this one</h3>
+                    </div>
+                    <div class="col-11 col-sm-10 mx-auto">
+                        <p class="lead">Users do scroll, but only if what’s above the fold is promising enough. What is visible on the page without requiring any action is what encourages us to scroll. This is true on any size screen, be it mobile, tablet, or desktop: anything that’s hidden and that the user must uncover will only be seen if the user deems it worth the hassle (<a href="https://www.nngroup.com/articles/page-fold-manifesto/">The Fold Manifesto: Why the Page Fold Still Matters</a>).</p>
+                        <p>We’ve been saying this since 1997: <em>People rarely read online</em> — they’re far more likely to scan than read word for word. […] People don’t want to waste time or effort online. <em>As long as we’re designing content that acknowledges that reality</em> and helps to direct people to only the information they want, <em>we’ll be on the right track</em>. (<a href="https://www.nngroup.com/articles/how-people-read-online/">How People Read Online: New and Old Findings</a>).</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <article class="container">
+                <div class="row">
+                    <div class="col-11 col-sm-10 mx-auto">
+                        <h4 class="text-center mt-4 mb-3">Using clear, noticeable headings and subheadings</h4>
+                        <p>Presenten <em>su <a href="https://www.youtube.com/watch?t=2252&v=iEB3oILm-qQ&feature=youtu.be">storyboard</a> grupal</em>: Un esquema de papel al que se le tomó una fotografía, que luego puede ser ajustada en Photoshop o <a href="https://www.photopea.com/">Photopea</a>, así cada indicación resulta legible; es muy recomendable que en cada post-it en el storyboard se pueda leer claramente <a href="https://datavizcatalogue.com/ES/buscar.html">lo que desean mostrar</a>.</p>
+                    </div>
+                    <div class="col-sm-11 mx-auto">
+                        <img src="img/storyboard.png" class="w-100 shadow-sm" />
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-11 col-sm-10 mx-auto">
+                            <h4 class="text-center mt-5 mb-3">Using clear, noticeable headings and subheadings</h4>
+                            <p>Presenten tantos <a href="https://sketching4ids.wordpress.com/sketches-classification/" class="fst-italic">explorative sketches</a> como integrantes tenga el grupo: <em>Es un boceto por cada integrante del grupo</em>. Cada boceto es la interpretación de un integrante para el storyboard grupal.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
+                        <!--un boceto-->
+                        <div class="col text-center">
+                            <figure class="shadow-sm">
+                                <img src="img/boceto.png" class="w-100" />
+                                <figcaption class="small mb-4 p-2">Nombre Apellido</figcaption>
+                            </figure>
+                        </div>
+                        <!--un boceto-->
+                        <div class="col text-center">
+                            <figure class="shadow-sm">
+                                <img src="img/boceto.png" class="w-100" />
+                                <figcaption class="small mb-4 p-2">Nombre Apellido</figcaption>
+                            </figure>
+                        </div>
+                        <!--un boceto-->
+                        <div class="col text-center">
+                            <figure class="shadow-sm">
+                                <img src="img/boceto.png" class="w-100" />
+                                <figcaption class="small mb-4 p-2">Nombre Apellido</figcaption>
+                            </figure>
+                        </div>
+                        <!--un boceto-->
+                        <div class="col text-center">
+                            <figure class="shadow-sm">
+                                <img src="img/boceto.png" class="w-100" />
+                                <figcaption class="small mb-4 p-2">Nombre Apellido</figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <article class="container">
+                <div class="row">
+                    <div class="col-11 col-sm-10 mx-auto">
+                        <h4 class="text-center mt-5 mb-3">Using clear, noticeable headings and subheadings</h4>
+                        <p>Siguiendo el <a href="https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4">proceso del <i>design studio</i> presentado por Jacky Chen</a>, después de presentación y crítica grupal de los bocetos de cada integrante pueden armarse <em>duplas para fusionar y refinar sus <a href="https://sketching4ids.wordpress.com/sketches-classification/" class="fst-italic">explorative sketches</a></em>.</p>
+                    </div>
+                    <div class="col-sm-11 mx-auto">
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+                            <!--un boceto-->
+                            <div class="col text-center">
+                                <figure class="shadow-sm">
+                                    <img src="img/boceto.png" class="w-100" />
+                                    <figcaption class="small mb-4 p-2">Nombre Apellido y Nombre Apellido</figcaption>
+                                </figure>
+                            </div>
+                            <!--un boceto-->
+                            <div class="col text-center">
+                                <figure class="shadow-sm">
+                                    <img src="img/boceto.png" class="w-100" />
+                                    <figcaption class="small mb-4 p-2">Nombre Apellido y Nombre Apellido</figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <article class="container">
+                <div class="row">
+                    <div class="col-11 col-sm-10 mx-auto">
+                        <h4 class="text-center mt-4 mb-3">Using clear, noticeable headings and subheadings</h4>
+                        <p>
+                            Para cerrar, <em>presenten un <a href="https://sketching4ids.wordpress.com/sketches-classification/">explanatory sketch</a></em>: Now each pair has gotten feedback and developed ideas further. The team now has to converge on one idea (<a href="https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4">Lean UX: Running A Design Studio</a>). 
+                        </p>
+                    </div>
+                    <div class="col-sm-11 mx-auto">
+                        <img src="img/boceto.png" class="w-100 shadow-sm" />
+                    </div>
+                </div>
+            </article>
+        </main>
+
+        <footer class="container">
+            <div class="row">
+                <div class="col-11 col-sm-10 mx-auto text-muted small">
+                    <p class="mt-4">
+                        Pueden cerrar con un vínculo a su repositorio de organización, un comentario sobre la experiencia o, si quisieran, una autoevaluación.
+                    </p>
+                    <p class="text-center my-4">
+                        <a href="https://github.com/profesorfaco/dno075-2023-1" class="link-secondary">Infografía Digital</a><br />
+                        16/05/2023
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
