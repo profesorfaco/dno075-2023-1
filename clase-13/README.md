@@ -1,4 +1,4 @@
-# Implementación de gráficos con SVG para pantallas angostas
+# Implementación de gráficos con SVG para pantallas anchas (a considerar en punto de la evaluación Nº3)
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 13 → 30/05/2022
 
