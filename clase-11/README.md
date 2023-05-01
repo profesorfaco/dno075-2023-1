@@ -1,4 +1,4 @@
-# Definición de temática, subtemáticas y grupos para el trabajo final
+# Evaluación Nº2 → Avance de investigación, redacción linear y bocetaje para gráficos
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 11 → 16/05/2022
 
