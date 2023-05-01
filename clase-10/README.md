@@ -33,9 +33,15 @@ VERSIÓN 1. CONFLICTOS SOCIOAMBIENTALES:
 
 - - - - - - - - - - 
 
-**Veamos un ejemplo de las capacidades individuales complementadas**: Detrás de [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/) hay 4 personas; tenemos a [Gloria Dickie](https://twitter.com/GloriaDickie) escribiendo algo sobre *Global Climate & Environment*, mientras [Adolfo Arranz](https://twitter.com/adolfux) pudo encargarse de la gráfica figurativa (a mano alzada), [Simon Scarr](http://www.simonscarr.com/) pudo encargarse de la gráfica no figurativa, y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/) pudo aportar al desarrollo de ambas. Todas sus capacidades convergen en una única pieza que se recorre verticalmente, convergen en un todo de [redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) que es distinto de la suma de las partes.
+**Veamos un par de ejemplos de las capacidades individuales complementadas**: 
 
-A tal convergencia se podría llegar si es que **primero el grupo se informa para poder informar** (no se puede hacer pedagogía visual o ninguna pedagogía si es que no se domina el tema que se pretende enseñar). 
+Detrás de [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/) hay 4 personas; tenemos a [Gloria Dickie](https://twitter.com/GloriaDickie) escribiendo algo sobre *Global Climate & Environment*, mientras [Adolfo Arranz](https://twitter.com/adolfux) pudo encargarse de la gráfica figurativa (a mano alzada), [Simon Scarr](http://www.simonscarr.com/) pudo encargarse de la gráfica no figurativa, y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/) pudo aportar al desarrollo de ambas. Todas sus capacidades convergen en una única pieza que se recorre verticalmente, convergen en un todo de [redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) que es distinto de la suma de las partes.
+
+Detrás de [Digging in](https://www.reuters.com/graphics/UKRAINE-CRISIS/COUNTEROFFENSIVE/mopakddwbpa/) hay 3 personas; tenemos nuevamente a [Adolfo Arranz](https://twitter.com/adolfux) pudo encargarse de la gráfica figurativa (a mano alzada), cuya "mano" ya podrían reconocer, junto a [Vijdan Mohammad Kawoosa](https://twitter.com/vijdankawoosa) y [Gerry Doyle](https://twitter.com/mgerrydoyle).
+
+Tomando tales tales referencias proponemos grupos de 4 o 3 estudiantes, con capacidades complementándose.
+
+Lo que correponde a cada grupo es primero informarse para poder informar** (no se puede hacer pedagogía visual si antes no se domina el tema que se pretende enseñar). 
 
 Lo **segundo sería organizar la información a presentar**, para esto se puede crear un esquema de papel tipo *story board* (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
 
