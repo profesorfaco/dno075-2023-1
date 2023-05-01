@@ -1,4 +1,4 @@
-# Evaluación Nº3 → Avance de investigación y bocetaje
+# Implementación de gráficos con SVG para pantallas angostas (a considerar en punto de la evaluación Nº3)
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 12 → 23/05/2022 
 
