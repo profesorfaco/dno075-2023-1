@@ -1,4 +1,4 @@
-# Evaluación Nº2 → Pendiente (está justo entre la vuelta de un receso y el último plazo para realizar el retiro de un curso de la carga académica semestral)
+# Definición de temática, subtemáticas y grupos para el trabajo final
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 10 → 09/05/2022
 
