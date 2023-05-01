@@ -1,4 +1,4 @@
-# Despliegue de gráficos con SVG en HTML
+# Ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 15 → 13/06/2023
 
