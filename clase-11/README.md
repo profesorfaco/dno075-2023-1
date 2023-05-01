@@ -44,10 +44,6 @@ Se les recomienda leer las instrucciones en la misma [página ya preparada](http
 
 **Serán evaluados sólo los trabajos grupales que estén operativos en línea antes del fin del horario de la clase (12.50 hrs.)** 
 
-**Los detalles de sus evaluaciones los podrán encontrar en Drive: [CLASE-12-dno075-2023-1--PRUEBA](https://docs.google.com/spreadsheets/d/1FhdY8XJN11Zo66bKxQWPlNTTl9f2E-31ba8cYqoVZ-E/edit?usp=sharing)**
-
-Si el grupo obtiene la máxima calificación, podrá pasar a la implementación donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas. Si es que obtienen otras calificaciones: Habría que conversar, y después de tal conversación podrían pasar a la implementación.
-
 - - - - - - - - 
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) 
