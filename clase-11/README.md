@@ -34,7 +34,7 @@ Se les recomienda leer las instrucciones en la misma [página ya preparada](http
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
 | **Cuenta de la organización**: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25), cada una/o bien identificable gracias a nombre y/o avatar personal editado (0,25) | 1.0 |
-| **Avance en el [README.md de la clase 11](https://docs.google.com/spreadsheets/d/17cxDrIpKTU8JZrXbbQH6Rw84CJAK54SU4KHOoTcjVhY/edit?usp=sharing)**: Se repetirá el puntaje que cada grupo obtenga por lo que alcancen a modificar antes de las 23.59 hrs. del lunes 17 de octubre | 1.0 |
+| **Avance en el README.md de la clase 10**: ya evaluado según logro | 1.0 |
 | **Storyboard**: Toman "al pie de la letra" la indicación que el Dr. García presenta en el video ya varias veces compartido (entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)) | 1.0 |
 | **4 bocetos**: Son 4 [EXPLORATIVE SKETCHES](https://sketching4ids.wordpress.com/sketches-classification/) –*They are often very rough and do seldom make sense for others than the people directly involved in the design process*–, estos ofrecen alternativas suficientemente divergentes para el desarrollo de un mismo storyboard. | 1.0 |
 | **2 bocetos**: Son 2 [EXPLORATIVE SKETCHES](https://sketching4ids.wordpress.com/sketches-classification/) –*They are often very rough and do seldom make sense for others than the people directly involved in the design process*–, ambos ofrecen la convergencia efectiva de un par de alternativas ya desarrolladas, sin caer en un collage tipo "consenso de buena onda". | 1.0 |
