@@ -1,4 +1,4 @@
-# Ajustes de HTML, SVG y CSS
+# Más ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 16 → 20/06/2023
 
