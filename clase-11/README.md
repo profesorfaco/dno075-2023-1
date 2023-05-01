@@ -27,9 +27,9 @@ Agreguemos, a lo que ya se había presentado en la clase recién pasada, que **n
 
 Recuerden que ya no trabajaremos en repositorios creados en cuentas personales. Desde la clase pasada trabajamos en [cuentas de organizaciones](https://docs.github.com/es/organizations)
 
-**Y en un nuevo repositorio de organización deben publicar la prueba de hoy, que parte aprovechándose de [esta página ya preparada](https://profesorfaco.github.io/dno075-2023-1/clase-12/)**.
+**Y en un nuevo repositorio de organización deben publicar la prueba de hoy, que parte aprovechándose de [esta página ya preparada](https://profesorfaco.github.io/dno075-2023-1/clase-11/)**.
 
-Se les recomienda leer las instrucciones en la misma [página ya preparada](https://profesorfaco.github.io/dno075-2023-1/clase-12/) y la siguiente pauta de evaluación:
+Se les recomienda leer las instrucciones en la misma [página ya preparada](https://profesorfaco.github.io/dno075-2023-1/clase-11/) y la siguiente pauta de evaluación:
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
