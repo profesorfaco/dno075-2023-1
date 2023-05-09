@@ -71,7 +71,7 @@ Tal temática podría dividirse con las [disciplinas en competencia](https://es.
 
 **Lo que cada grupo de 4 integrantes hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
 
-**En el primer repositorio de la organización, que deben crear en la clase de hoy (clase 11), sólo corresponde trabajar con el `README.md` para publicar apuntes de la investigación grupal sobre temática y sub-temática.**
+**En el primer repositorio de la organización, que deben crear en la clase de hoy (clase 10), sólo corresponde trabajar con el `README.md` para publicar apuntes de la investigación grupal sobre temática y sub-temática.**
 
 Para poder organizar esos apuntes, conviene aprovechar estas *cheat sheets* de Markdown:
 
