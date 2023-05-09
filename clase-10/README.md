@@ -57,6 +57,14 @@ JUEGOS PANAMERICANOS DE 2023
 
 Tal temática podría dividirse con las [disciplinas en competencia](https://es.wikipedia.org/wiki/Juegos_Panamericanos_de_2023#Sedes_e_instalaciones_deportivas). 
 
+**GRUPOS**
+ 
+1 - Daniel Carmona, Vicente de Vidts, Clara Echeverría y Magdalena Pino →  Gimnasia ([Gimnasia acrobática](https://es.wikipedia.org/wiki/Gimnasia_acrob%C3%A1tica), [Gimnasia artística](https://es.wikipedia.org/wiki/Gimnasia_art%C3%ADstica), [Gimnasia rítmica](https://es.wikipedia.org/wiki/Gimnasia_r%C3%ADtmica)) → Organización en GitHub
+
+2 - Emmet Chavez, Paloma Navarrete, Maximiliano Ramírez → [Taekwondo](https://es.wikipedia.org/wiki/Taekwondo) → Organización en GitHub
+
+3 - Yann Kuo, Antonia Tapia, Florencia Valdivieso y Emilia Vergara → Voleibol ([Voleibol](https://es.wikipedia.org/wiki/Voleibol), [Voleibol de playa](https://es.wikipedia.org/wiki/Voleibol_de_playa)) → Organización en GitHub
+
 - - - - - - - - - - 
 
 **Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales**. 
