@@ -41,7 +41,7 @@ Detrás de [Digging in](https://www.reuters.com/graphics/UKRAINE-CRISIS/COUNTERO
 
 Tomando tales tales referencias proponemos grupos de 4 o 3 estudiantes, con capacidades complementándose.
 
-Lo que correponde a cada grupo es primero informarse para poder informar** (no se puede hacer pedagogía visual si antes no se domina el tema que se pretende enseñar). 
+Lo que correponde a cada grupo es primero **informarse para poder informar** (no se puede hacer pedagogía visual si antes no se domina el tema que se pretende enseñar). 
 
 Lo **segundo sería organizar la información a presentar**, para esto se puede crear un esquema de papel tipo *story board* (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
 
