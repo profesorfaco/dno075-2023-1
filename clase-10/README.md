@@ -65,6 +65,16 @@ Tal temática podría dividirse con las [disciplinas en competencia](https://es.
 
 3 - Yann Kuo, Antonia Tapia, Florencia Valdivieso y Emilia Vergara → Voleibol ([Voleibol](https://es.wikipedia.org/wiki/Voleibol), [Voleibol de playa](https://es.wikipedia.org/wiki/Voleibol_de_playa)) → https://github.com/Voleibol
 
+En su README.md, y respectivamente, deberían tener más que: 
+
+- https://www.santiago2023.org/es/deportes/gimnasia-artistica-femenina.html
+
+- https://www.santiago2023.org/es/deportes/taekwondo.html
+
+- https://www.santiago2023.org/es/deportes/voleibol.html
+
+Si tienen más que eso, llegarán en mejor pie a la prueba de la próxima clase.
+
 - - - - - - - - - - 
 
 **Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales**. 
