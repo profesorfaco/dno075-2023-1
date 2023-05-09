@@ -59,7 +59,7 @@ Tal temática podría dividirse con las [disciplinas en competencia](https://es.
 
 **GRUPOS**
  
-1 - Daniel Carmona, Vicente de Vidts, Clara Echeverría y Magdalena Pino →  Gimnasia ([Gimnasia acrobática](https://es.wikipedia.org/wiki/Gimnasia_acrob%C3%A1tica), [Gimnasia artística](https://es.wikipedia.org/wiki/Gimnasia_art%C3%ADstica), [Gimnasia rítmica](https://es.wikipedia.org/wiki/Gimnasia_r%C3%ADtmica)) → Organización en GitHub
+1 - Daniel Carmona, Vicente de Vidts, Clara Echeverría y Magdalena Pino →  Gimnasia ([Gimnasia acrobática](https://es.wikipedia.org/wiki/Gimnasia_acrob%C3%A1tica), [Gimnasia artística](https://es.wikipedia.org/wiki/Gimnasia_art%C3%ADstica), [Gimnasia rítmica](https://es.wikipedia.org/wiki/Gimnasia_r%C3%ADtmica)) → https://github.com/grupitobakan
 
 2 - Emmet Chavez, Paloma Navarrete, Maximiliano Ramírez → [Taekwondo](https://es.wikipedia.org/wiki/Taekwondo) → Organización en GitHub
 
