@@ -63,7 +63,7 @@ Tal temática podría dividirse con las [disciplinas en competencia](https://es.
 
 2 - Emmet Chavez, Paloma Navarrete, Maximiliano Ramírez → [Taekwondo](https://es.wikipedia.org/wiki/Taekwondo) → Organización en GitHub
 
-3 - Yann Kuo, Antonia Tapia, Florencia Valdivieso y Emilia Vergara → Voleibol ([Voleibol](https://es.wikipedia.org/wiki/Voleibol), [Voleibol de playa](https://es.wikipedia.org/wiki/Voleibol_de_playa)) → Organización en GitHub
+3 - Yann Kuo, Antonia Tapia, Florencia Valdivieso y Emilia Vergara → Voleibol ([Voleibol](https://es.wikipedia.org/wiki/Voleibol), [Voleibol de playa](https://es.wikipedia.org/wiki/Voleibol_de_playa)) → https://github.com/Voleibol
 
 - - - - - - - - - - 
 
