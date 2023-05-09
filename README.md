@@ -34,9 +34,9 @@ Considerando los días martes entre 7 de marzo y 27 de junio, proyectamos **el s
 [Clase 08 → 25/04/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) → HTML, SVG y CSS ✓
 
 **Clase 09 → 02/05/2023 → Receso de docencia bimestral** (se suspenden las clases; las evaluaciones académicas quedarán
-suspendidas entre el martes 2 y el lunes 8 de mayo inclusive)
+suspendidas entre el martes 2 y el lunes 8 de mayo inclusive) ✓
 
-[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Definición de temática, subtemáticas y grupos para el trabajo final
+[Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Definición de temática, subtemáticas y grupos para el trabajo final ✓
 
 **[Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) →  Evaluación Nº2 → Avance de investigación, redacción linear y bocetaje para gráficos**
 
