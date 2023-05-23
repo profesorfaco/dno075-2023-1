@@ -38,7 +38,7 @@ suspendidas entre el martes 2 y el lunes 8 de mayo inclusive) ✓
 
 [Clase 10 → 09/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) → Definición de temática, subtemáticas y grupos para el trabajo final ✓
 
-**[Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) →  Evaluación Nº2 → Avance de investigación, redacción linear y bocetaje para gráficos**
+**[Clase 11 → 16/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-11) →  Evaluación Nº2 → Avance de investigación, redacción linear y bocetaje para gráficos ✓**
 
 [Clase 12 → 23/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas angostas (a considerar en punto de la evaluación Nº3)
 
