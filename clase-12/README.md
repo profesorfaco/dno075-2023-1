@@ -2,11 +2,6 @@
 
 ### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 12 → 23/05/2022 
 
-En la clase de hoy revisaremos la manera en que justifican y resuelven cada gráfica, sea figurativa, no figurativa o mixta. En ellas corresponde:
-
-- alejarse del [Chart Junk](https://infovis-wiki.net/wiki/Chart_Junk) y el [Lie Factor](https://infovis-wiki.net/wiki/Lie_Factor); 
-- confiarse de [la tabla periódica de métodos de visualización](https://www.visual-literacy.org/periodic_table/periodic_table.html) y [el catálogo de visualización de datos](https://datavizcatalogue.com/ES/buscar.html).
-
 Corresponde considerar que estas gráficas [muestran algo que complementa a un texto](https://youtu.be/iEB3oILm-qQ?t=2023): 
 
 > Es un puro Instagram; una imagen con texto. Así es como contamos historias, y es lo que ustedes hacen en el teléfono […] He llegado a este restaurant, mira que hermoso, foto, ahora me acaban de servir un plato de sushi, mira que bien, foto. Escribimos y mostramos.
