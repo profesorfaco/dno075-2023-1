@@ -42,9 +42,9 @@ suspendidas entre el martes 2 y el lunes 8 de mayo inclusive) ✓
 
 [Clase 12 → 23/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas angostas (a considerar en punto de la evaluación Nº3) ✓
 
-[Clase 13 → 30/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas anchas (a considerar en punto de la evaluación Nº3)
+[Clase 13 → 30/05/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) → Implementación de gráficos con SVG para pantallas anchas (a considerar en punto de la evaluación Nº3) ✓
 
-**[Clase 14 → 06/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Evaluación Nº3 → Despliegue de gráficos con SVG en HTML**
+**[Clase 14 → 06/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Evaluación Nº3 → Despliegue de gráficos con SVG en HTML ✓**
 
 [Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
 
