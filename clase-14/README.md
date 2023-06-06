@@ -23,11 +23,11 @@ En esta clase, la 14, la entrega debe considar:
 
 Se evaluará con tal pauta lo que los grupos tengan al final de la clase (12.50 hrs.) en las siguientes direcciones:
 
-- https://github.com/Voleibol/clase-14
+- https://voleibol.github.io/clase-14/
 
-- https://grupitobakan.github.io/clase-14
+- https://grupitobakan.github.io/clase-14/
 
-- https://taekwond0.github.io/clase_14
+- https://taekwond0.github.io/clase-14/
 
 
 - - - - - - - - - - - -
