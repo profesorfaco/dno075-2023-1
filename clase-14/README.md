@@ -21,6 +21,15 @@ En esta clase, la 14, la entrega debe considar:
 | Punto base | 1.0 |
 | **TOTAL** | **7.0** |
 
+Se evaluará con tal pauta lo que los grupos tengan al final de la clase (12.50 hrs.) en las siguientes direcciones:
+
+- https://github.com/Voleibol/clase-14
+
+- https://grupitobakan.github.io/clase-14
+
+- https://taekwond0.github.io/clase_14
+
+
 - - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15)
