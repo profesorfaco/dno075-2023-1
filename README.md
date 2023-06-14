@@ -46,7 +46,7 @@ suspendidas entre el martes 2 y el lunes 8 de mayo inclusive) ✓
 
 **[Clase 14 → 06/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) → Evaluación Nº3 → Despliegue de gráficos con SVG en HTML ✓**
 
-[Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
+[Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4) ✓
 
 [Clase 16 → 20/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16) → Más ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
 
