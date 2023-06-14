@@ -27,6 +27,14 @@ Estas insistencias se pueden conectar con la idea de [la copia como necesaria pa
 
 El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17).
 
+Los avances a considerar son los que se despliegan en:
+
+https://voleibol.github.io/clase-15/
+
+https://grupitobakan.github.io/clase-15/
+
+https://taekwond0.github.io/clase-15/
+
 - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16)
