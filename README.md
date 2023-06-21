@@ -48,7 +48,7 @@ suspendidas entre el martes 2 y el lunes 8 de mayo inclusive) ✓
 
 [Clase 15 → 13/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) → Ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4) ✓
 
-[Clase 16 → 20/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16) → Más ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4)
+[Clase 16 → 20/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16) → Más ajustes de HTML, SVG y CSS (a considerar en puntos de la evaluación Nº4) ✓
 
 **[Clase 17 → 27/06/2023](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17) → Evaluación Nº4 → Entrega final**
 
