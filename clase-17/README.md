@@ -2,7 +2,15 @@
 
 ###  [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 17 → 27/06/2023
 
-**Hoy cerramos el optativo con la cuarta evaluación** a basarse en la siguiente pauta:
+**Hoy cerramos el optativo con la cuarta evaluación** con las siguientes entregas:
+
+- https://grupitobakan.github.io/final/
+
+- https://taekwond0.github.io/final/
+
+- https://voleibol.github.io/final/
+
+Cada entrega será evaluada con:
 
 | Criterio | Puntaje |
 |:---------|:-------:|
@@ -17,11 +25,7 @@
 
 **Las entregas a evaluar son las siguientes**
 
-- https://grupitobakan.github.io/final/
 
-- https://taekwond0.github.io/final/
-
-- https://voleibol.github.io/final/
 
 - - - - - - - - - - -
 
