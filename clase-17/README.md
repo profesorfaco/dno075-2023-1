@@ -18,14 +18,10 @@ Cada entrega será evaluada con:
 | Accessibility (ídem) | 1.0 |
 | Best Practices (ídem) | 1.0 |
 | SEO (ídem) | 1.0 | 
-| Avance en clase 14  | 1.0 |
-| Avance en clase 15  | 1.0 |
+| Avance en [clase 15](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15)  | 1.0 |
+| Avance en [clase 16](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16)  | 1.0 |
 | Punto base | 1.0 |
 | **TOTAL** | **7.0** |
-
-**Las entregas a evaluar son las siguientes**
-
-
 
 - - - - - - - - - - -
 
